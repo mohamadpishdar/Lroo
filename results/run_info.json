@@ -1,0 +1,350 @@
+{
+  "split": {
+    "split": "temporal, ordered by project start date",
+    "n_train": 763,
+    "n_test": 191,
+    "first_test_start": "2023-09-15",
+    "last_train_start": "2023-09-13",
+    "train_rug_pulls": 423,
+    "train_legitimate": 340,
+    "test_rug_pulls": 142,
+    "test_legitimate": 49,
+    "train_projects_ending_after_cutoff": 514
+  },
+  "environment": {
+    "python": "3.13.18",
+    "numpy": "2.5.3",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.0",
+    "xgboost": "3.4.1",
+    "lightgbm": "4.7.0",
+    "imbalanced-learn": "0.14.2",
+    "seed": 42,
+    "log_transform": true,
+    "n_bootstrap": 1000,
+    "n_permutation_repeats": 15,
+    "n_tuning_iter": 30,
+    "n_time_splits": 5
+  },
+  "tuned_params": {
+    "full": {
+      "XGBoost (tuned)": {
+        "subsample": 1.0,
+        "reg_lambda": 1.0,
+        "n_estimators": 800,
+        "min_child_weight": 3,
+        "max_depth": 6,
+        "learning_rate": 0.01,
+        "colsample_bytree": 0.8,
+        "cv_roc_auc": 0.9459974779658005
+      },
+      "LightGBM (tuned)": {
+        "subsample_freq": 1,
+        "subsample": 1.0,
+        "reg_lambda": 0.0,
+        "num_leaves": 7,
+        "n_estimators": 800,
+        "min_child_samples": 10,
+        "learning_rate": 0.2,
+        "colsample_bytree": 0.6,
+        "cv_roc_auc": 0.9537156219754633
+      }
+    },
+    "no_osint": {
+      "XGBoost (tuned)": {
+        "subsample": 0.6,
+        "reg_lambda": 1.0,
+        "n_estimators": 100,
+        "min_child_weight": 1,
+        "max_depth": 4,
+        "learning_rate": 0.01,
+        "colsample_bytree": 0.8,
+        "cv_roc_auc": 0.9123286208482366
+      },
+      "LightGBM (tuned)": {
+        "subsample_freq": 1,
+        "subsample": 1.0,
+        "reg_lambda": 0.0,
+        "num_leaves": 63,
+        "n_estimators": 400,
+        "min_child_samples": 40,
+        "learning_rate": 0.05,
+        "colsample_bytree": 0.6,
+        "cv_roc_auc": 0.9221806561023257
+      }
+    },
+    "no_lifetime": {
+      "XGBoost (tuned)": {
+        "subsample": 0.6,
+        "reg_lambda": 10.0,
+        "n_estimators": 200,
+        "min_child_weight": 1,
+        "max_depth": 4,
+        "learning_rate": 0.2,
+        "colsample_bytree": 0.6,
+        "cv_roc_auc": 0.9499357061267814
+      },
+      "LightGBM (tuned)": {
+        "subsample_freq": 1,
+        "subsample": 0.6,
+        "reg_lambda": 1.0,
+        "num_leaves": 31,
+        "n_estimators": 800,
+        "min_child_samples": 5,
+        "learning_rate": 0.2,
+        "colsample_bytree": 0.6,
+        "cv_roc_auc": 0.9588087913152785
+      }
+    },
+    "midpoint_bounded": {
+      "XGBoost (tuned)": {
+        "subsample": 0.8,
+        "reg_lambda": 1.0,
+        "n_estimators": 200,
+        "min_child_weight": 1,
+        "max_depth": 4,
+        "learning_rate": 0.03,
+        "colsample_bytree": 0.6,
+        "cv_roc_auc": 0.8912129236889468
+      },
+      "LightGBM (tuned)": {
+        "subsample_freq": 1,
+        "subsample": 0.8,
+        "reg_lambda": 1.0,
+        "num_leaves": 15,
+        "n_estimators": 200,
+        "min_child_samples": 10,
+        "learning_rate": 0.03,
+        "colsample_bytree": 0.6,
+        "cv_roc_auc": 0.8878469790832069
+      }
+    },
+    "midpoint_bounded_no_osint": {
+      "XGBoost (tuned)": {
+        "subsample": 0.8,
+        "reg_lambda": 1.0,
+        "n_estimators": 400,
+        "min_child_weight": 1,
+        "max_depth": 3,
+        "learning_rate": 0.01,
+        "colsample_bytree": 0.6,
+        "cv_roc_auc": 0.7395558349934845
+      },
+      "LightGBM (tuned)": {
+        "subsample_freq": 1,
+        "subsample": 0.8,
+        "reg_lambda": 10.0,
+        "num_leaves": 63,
+        "n_estimators": 100,
+        "min_child_samples": 40,
+        "learning_rate": 0.01,
+        "colsample_bytree": 0.6,
+        "cv_roc_auc": 0.7412569773179731
+      }
+    },
+    "launch_day": {
+      "XGBoost (tuned)": {
+        "subsample": 0.6,
+        "reg_lambda": 1.0,
+        "n_estimators": 100,
+        "min_child_weight": 3,
+        "max_depth": 8,
+        "learning_rate": 0.01,
+        "colsample_bytree": 0.8,
+        "cv_roc_auc": 0.8985133720961936
+      },
+      "LightGBM (tuned)": {
+        "subsample_freq": 1,
+        "subsample": 0.6,
+        "reg_lambda": 0.0,
+        "num_leaves": 15,
+        "n_estimators": 200,
+        "min_child_samples": 10,
+        "learning_rate": 0.01,
+        "colsample_bytree": 0.6,
+        "cv_roc_auc": 0.8970242930143424
+      }
+    },
+    "fame_baseline": {
+      "XGBoost (tuned)": {
+        "subsample": 0.8,
+        "reg_lambda": 0.1,
+        "n_estimators": 800,
+        "min_child_weight": 5,
+        "max_depth": 8,
+        "learning_rate": 0.03,
+        "colsample_bytree": 0.8,
+        "cv_roc_auc": 0.7491930719049685
+      },
+      "LightGBM (tuned)": {
+        "subsample_freq": 1,
+        "subsample": 0.8,
+        "reg_lambda": 10.0,
+        "num_leaves": 63,
+        "n_estimators": 400,
+        "min_child_samples": 20,
+        "learning_rate": 0.05,
+        "colsample_bytree": 0.8,
+        "cv_roc_auc": 0.7516602580519807
+      }
+    }
+  },
+  "dropped_columns": {
+    "Project Title": "identifier",
+    "Sign": "identifier (token symbol)",
+    "website": "identifier (URL)",
+    "x profile": "identifier (URL)",
+    "Smart Contract (online)": "constant (998 of 1,000 identical, differs only in letter case)",
+    "smart Contract (offline)": "constant (single value)"
+  },
+  "feature_tiers": {
+    "launch": [
+      "Search Hits: Title (Launch Day)",
+      "Search Hits: Website (Launch Day)",
+      "Search Hits: X Profile (Launch Day)",
+      "Blockchain",
+      "Consensus Mechanism"
+    ],
+    "midpoint": [
+      "Max Price Q1",
+      "Max Price Q2",
+      "Search Hits: Title (Midpoint)",
+      "Search Hits: Website (Midpoint)",
+      "Search Hits: X Profile (Midpoint)"
+    ],
+    "end": [
+      "Project Duration (days)",
+      "Max Price Q3",
+      "Max Price Q4",
+      "Transaction Count",
+      "Token Concentration Ratio",
+      "Holder Variance (All)",
+      "Holder Variance (Top 1%)",
+      "Initial Token Supply",
+      "Initial Deposit Count"
+    ]
+  },
+  "feature_sets": {
+    "full": {
+      "keeps": [
+        "Search Hits: Title (Launch Day)",
+        "Search Hits: Website (Launch Day)",
+        "Search Hits: X Profile (Launch Day)",
+        "Blockchain",
+        "Consensus Mechanism",
+        "Max Price Q1",
+        "Max Price Q2",
+        "Search Hits: Title (Midpoint)",
+        "Search Hits: Website (Midpoint)",
+        "Search Hits: X Profile (Midpoint)",
+        "Project Duration (days)",
+        "Max Price Q3",
+        "Max Price Q4",
+        "Transaction Count",
+        "Token Concentration Ratio",
+        "Holder Variance (All)",
+        "Holder Variance (Top 1%)",
+        "Initial Token Supply",
+        "Initial Deposit Count"
+      ],
+      "latest_tier": "end"
+    },
+    "no_osint": {
+      "keeps": [
+        "Blockchain",
+        "Consensus Mechanism",
+        "Max Price Q1",
+        "Max Price Q2",
+        "Project Duration (days)",
+        "Max Price Q3",
+        "Max Price Q4",
+        "Transaction Count",
+        "Token Concentration Ratio",
+        "Holder Variance (All)",
+        "Holder Variance (Top 1%)",
+        "Initial Token Supply",
+        "Initial Deposit Count"
+      ],
+      "latest_tier": "end"
+    },
+    "no_lifetime": {
+      "keeps": [
+        "Search Hits: Title (Launch Day)",
+        "Search Hits: Website (Launch Day)",
+        "Search Hits: X Profile (Launch Day)",
+        "Blockchain",
+        "Consensus Mechanism",
+        "Max Price Q1",
+        "Max Price Q2",
+        "Search Hits: Title (Midpoint)",
+        "Search Hits: Website (Midpoint)",
+        "Search Hits: X Profile (Midpoint)",
+        "Transaction Count",
+        "Token Concentration Ratio",
+        "Holder Variance (All)",
+        "Holder Variance (Top 1%)",
+        "Initial Token Supply",
+        "Initial Deposit Count"
+      ],
+      "latest_tier": "end"
+    },
+    "midpoint_bounded": {
+      "keeps": [
+        "Search Hits: Title (Launch Day)",
+        "Search Hits: Website (Launch Day)",
+        "Search Hits: X Profile (Launch Day)",
+        "Blockchain",
+        "Consensus Mechanism",
+        "Max Price Q1",
+        "Max Price Q2",
+        "Search Hits: Title (Midpoint)",
+        "Search Hits: Website (Midpoint)",
+        "Search Hits: X Profile (Midpoint)"
+      ],
+      "latest_tier": "midpoint"
+    },
+    "midpoint_bounded_no_osint": {
+      "keeps": [
+        "Blockchain",
+        "Consensus Mechanism",
+        "Max Price Q1",
+        "Max Price Q2"
+      ],
+      "latest_tier": "midpoint"
+    },
+    "launch_day": {
+      "keeps": [
+        "Search Hits: Title (Launch Day)",
+        "Search Hits: Website (Launch Day)",
+        "Search Hits: X Profile (Launch Day)",
+        "Blockchain",
+        "Consensus Mechanism"
+      ],
+      "latest_tier": "launch"
+    },
+    "fame_baseline": {
+      "keeps": [
+        "Search Hits: Title (Launch Day)",
+        "Search Hits: Title (Midpoint)",
+        "Search Hits: Website (Launch Day)",
+        "Search Hits: Website (Midpoint)"
+      ],
+      "latest_tier": "midpoint"
+    }
+  },
+  "main_feature_set": "midpoint_bounded",
+  "rolling_cutoffs": [
+    "2021-01-01",
+    "2022-01-01",
+    "2023-01-01",
+    "2024-01-01"
+  ],
+  "label_delay_days": 3,
+  "time_consistent_skipped": {
+    "full": {
+      "train rug pulls": 247,
+      "train legitimate": 0
+    }
+  },
+  "time_consistent_training_rule": "Projects that could have been in a training set built at `cutoff`.\n\nA project qualifies when (a) all features of the needed tier were observable\nbefore the cutoff and (b) its label was known: a rug pull only once its\ncollapse had been confirmed (end date + 72 hours) before the cutoff."
+}

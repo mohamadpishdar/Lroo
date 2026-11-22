@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.token
+results_local/
+paper/generated/_tmp/
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.synctex.gz

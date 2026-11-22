@@ -1,0 +1,124 @@
+row,verdict,confidence,reason,source_url
+2,rug pull / exit scam,high,HyperVerse/HyperFund widely reported as a Ponzi; SEC charged founder and promoter; BehindMLM reported the HVT token launch and collapse,https://cointelegraph.com/news/hyperverse-alleged-billion-dollar-ponzi-founder-promoter-charge-sec
+5,rug pull / exit scam,low,"Auto-staking scheme promising ~300,000% returns, widely described as Ponzi-like and founder publicly accused of scamming; no security-firm report of a liquidity drain found",https://www.axios.com/2022/06/15/crypto-project-promises-returns-safuu
+20,no information,low,No reliable public report found for this specific token,
+26,no information,low,"No reliable public report found for this specific token; the MetaDAO $3.2M rug (Ethereum, Dec 2021) is a different project",
+40,no information,low,No reliable public report found for this specific token,
+42,no information,low,Move-to-earn token listed on CMC/DappBay; no rug-pull report found in two searches,https://coinmarketcap.com/currencies/superstep/
+53,no information,low,No reliable public report found for this specific token,
+120,no information,low,No reliable public report found for this specific token,
+203,rug pull / exit scam,high,"CertiK and Cointelegraph: Safereum team exit-scammed ~$1.3M in Oct 2023, token fell 95%",https://www.certik.com/blog/safereum-exit-scam
+227,no information,low,No reliable public report found for this specific token (many unrelated GOAT tokens),
+291,no information,low,Only a CMC listing found; no rug-pull report,https://coinmarketcap.com/currencies/void-cash/
+409,"legitimate, later incident",high,Established NFT marketplace token; incident = July 2025 staking-contract exploit (~$730K RARE) by an outside attacker; no rug pull,https://cointelegraph.com/news/superrare-730-000-exploit-was-easily-preventable-experts-weigh-in
+416,hack / exploit by outsider,medium,March 2021 infinite-mint attack via compromised deployer key (~$3M); rug suspicions at the time but post-mortems treat it as a key compromise and the project continued,https://www.certik.com/blog/paid-network-post-mortem
+426,no information,low,GameFi token listed on CoinGecko; no rug-pull report found,https://www.coingecko.com/hr/coins/karastar-umy
+429,"legitimate, no incident found",medium,"Humans.ai is an operating, audited (Hacken) project; no rug-pull or exit report found",https://coinmarketcap.com/currencies/humans-ai/
+431,no information,low,No reliable public report found for this specific token,
+462,no information,low,GameFi token; appears in BNB Chain DappBay but no stated rug-pull report could be retrieved,https://dappbay.bnbchain.org/red-alarm/dapp/starmon
+465,rug pull / exit scam,high,CertiK and DappRadar: DecentraWorld rug pull drained >$1M in BNB (May 2022),https://www.certik.com/blog/revisiting-decentraworld
+557,no information,low,No reliable public report found for this specific token,
+568,no information,low,Real Korean ICO project once listed on Bithumb that faded; no rug-pull or exit-scam report found,https://www.crowdfundinsider.com/2018/11/141063-bithumb-adds-bezant-to-cryptocurrency-exchange/
+570,no information,low,No reliable public report found for this specific token,
+55,no information,low,Listed on CMC; no rug-pull report found,https://coinmarketcap.com/currencies/arenaplay/
+65,no information,low,Astronaut (NAUT) launchpad is listed on CMC; no rug-pull report found,https://coinmarketcap.com/currencies/astronaut/ratings/
+118,no information,low,No reliable public report found for this specific token,
+172,no information,low,Only a CMC listing found; no report specific to this token,
+184,no information,low,"2018 adult-industry ICO (on Ethereum, not BSC); only Steemit blog allegations, no credible exit-scam report",https://cryptoslate.com/coins/bunnytoken/
+259,no information,low,No reliable public report found for this specific token,
+297,rug pull / exit scam,high,PeckShield: the RocketSwap hacker used stolen ETH to create the LoveRCKT memecoin and then removed its liquidity (Aug 2023),https://www.gncrypto.news/news/hacker-targets-rocketswap-then-launches-meme-token/
+381,no information,low,No reliable public report found for this specific token,
+385,no information,low,No reliable public report found for this specific token,
+389,no information,low,No reliable public report found for this specific token; listed website is the unrelated Mysterium Network,
+390,no information,low,Only a CMC listing found; no rug-pull report,https://coinmarketcap.com/currencies/floki-inu-farm/social/
+391,no information,low,No reliable public report found for this specific token,
+393,no information,low,Only a CoinGecko listing found; no rug-pull report,https://www.coingecko.com/en/coins/magic-token
+414,hack / exploit by outsider,high,Sept 2021: 865 ETH (~$3M) stolen from the Jay Pegs Auto Mart MISO auction by an outside attacker (supply-chain attack); not a team rug,https://thedefiant.io/hunt-hacker-jay-pegs-auto-mart-3m/
+417,hack / exploit by outsider,high,May 2022 DNS hijack of the MM.Finance front end redirected ~$2M to an attacker; team published post-mortem and compensation,https://rekt.news/madmeerkat-finance-rekt
+419,rug pull / exit scam,high,BaseBros Fi deleted site and socials after draining ~$130K via an unaudited contract (Sept 2024),https://cointelegraph.com/news/basebros-fi-defi-rug-pull-smart-contract-base
+428,no information,low,DefiLlama marks AvoLend as deprecated; no rug-pull report found,https://defillama.com/protocol/avolend
+439,rug pull / exit scam,high,"Deployer removed ~$25M liquidity from BALD on Base (July 2023), price fell ~90%; widely reported as a rug pull (developer denied)",https://halborn.com/blog/post/explained-the-bald-token-rug-pull-july-2023
+440,rug pull / exit scam,medium,"CertiK/Halborn document the DeFiLabs rug pull (BSC, July 2023); this Ethereum DLABS token carries the same name but the link to that incident is not confirmed",https://www.certik.com/blog/post-mortem-defilabs
+444,no information,low,Only price listings found; no rug-pull report,https://www.coinmarketcap.com/currencies/hakuna-matata-finance/hkn/aud/
+449,rug pull / exit scam,medium,"Feb 2023: team paused the project and deleted Twitter after a ~$5M mint; widely reported as a (soft) rug pull, founders deny it",https://decrypt.co/121843/friendsies-rug-pull-nft-holders-could-the-community-take-over
+469,rug pull / exit scam,high,PulseDAO (Fantom Tomb fork) owner removed liquidity and all sites/accounts went offline in March 2022; RugDoc confirmed the rug,https://www.newsbtc.com/news/defi/this-rugged-ftm-based-protocol-sends-a-warning-about-defi-projects/
+477,rug pull / exit scam,high,Creator 'Evil Ape' absconded with ~$2.7M (2021); US prosecutors later charged three people,https://decrypt.co/234302/evolved-apes-nft-game-ethereum-crypto-rug-pull?amp=1
+499,rug pull / exit scam,low,"2019: BC authorities seized assets of Vanbex/Etherparty founders alleging misuse of ~$30M FUEL ICO proceeds (allegation, final outcome not verified); separately the 2017 ICO site was hacked by an outsider",https://thenextweb.com/hardfork/2019/04/01/vanbex-cryptocurrency-fuel-etherparty/
+500,no information,low,No reliable public report found for this specific token,
+501,no information,low,No reliable public report found for this specific token; listed website (experty.io) is unrelated,
+502,no information,low,Only CMC/Cyberscope listings found; no rug-pull report,https://coinmarketcap.com/currencies/caw2-0
+556,no information,low,No reliable public report found for this specific token (results about Shiba Inu's CAL token are a namesake),
+634,"legitimate, no incident found",high,"Established BNB Chain protocol; announced an orderly wind-down in May 2025 after Binance delisting, not an exit scam",https://www.theblock.co/post/355730/alpaca-finance-binance-delisting
+646,"legitimate, no incident found",high,Compound cToken; well-known protocol with no rug pull or exit scam (not searched),
+663,"legitimate, no incident found",medium,Long-running memecoin listed on CoinGecko/KuCoin; no rug-pull report found,https://www.coingecko.com/bg/coins/dogebonk
+688,"legitimate, no incident found",high,Wrapped native token of Moonbeam; no rug pull (not searched),
+689,"legitimate, no incident found",high,Wrapped native token of Moonriver; no rug pull (not searched),
+692,"legitimate, no incident found",high,Established Avalanche lending/staking protocol with bug bounty; no hack or rug report found,https://immunefi.com/bug-bounty/benqi/
+695,"legitimate, later incident",high,Incident = Nov 2020 flash-loan/reentrancy hack (~$2M DAI) by an outside attacker; no rug pull,https://www.theblock.co/post/84490/defi-project-akropolis-exploited-for-over-2-million
+740,"legitimate, no incident found",medium,"Fuse Network native token; no rug pull. Third-party dapps on Fuse (Ola Finance, Voltage) were hacked in 2022, not the token",https://www.theblock.co/amp/post/140012/ola-finance-on-fuse-network-suffers-3-6-million-hack
+751,"legitimate, later incident",high,Incident = June 2022: 20M OP sent to Wintermute were taken by an outside attacker (most later returned); no rug pull,https://www.theblock.co/post/150966/attacker-snipes-20-million-op-tokens-intended-for-wintermute-loan
+774,"legitimate, later incident",medium,Incident = team-confirmed MASA token exploit on Base; no rug-pull report,https://dailycoin.com/ai-network-masa-confirms-masa-token-exploit-on-the-base-blockchain/
+841,"legitimate, later incident",medium,Incident = AlphaEx exchange hot wallets compromised and XDCE stolen (outside hack); no rug pull,https://www.pr.com/press-release/827951
+970,"legitimate, no incident found",medium,Operating BNB Chain DEX with CertiK page; no rug-pull report found,https://skynet.certik.com/projects/positionexchange/security-score
+971,"legitimate, no incident found",medium,"Listed, CertiK-tracked project; no rug-pull report found",https://skynet.certik.com/projects/metahero
+975,"legitimate, no incident found",medium,"X World Games token, listed and CertiK-audited; no rug-pull report found",https://www.coingecko.com/el/coins/x-world-games
+986,"legitimate, no incident found",medium,Listed on CoinGecko; no rug-pull or fraud report found,https://www.coingecko.com/uk/coins/blackcardcoin
+987,"legitimate, no incident found",medium,"Wrapped Syscoin; long-established project, no rug pull (not searched)",
+994,"legitimate, no incident found",medium,Metars Genesis listed on CoinGecko/CMC/KuCoin; no rug-pull report found,https://www.coingecko.com/tr/coins/metars-genesis
+997,"legitimate, no incident found",medium,"WAM.app token, listed; no rug-pull report found",https://www.cyberscope.io/audits/coin-wam-app
+690,"legitimate, no incident found",high,Binance-pegged version of Paxos Gold; no rug pull (not searched),
+711,"legitimate, no incident found",medium,"Unitus is the dForce lending rebrand; earlier dForce hacks (2020, 2023) predate this token; no rug-pull report",https://unitus.gitbook.io/unitus-v2/getting-started/general-faq
+762,"legitimate, no incident found",medium,"Listed, CertiK-tracked gaming token; no rug-pull report found",https://skynet.certik.com/projects/miracle-play
+913,rug pull / exit scam,low,"Contract appears to be the COSS exchange token (COS), not Contentos; COSS went offline in early 2020 and was widely suspected of an exit scam. Attribution of the address should be re-checked",https://insights.santiment.net/read/is-coss-currently-in-the-middle-of-an-exit-scam%3F-4945?_wc=1
+578,"legitimate, no incident found",high,Official AirSwap AST token; only incident is a 2019 contract vulnerability disclosed and fixed by the team; no rug pull or exit scam,https://cointelegraph.com/news/developers-of-ethereum-dex-protocol-airswap-disclose-critical-exploit
+854,"legitimate, no incident found",high,Official AirSwap AST token; only incident is a 2019 contract vulnerability disclosed and fixed by the team; no rug pull or exit scam,https://cointelegraph.com/news/developers-of-ethereum-dex-protocol-airswap-disclose-critical-exploit
+535,no information,low,"Not the official Stake DAO token (SDT, different contract); looks like a namesake, but no report about this token found",
+211,rug pull / exit scam,high,"CertiK alert (Aug 2023): fake Friend Tech token at this exact contract, deployer removed liquidity for 135 ETH (~$226.5K)",https://coinedition.com/developer-steals-226-5k-in-fake-friendtech-token-exit-scam-details/
+517,no information,low,No reliable public report found for this specific token,
+379,no information,low,Only a CMC listing found; no rug-pull report,https://coinmarketcap.com/fil/currencies/kanva/
+306,no information,low,No reliable public report found for this specific token,
+7,rug pull / exit scam,medium,"Beosin/Halborn: GMETA creator sold pre-minted tokens for ~$2.36M USDT on PancakeSwap in July 2023, price -96%; article does not give the contract address",https://halborn.com/blog/post/explained-the-gmeta-rug-pull-july-2023
+60,no information,low,No reliable public report found for this specific token,
+290,no information,low,No reliable public report found for this specific token,
+330,no information,low,No reliable public report found for this specific token,
+344,no information,low,No reliable public report found for this specific token,
+579,"legitimate, no incident found",high,"This is the official Contentos ERC-20 contract (project's own announcements, Binance-listed); no rug pull or exit scam found",https://medium.com/contentos-io/150-million-bep2-cos-tokens-burned-and-150-million-erc-20-cos-tokens-released-646039b44682
+205,rug pull / exit scam,medium,"CertiK flagged a fake LINEA token honeypot/rug pull (~$743K, Oct 2023); article does not give the contract address, so the match is by name and period",https://crypto.news/scammer-steals-743k-in-fake-linea-token-rug-pull/
+341,no information,low,Old KoreCoin project swapped to an ERC-20; no scam or exit report found,https://www.bitdegree.org/cryptocurrency-prices/korecoin-kore-price
+180,no information,low,No reliable public report found for this specific token,
+66,no information,low,No reliable public report found for this specific token,
+169,rug pull / exit scam,low,'Dream Come True' is flagged as a Ponzi by BehindMLM and in a Quebec AMF investor warning; link between that scheme and this DCT token is likely but not confirmed,https://lautorite.qc.ca/en/general-public/media-centre/investor-warnings/investor-warnings-sheet/dream-come-true
+61,no information,low,Ninja Warriors Meta is listed on CoinGecko with presale PR; no rug-pull report found,https://www.coingecko.com/en/coins/ninja-warriors
+451,rug pull / exit scam,medium,"QuillAudits (Jan 2023): Doglands exit scam drained ~$204K of LP reserves; report describes the Dogechain deployment, dates and site match this row",https://quillaudits.substack.com/p/dogechains-ecological-doglandsdc
+315,no information,low,No reliable public report found for this specific token,
+471,no information,low,Listed on CMC/CoinGecko; no rug-pull report found,https://coinmarketcap.com/currencies/wegro-coin
+123,"legitimate, no incident found",low,"Arken Finance is a real DEX aggregator (CMC, CertiK pages) with no rug-pull report; could not confirm this BSC contract is the official token",https://skynet.certik.com/projects/arkenfinance
+413,no information,low,"Nothing on the '2.0' token; the original AnubisDAO ($60M, Oct 2021) is a different contract",
+300,no information,low,Only generic warnings about fake SpaceX tokens; nothing on this contract or site,
+195,"legitimate, no incident found",low,Nabox is an operating multi-chain wallet project with no rug-pull report; could not confirm this BSC contract is the official token,https://naboxwallet.medium.com/nabox-to-burn-500-billion-nabox-tokens-a8e3982786c5
+113,"legitimate, no incident found",low,"FrontFanz is a listed, operating creator platform (CoinGecko/CMC); no rug-pull report found",https://www.coingecko.com/en/coins/frontfanz-2
+813,"legitimate, no incident found",high,"Injective; major established project, no rug pull (not searched)",
+988,"legitimate, later incident",high,Controversy = March 2021 public dispute with Alameda over an $80M OTC token deal; no rug pull,https://www.theblock.co/post/98345/reef-finance-alameda-research-token-deal-drama
+697,"legitimate, no incident found",low,Listed on CMC; no rug-pull report found,https://coinmarketcap.com/currencies/jojo/
+962,"legitimate, no incident found",medium,"Listed, CertiK-tracked chain token; no rug-pull report found",https://skynet.certik.com/projects/alvey-chain
+925,"legitimate, no incident found",high,"Official Omni Network token; the April 2024 $400K rug was a fake copycat OMNI, not this token",https://cointelegraph.com/news/omni-token-dumps-after-airdrop-as-scammers-rug-fake-token
+701,"legitimate, later incident",high,Incident = Aug 2021 Popsicle Finance exploit (~$20M) by an outside attacker; no rug pull,https://rekt.news/popsicle-rekt
+906,"legitimate, no incident found",high,"Quant; major established project, no rug pull (not searched)",
+864,"legitimate, later incident",high,Incident = Aug 2022 Stader NearX security incident (outside exploit); no rug pull,https://staderlabs.com/blog/stader-near-incident-report-08-16-2022
+984,"legitimate, no incident found",medium,Established project; only scam claims are about third-party fraud that Energi's own team investigated; no rug-pull report,https://coinmarketcap.com/th/currencies/energi/
+710,"legitimate, later incident",high,Incident = Aug 2022 cBridge front-end DNS/BGP hijack by an outside attacker; no rug pull,https://cointelegraph.com/news/celer-network-shuts-down-bridge-over-potential-dns-hijacking
+613,"legitimate, no incident found",high,Binance-pegged Cardano; no rug pull (not searched),
+630,"legitimate, no incident found",medium,"Audited DeFi protocol with bug bounty; only a disclosed-and-fixed vulnerability, no hack or rug report found",https://docs.gearbox.finance/developers/security
+863,"legitimate, later incident",high,"Incidents = oracle/price-manipulation and bad-debt events (2021 XVS, later THE token exploit) and a 2025 user phishing loss; all external, no rug pull",https://www.theblock.co/post/393622
+724,"legitimate, no incident found",low,"Yearn Classic's EarnX, listed with CertiK/Cyberscope pages; no rug-pull report found",https://skynet.certik.com/projects/earnx-v2
+768,"legitimate, no incident found",high,Established L2 token; no hack or rug-pull report found,https://defillama.com/token/boba
+857,"legitimate, no incident found",high,"Request Network; long-established project, no rug pull (not searched)",
+716,"legitimate, later incident",high,Controversy = quietly acquired by Alameda; Ren 1.0 shut down in Dec 2022 after Alameda's collapse with warnings of user losses; not a rug pull,https://www.theblock.co/post/193274/alameda-backed-ren-warns-users-of-losses-as-it-plans-to-wind-down-protocol
+982,"legitimate, no incident found",medium,"Hacken-audited, listed project; no hack or rug-pull report found",https://hacken.io/audits/ferrum-network/
+844,"legitimate, no incident found",medium,"Listed, CertiK-tracked project; no rug-pull report found",https://coinmarketcap.com/currencies/lumerin/news/
+807,"legitimate, no incident found",medium,HYTOPIA game token; no rug-pull report found (only third-party phishing sites),https://decrypt.co/224637/ethereum-game-hytopia-nears-beta-launch-node-sale?amp=1
+866,"legitimate, no incident found",medium,Listed on Coinbase/CMC; no rug-pull or hack report found,https://www.coinbase.com/price/urus
+954,"legitimate, later incident",medium,Incident = Feb 2025 Bybit hack: outside attackers stole mETH/cmETH held by Bybit; mETH Protocol recovered ~$43M; no rug pull,https://www.theblock.co/post/342840/meth-protocol-announces-43-million-recovery-from-bybit-hack-while-tether-freezes-181000
+694,"legitimate, no incident found",medium,"TokenCard/Monolith, a 2017 ICO that shipped a product; team later announced an orderly sunset in favour of Token.com; no rug-pull report",https://medium.com/monolith/why-were-betting-big-on-token-com-and-sunsetting-monolith-7d035093abf3
+781,"legitimate, later incident",high,"Incident = March 2021 DODO pool exploit (~$3.8M, partly recovered) by outside attackers; no rug pull",https://www.theblock.co/post/97734/dodo-dex-exploit-bug-attack
+995,"legitimate, no incident found",medium,Listed token with press coverage (price volatility only); no rug-pull report found,https://cointelegraph.com/news/volatility-hits-planet-token-lionel-messi-partnership-rwa

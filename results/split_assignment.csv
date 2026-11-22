@@ -1,0 +1,957 @@
+,title,start,end,key,flags,rug_pull,partition
+0,Fintoch,2022-07-12,2023-06-19,Fintoch|BSC,nan,1,train
+1,Flare Token,2021-10-24,2022-11-24,Flare Token|BSC,nan,1,train
+2,SCT,2023-02-27,2024-07-09,SCT|BSC,nan,1,train
+3,GMETA,2022-05-09,2024-10-07,GMETA|BSC,nan,1,train
+4,IPO,2023-05-21,2023-07-20,IPO|BSC,nan,1,train
+5,IVY ,2023-05-30,2024-07-07,IVY |BSC,nan,1,train
+6,FSL,2023-10-09,2024-01-01,FSL|BSC,nan,1,test
+7,Fake SAGA Token,2024-04-04,2024-07-09,Fake SAGA Token|BSC,nan,1,test
+8,CryptoBike,2021-12-25,2022-05-31,CryptoBike|BSC,nan,1,train
+9,IEGT Rugpull,2023-07-13,2023-07-24,IEGT Rugpull|BSC,nan,1,train
+10,Ocean Ventures,2019-05-03,2024-07-09,Ocean Ventures|BSC,Start date before chain launch,1,train
+11,USEA Token ,2023-03-14,2023-06-04,USEA Token |BSC,nan,1,train
+12,Fake Layer Zero,2024-06-20,2024-07-09,Fake Layer Zero|BSC,nan,1,test
+13,SAI token,2024-06-09,2024-07-09,SAI token|BSC,nan,1,test
+14,ProTradeX,2023-02-22,2024-06-25,ProTradeX|BSC,nan,1,train
+15,fcdep (EPMAX),2022-03-04,2023-04-21,fcdep (EPMAX)|BSC,nan,1,train
+16,XAI token ,2023-05-10,2024-07-09,XAI token |BSC,nan,1,train
+17,Changpeng Zhao (CZ),2023-11-22,2024-07-08,Changpeng Zhao (CZ)|BSC,nan,1,test
+18,BGE (BGE),2023-01-21,2024-07-08,BGE (BGE)|BSC,nan,1,train
+19,Cesar Hard Fork,2022-11-15,2022-11-18,Cesar Hard Fork|BSC,nan,1,train
+20,Dollar(PancakeLPs),2022-08-23,2022-10-25,Dollar(PancakeLPs)|BSC,nan,1,train
+21,Linda Yaccarino,2023-05-14,2024-01-07,Linda Yaccarino|BSC,nan,1,train
+22,Do Right (DR),2023-09-23,2023-12-16,Do Right (DR)|BSC,nan,1,test
+23,GHOSTP2E (GHR),2022-03-11,2022-04-04,GHOSTP2E (GHR)|BSC,nan,1,train
+24,OpenAI ATF (ATF),2023-04-02,2023-04-05,OpenAI ATF (ATF)|BSC,nan,1,train
+25,DUO,2023-09-18,2023-10-03,DUO|BSC,nan,1,test
+26,HRN (HIGH RETURN),2023-06-03,2023-06-25,HRN (HIGH RETURN)|BSC,nan,1,train
+27,Cake Lock (LOCK),2021-02-23,2021-03-07,Cake Lock (LOCK)|BSC,nan,1,train
+28,LongNoseDog(LONG),2024-01-15,2024-07-18,LongNoseDog(LONG)|BSC,nan,1,test
+29,Fake Ethena Labs,2024-04-04,2024-07-19,Fake Ethena Labs|BSC,nan,1,test
+30,BJS (BJS),2023-07-14,2023-12-17,BJS (BJS)|BSC,nan,1,train
+31,Metaland DAO (META),2022-01-03,2022-01-13,Metaland DAO (META)|BSC,nan,1,train
+32,culs (culs),2022-11-10,2023-03-21,culs (culs)|BSC,nan,1,train
+33,LOO,2019-07-29,2021-03-29,LOO|BSC,Start date before chain launch,1,train
+34,TTTT (TTTT),2021-11-01,2024-07-21,TTTT (TTTT)|BSC,nan,1,train
+35,BNQ Token (BNQ),2022-08-01,2022-10-11,BNQ Token (BNQ)|BSC,nan,1,train
+36,BlockGPT (BGPT),2023-04-24,2023-05-24,BlockGPT (BGPT)|BSC,nan,1,train
+37,MALOU (NEVER),2024-05-16,2024-07-16,MALOU (NEVER)|BSC,nan,1,test
+38,Satori (Satori),2023-07-11,2024-07-25,Satori (Satori)|BSC,nan,1,train
+39,Tetris (TTR),2023-07-27,2024-07-25,Tetris (TTR)|BSC,nan,1,train
+40,CIRCLE fake token,2024-02-14,2024-07-27,CIRCLE fake token|BSC,nan,1,test
+41,MMFinance (MMF),2022-04-01,2022-10-15,MMFinance (MMF)|BSC,nan,1,train
+42,Bep Finance,2021-03-24,2021-03-25,Bep Finance|BSC,nan,1,train
+43,Santa Coin,2021-11-06,2022-05-24,Santa Coin|BSC,nan,1,train
+44,Swello Token (SWLO),2022-06-20,2023-02-02,Swello Token (SWLO)|BSC,nan,1,train
+45,ARCHWAY (ARCH),2023-06-25,2024-08-03,ARCHWAY (ARCH)|BSC,nan,1,train
+46,ArenaPlay (APC),2022-07-21,2023-03-02,ArenaPlay (APC)|BSC,contract address unknown: the explorer link points to the contract of row 54,1,train
+47,zkSync (TBD),2023-07-11,2024-08-03,zkSync (TBD)|BSC,nan,1,train
+48,Hex Trust Token,2024-08-01,2024-08-04,Hex Trust Token|BSC,nan,1,test
+49,Sui Network (SUI),2023-03-15,2024-08-04,Sui Network (SUI)|BSC,nan,1,train
+50,DollarDoge (DollarDoge),2021-07-03,2021-10-15,DollarDoge (DollarDoge)|BSC,nan,1,train
+51,MOL (MOL),2023-09-01,2023-11-03,MOL (MOL)|BSC,nan,1,train
+52,NwtToken (NWT),2023-11-29,2024-03-26,NwtToken (NWT)|BSC,nan,1,test
+53,RWP (Real Web Project),2023-03-23,2024-08-04,RWP (Real Web Project)|BSC,nan,1,train
+54,Wettok Market (WTO),2022-11-03,2023-09-14,Wettok Market (WTO)|BSC,nan,1,train
+55,DMCToken (DMC),2024-06-10,2024-08-05,DMCToken (DMC)|BSC,nan,1,test
+56,Astronaut NFT (AST),2021-04-06,2022-06-06,Astronaut NFT (AST)|BSC,nan,1,train
+57,Big finance (BIGFI),2023-03-31,2023-04-29,Big finance (BIGFI)|BSC,nan,1,train
+58,Meta Apes Shell (SHELL),2022-07-22,2024-08-05,Meta Apes Shell (SHELL)|BSC,nan,1,train
+59,Shi DAO (ShiD),2022-02-17,2023-08-31,Shi DAO (ShiD)|BSC,nan,1,train
+60,Web (WEB),2023-11-14,2024-08-05,Web (WEB)|BSC,nan,1,test
+61,Helio Protocol (HELIO),2022-08-25,2024-04-21,Helio Protocol (HELIO)|BSC,nan,1,train
+62,DarkProtocol (DARK),2023-11-15,2024-08-06,DarkProtocol (DARK)|BSC,nan,1,test
+63,aspiring cooperation Community (ACC),2024-06-08,2024-08-06,aspiring cooperation Community (ACC)|BSC,nan,1,test
+64,IPMB token,2023-02-23,2024-08-06,IPMB token|BSC,nan,1,train
+65,APIG token,2023-09-01,2023-09-02,APIG token|BSC,nan,1,train
+66,Chessfarm.Tech,2021-07-27,2024-08-09,Chessfarm.Tech|BSC,nan,1,train
+67,SOMESING (SSX),2022-01-30,2024-03-27,SOMESING (SSX)|BSC,nan,1,train
+68,MarbleX (MBX),2022-07-12,2024-08-09,MarbleX (MBX)|BSC,nan,1,train
+69,L7 DEX (LSD7),2023-09-19,2024-08-09,L7 DEX (LSD7)|BSC,nan,1,test
+70,Celestia (TIA),2023-11-01,2024-08-09,Celestia (TIA)|BSC,nan,1,test
+71,Sport Move (SPORT),2022-08-14,2024-05-21,Sport Move (SPORT)|BSC,nan,1,train
+72,BTDOG (BTDOG),2022-11-16,2023-01-12,BTDOG (BTDOG)|BSC,nan,1,train
+73,OBB (OBB),2023-02-06,2023-05-31,OBB (OBB)|BSC,nan,1,train
+74,ADAF (ADAF),2021-09-13,2024-06-08,ADAF (ADAF)|BSC,nan,1,train
+75,Creso (CRE),2023-10-25,2024-06-24,Creso (CRE)|BSC,nan,1,test
+76,Artificial intelligence robot (AIT),2023-12-30,2024-08-11,Artificial intelligence robot (AIT)|BSC,nan,1,test
+77,LlamaCoin (LlamaCoin),2024-07-22,2024-08-11,LlamaCoin (LlamaCoin)|BSC,nan,1,test
+78,FlokiMoon (FlokiMoon),2021-11-02,2024-08-11,FlokiMoon (FlokiMoon)|BSC,nan,1,train
+79,CFL365 Finance (CFL365),2021-08-10,2023-04-18,CFL365 Finance (CFL365)|ETH,nan,1,train
+80,LooBr (LooBr),2022-08-04,2023-02-27,LooBr (LooBr)|BSC,nan,1,train
+81,mCoin (MCOIN),2022-04-15,2024-03-22,mCoin (MCOIN)|BSC,nan,1,train
+82,CommEX (CMX),2021-12-20,2023-04-05,CommEX (CMX)|BSC,nan,1,train
+83,Script (SCPT),2023-11-21,2024-08-11,Script (SCPT)|BSC,nan,1,test
+84,MoveCash (MCA),2022-05-20,2023-02-22,MoveCash (MCA)|BSC,nan,1,train
+85,BabyPepe,2024-03-09,2024-08-11,BabyPepe|BSC,nan,1,test
+86,Elron Token (ELR),2022-07-18,2024-08-09,Elron Token (ELR)|BSC,nan,1,train
+87,Patex (PATEX),2024-03-14,2024-08-11,Patex (PATEX)|BSC,nan,1,test
+88,RepubliK (RPK),2023-11-15,2024-08-11,RepubliK (RPK)|BSC,nan,1,test
+89,PIPI (PIPI),2023-11-15,2024-05-23,PIPI (PIPI)|BSC,nan,1,test
+90,PAPABEAR (PAPA),2023-11-14,2024-08-11,PAPABEAR (PAPA)|BSC,nan,1,test
+91,ACCToken,2024-05-29,2024-08-13,ACCToken|BSC,nan,1,test
+92,FOMO DAO (FOMO),2023-11-22,2024-08-14,FOMO DAO (FOMO)|BSC,nan,1,test
+93,DeFido (DEFIDO),2021-10-13,2022-08-17,DeFido (DEFIDO)|BSC,nan,1,train
+94,CBC Token (CBC),2022-05-13,2024-08-14,CBC Token (CBC)|BSC,nan,1,train
+95,AISurf (AISC),2023-11-15,2024-08-14,AISurf (AISC)|BSC,nan,1,test
+96,FlokiChain (FC),2022-09-09,2022-12-25,FlokiChain (FC)|BSC,nan,1,train
+97,ETE Token (ETE),2023-09-08,2024-06-15,ETE Token (ETE)|BSC,nan,1,train
+98,GigaDAO (GIGS),2023-11-14,2024-01-17,GigaDAO (GIGS)|BSC,nan,1,test
+99,To the Moon (TTM),2024-03-15,2024-03-21,To the Moon (TTM)|BSC,nan,1,test
+100,Mina Protocol (MINA),2021-06-01,2024-08-17,Mina Protocol (MINA)|BSC,nan,1,train
+101,DigiFund (DFUND),2019-04-12,2024-08-17,DigiFund (DFUND)|BSC,Start date before chain launch,1,train
+102,Dor (DOR),2023-11-19,2024-08-17,Dor (DOR)|BSC,nan,1,test
+103,Frontfanz (FANX),2023-11-27,2024-08-17,Frontfanz (FANX)|BSC,second review (web) disagrees with the label at low confidence; check by hand,1,test
+104,Pepe (PEPE),2023-04-18,2023-08-17,Pepe (PEPE)|BSC,nan,1,train
+105,CryptosTribe (CSTC),2022-07-25,2022-11-10,CryptosTribe (CSTC)|BSC,nan,1,train
+106,GDAO (GDAO),2020-11-18,2024-05-23,GDAO (GDAO)|BSC,nan,1,train
+107,Cashera (CSR),2022-05-02,2023-04-29,Cashera (CSR)|BSC,nan,1,train
+108,NFDAO (NFD),2023-08-20,2024-08-18,NFDAO (NFD)|BSC,contract address unknown: the explorer link points to the contract of row 81,1,train
+109,iShares Bitcoin (IBTC),2023-10-24,2023-10-31,iShares Bitcoin (IBTC)|BSC,nan,1,test
+110,2049 (2049),2023-09-15,2024-08-17,2049 (2049)|BSC,nan,1,test
+111,ChainGPT (CGPT),2023-04-12,2024-08-18,ChainGPT (CGPT)|BSC,nan,1,train
+112,Finance (ARKEN),2023-04-09,2024-08-18,Finance (ARKEN)|BSC,second review (web) disagrees with the label at low confidence; check by hand,1,train
+113,Zodiac Credit-ZOC (ZOC),2023-03-23,2023-03-28,Zodiac Credit-ZOC (ZOC)|BSC,nan,1,train
+114,Hepton (HTE),2023-05-11,2024-08-18,Hepton (HTE)|BSC,nan,1,train
+115,GameFi (GAFI),2021-09-19,2023-06-15,GameFi (GAFI)|BSC,nan,1,train
+116,TSUKA (TSUKA),2022-07-09,2024-08-18,TSUKA (TSUKA)|BSC,nan,1,train
+117,Arbitrum (ARB),2023-03-24,2024-08-18,Arbitrum (ARB)|BSC,nan,1,train
+118,LightLink (LL),2024-04-28,2024-08-19,LightLink (LL)|BSC,nan,1,test
+119,ETXInfinity (ETX),2022-12-20,2023-02-17,ETXInfinity (ETX)|BSC,nan,1,train
+120,YPT (YPT),2023-03-01,2023-08-01,YPT (YPT)|BSC,nan,1,train
+121,Carillonium finance (CAROM),2021-04-22,2024-08-02,Carillonium finance (CAROM)|BSC,nan,1,train
+122,Openfabric AI (OFN),2023-10-24,2024-08-18,Openfabric AI (OFN)|BSC,nan,1,test
+123,TrustPad (TPAD),2024-01-13,2024-08-19,TrustPad (TPAD)|BSC,nan,1,test
+124,SQUID GAME (SQUIDGAME),2021-11-03,2024-08-20,SQUID GAME (SQUIDGAME)|BSC,nan,1,train
+125,NodyToken (NODY),2022-07-02,2022-07-29,NodyToken (NODY)|BSC,nan,1,train
+126,BNBpay (BNBpay),2021-08-08,2022-02-09,BNBpay (BNBpay)|BSC,nan,1,train
+127,GEMDAO (GemDAO),2022-08-28,2023-02-27,GEMDAO (GemDAO)|BSC,nan,1,train
+128,BabyElon (BabyElon),2024-01-10,2024-08-18,BabyElon (BabyElon)|BSC,nan,1,test
+129,EI Risitas (KEK),2023-12-04,2024-08-18,EI Risitas (KEK)|BSC,nan,1,test
+130,CROWN (CROWN),2023-05-22,2024-08-19,CROWN (CROWN)|BSC,nan,1,train
+131,BAT (BAT),2024-01-12,2024-08-10,BAT (BAT)|BSC,nan,1,test
+132,Magic (Magic),2022-05-10,2024-08-19,Magic (Magic)|BSC,nan,1,train
+133,HunterDoge (HDOGE),2021-11-23,2022-05-20,HunterDoge (HDOGE)|BSC,nan,1,train
+134,MOON (MOON),2021-04-22,2024-08-19,MOON (MOON)|BSC,nan,1,train
+135,SLS (GSLS),2024-01-23,2024-07-26,SLS (GSLS)|BSC,nan,1,test
+136,Doge Twitter (DOGETWIT),2023-04-13,2024-08-03,Doge Twitter (DOGETWIT)|BSC,nan,1,train
+137,Mango INU (MNGO),2021-08-13,2024-08-20,Mango INU (MNGO)|ETH,nan,1,train
+138,Block Chain Games,2023-04-23,2024-07-26,Block Chain Games|BSC,nan,1,train
+139,TheCatWorld (CWORLD),2023-08-22,2024-08-21,TheCatWorld (CWORLD)|BSC,nan,1,train
+140,EDAO (EDAO),2021-06-08,2023-03-12,EDAO (EDAO)|BSC,nan,1,train
+141,Dracula (DRAC),2023-12-31,2024-07-20,Dracula (DRAC)|BSC,nan,1,test
+142,Bitpaid (BTP),2022-04-10,2024-08-21,Bitpaid (BTP)|BSC,nan,1,train
+143,ANT (ANT),2021-06-12,2021-07-05,ANT (ANT)|BSC,nan,1,train
+144,OrbitSwap (ORBIT),2022-08-31,2024-08-20,OrbitSwap (ORBIT)|BSC,nan,1,train
+145,Bitcoin BSC (BTCBSC),2023-10-01,2024-08-22,Bitcoin BSC (BTCBSC)|BSC,nan,1,test
+146,CryptogerClub (CToger),2022-03-12,2023-12-09,CryptogerClub (CToger)|BSC,nan,1,train
+147,LGT (LGT),2023-06-12,2024-08-19,LGT (LGT)|BSC,nan,1,train
+148,Skate Metaverse Coin (SMC),2022-06-22,2024-07-27,Skate Metaverse Coin (SMC)|BSC,nan,1,train
+149,iwr (IWR),2022-01-18,2024-04-24,iwr (IWR)|BSC,nan,1,train
+150,Aki Inu (Aki),2022-08-12,2023-05-02,Aki Inu (Aki)|BSC,nan,1,train
+151,Loop X Network (LOOP),2022-07-19,2022-07-22,Loop X Network (LOOP)|BSC,nan,1,train
+152,Minter (MINT),2016-11-13,2022-04-11,Minter (MINT)|BSC,Start date before chain launch,1,train
+153,SpaceID (ID),2023-03-23,2024-08-21,SpaceID (ID)|BSC,nan,1,train
+154,APPLE (APPLE),2021-11-14,2022-10-05,APPLE (APPLE)|BSC,nan,1,train
+155,DOXED (DOX),2022-02-10,2023-02-19,DOXED (DOX)|BSC,nan,1,train
+156,RETAWATCH (RTW),2022-08-13,2024-08-01,RETAWATCH (RTW)|BSC,nan,1,train
+157,SPACE CAT (SCAT),2023-12-16,2024-08-23,SPACE CAT (SCAT)|BSC,nan,1,test
+158,DreamComeTrue (DCT),2022-07-18,2024-05-13,DreamComeTrue (DCT)|BSC,nan,1,train
+159,VERIFY (VRFY),2017-12-23,2018-11-22,VERIFY (VRFY)|BSC,Start date before chain launch,1,train
+160,Zap Finance (ZAP),2018-01-13,2019-07-22,Zap Finance (ZAP)|BSC,Start date before chain launch,1,train
+161,Peace doge X (Peace doge X),2022-03-10,2022-06-02,Peace doge X (Peace doge X)|BSC,contract address unknown: the explorer link points to the contract of row 140,1,train
+162,Neoteric (NTRC),2021-03-17,2021-10-04,Neoteric (NTRC)|BSC,nan,1,train
+163,ROBOT SHIB (RSHIB),2021-12-01,2024-07-31,ROBOT SHIB (RSHIB)|BSC,nan,1,train
+164,DUSD (DUSD),2023-05-13,2023-08-04,DUSD (DUSD)|BSC,nan,1,train
+165,GMT (GMT),2022-03-09,2024-08-24,GMT (GMT)|BSC,nan,1,train
+166,Golden Token(GOLD),2021-03-27,2024-08-23,Golden Token(GOLD)|BSC,nan,1,train
+167,PenginFinance Token (PENGIN),2021-04-03,2022-05-14,PenginFinance Token (PENGIN)|BSC,nan,1,train
+168,TrollFace Defi (TROLL),2023-06-05,2024-07-29,TrollFace Defi (TROLL)|BSC,nan,1,train
+169,Stonks Token ($STONKS),2021-06-07,2021-07-22,Stonks Token ($STONKS)|BSC,nan,1,train
+170,AntiSocial Token (ANTI),2015-12-16,2021-04-06,AntiSocial Token (ANTI)|BSC,Start date before chain launch,1,train
+171,Dragonfly (DRAGONFLY),2023-04-23,2023-06-21,Dragonfly (DRAGONFLY)|BSC,nan,1,train
+172,FormationFi (FFI),2021-06-23,2022-06-19,FormationFi (FFI)|BSC,nan,1,train
+173,Bunny Token (BUNNY),2018-09-23,2024-08-23,Bunny Token (BUNNY)|BSC,Start date before chain launch; contract address unknown: the explorer link points to the contract of row 675,1,train
+174,BOGDANOFF (BOGDANOFF),2023-04-29,2024-08-25,BOGDANOFF (BOGDANOFF)|BSC,nan,1,train
+175,Starlink Token (Starlink),2021-07-01,2024-07-23,Starlink Token (Starlink)|BSC,nan,1,train
+176,DiamondHands (DiamondHands),2021-06-12,2022-07-20,DiamondHands (DiamondHands)|BSC,nan,1,train
+177,GABECOIN (GABECOIN),2021-06-17,2024-08-21,GABECOIN (GABECOIN)|BSC,nan,1,train
+178,Gitcoin (GTC),2021-05-26,2024-08-25,Gitcoin (GTC)|BSC,nan,1,train
+179,Hypernova (HNOVA),2021-04-21,2021-10-17,Hypernova (HNOVA)|BSC,nan,1,train
+180,PiggyBank,2022-05-13,2023-01-30,PiggyBank|BSC,nan,1,train
+181,ASG Token (ASG),2024-02-19,2024-08-25,ASG Token (ASG)|BSC,nan,1,test
+182,TravelCake (TVL),2021-06-18,2021-12-21,TravelCake (TVL)|BSC,nan,1,train
+183,Moonwalk (MOONWALK),2021-05-31,2022-01-24,Moonwalk (MOONWALK)|BSC,nan,1,train
+184,Nabox (Nabox),2021-09-30,2024-08-25,Nabox (Nabox)|BSC,second review (web) disagrees with the label at low confidence; check by hand,1,train
+185,Little Mouse (MOUSE),2021-05-26,2022-05-05,Little Mouse (MOUSE)|BSC,nan,1,train
+186,Karura (KAR),2021-07-24,2023-04-23,Karura (KAR)|BSC,nan,1,train
+187,Virus (VIRUS),2022-09-05,2024-08-25,Virus (VIRUS)|BSC,nan,1,train
+188,xDEF Finance (xDEF2),2021-01-16,2022-03-19,xDEF Finance (xDEF2)|ETH,Duplicate project,1,train
+189,Dolphin Token (DOLPHIN),2020-11-11,2020-12-18,Dolphin Token (DOLPHIN)|ETH,Duplicate project,1,train
+190,FreewayToken (FWT),2020-11-08,2023-10-18,FreewayToken (FWT)|ETH,nan,1,train
+191,OrdiZK (OZK),2023-12-13,2024-03-06,OrdiZK (OZK)|ETH,nan,1,test
+192,Chedda Token (CHEDDA),2022-01-29,2022-05-13,Chedda Token (CHEDDA)|ETH,nan,1,train
+193,LINEA copycat token,2023-07-24,2024-08-29,LINEA copycat token|ETH,nan,1,train
+194,Megabot,2023-10-26,2024-01-18,Megabot|ETH,nan,1,test
+195,Humanized_AI(HMT),2022-09-23,2024-08-29,Humanized_AI(HMT)|ETH,nan,1,train
+196,WSB Coin (WSB),2023-05-04,2023-07-19,WSB Coin (WSB)|ETH,nan,1,train
+197,Boost Coin (Boost),2021-08-12,2022-12-14,Boost Coin (Boost)|ETH,nan,1,train
+198,TWEETY (TWEETY),2023-06-26,2024-08-29,TWEETY (TWEETY)|ETH,nan,1,train
+199,Friend Tech (FT),2024-05-03,2024-08-30,Friend Tech (FT)|ETH,nan,1,test
+200,EigenLayer (EigenLayer),2024-05-14,2024-08-29,EigenLayer (EigenLayer)|ETH,nan,1,test
+201,Polyhedra Network (ZK),2024-03-22,2024-08-29,Polyhedra Network (ZK)|ETH,nan,1,test
+202,XSTABLE.PROTOCOL (XST),2021-01-28,2024-08-08,XSTABLE.PROTOCOL (XST)|ETH,nan,1,train
+203,Smurfs (SMURFS),2023-06-08,2024-04-11,Smurfs (SMURFS)|ETH,nan,1,train
+204,ether.fi (ETHFI),2024-03-19,2024-08-29,ether.fi (ETHFI)|ETH,nan,1,test
+205,Worldcoin (WLD),2023-07-26,2024-08-29,Worldcoin (WLD)|ETH,nan,1,train
+206,ROBIN HOOD (HOOD),2023-10-25,2024-08-27,ROBIN HOOD (HOOD)|ETH,nan,1,test
+207,Tommy VICE CITY (TOM),2023-08-03,2023-08-04,Tommy VICE CITY (TOM)|ETH,nan,1,train
+208,Hu Tao Spirit Soother (HUTAO),2023-07-27,2023-07-28,Hu Tao Spirit Soother (HUTAO)|ETH,nan,1,train
+209,Scroll Network (Scroll),2018-07-21,2019-10-26,Scroll Network (Scroll)|ETH,nan,1,train
+210,Plankton (PLANK),2024-01-09,2024-08-03,Plankton (PLANK)|ETH,nan,1,test
+211,Gandalf The Grey (GAN),2022-03-10,2022-07-20,Gandalf The Grey (GAN)|ETH,nan,1,train
+212,PEPEHUB (PEHUB),2023-07-02,2024-05-16,PEPEHUB (PEHUB)|ETH,nan,1,train
+213,Hachiko token,2024-06-25,2024-08-30,Hachiko token|ETH,nan,1,test
+214,Lifeform (LFT),2024-05-15,2024-08-30,Lifeform (LFT)|ETH,nan,1,test
+215,Gladiator  (GLA),2023-08-10,2024-08-30,Gladiator  (GLA)|ETH,nan,1,train
+216,Ore (ORE),2024-05-27,2024-08-31,Ore (ORE)|ETH,nan,1,test
+217,Popeye the Sailor (POPEYE),2023-07-22,2024-09-01,Popeye the Sailor (POPEYE)|ETH,nan,1,train
+218,DubaiCEO (DubaiCEO),2023-05-29,2024-09-02,DubaiCEO (DubaiCEO)|ETH,nan,1,train
+219,Reflex Staking Bot (REFLEX),2023-08-23,2024-09-03,Reflex Staking Bot (REFLEX)|ETH,nan,1,train
+220,STILTON MUSK (STILTON),2022-06-23,2023-08-31,STILTON MUSK (STILTON)|ETH,nan,1,train
+221,Elongate Deluxe (ELongD),2021-05-16,2024-08-26,Elongate Deluxe (ELongD)|ETH,nan,1,train
+222,Empower AI (EMPAI),2024-04-11,2024-05-02,Empower AI (EMPAI)|ETH,nan,1,test
+223,Agent Smith (SMITH),2023-05-27,2024-05-03,Agent Smith (SMITH)|ETH,nan,1,train
+224,Abattoir of Zir (DIABLO),2023-12-06,2024-08-28,Abattoir of Zir (DIABLO)|ETH,nan,1,test
+225,PAULY (PAULY &#128056; &#129002;),2024-04-14,2024-08-30,PAULY (PAULY &#128056; &#129002;)|ETH,nan,1,test
+226,Celestia (TIA),2023-11-01,2024-08-31,Celestia (TIA)|ETH,nan,1,test
+227,Bare Bear (BEAR),2024-06-06,2024-08-30,Bare Bear (BEAR)|ETH,nan,1,test
+228,Memecoin (MEME),2023-11-03,2024-08-31,Memecoin (MEME)|ETH,nan,1,test
+229,Toothless - How to train meme (TOOTH),2023-07-13,2023-07-20,Toothless - How to train meme (TOOTH)|ETH,nan,1,train
+230,Mike Wazowski Monsters Inc (MIKE),2023-07-02,2023-07-04,Mike Wazowski Monsters Inc (MIKE)|ETH,nan,1,train
+231,MAJIN BUU (BUU),2023-04-25,2023-04-28,MAJIN BUU (BUU)|ETH,nan,1,train
+232,Jigsaw saw you (SAW),2023-08-10,2023-08-16,Jigsaw saw you (SAW)|ETH,nan,1,train
+233,ROACH RACE (ROACH),2023-07-22,2024-08-31,ROACH RACE (ROACH)|ETH,nan,1,train
+234,LK-99 Protocol (LK99),2023-08-03,2023-08-10,LK-99 Protocol (LK99)|ETH,nan,1,train
+235,GGBOND (GGBOND),2023-05-18,2024-06-01,GGBOND (GGBOND)|ETH,nan,1,train
+236,AI C-3PO (C3PO),2023-07-11,2024-09-03,AI C-3PO (C3PO)|ETH,nan,1,train
+237,Jar Jar Binks (JAR),2023-07-06,2023-07-09,Jar Jar Binks (JAR)|ETH,nan,1,train
+238,Kaonashi the Faceless (NOFACE),2023-07-23,2024-09-01,Kaonashi the Faceless (NOFACE)|ETH,nan,1,train
+239,MYX Finance (QMYX),2023-11-01,2024-07-15,MYX Finance (QMYX)|ETH,nan,1,test
+240,Snake Eyes (SNAKE),2023-08-16,2023-08-17,Snake Eyes (SNAKE)|ETH,nan,1,train
+241,SHIA (SHIA),2023-08-25,2024-04-28,SHIA (SHIA)|ETH,nan,1,train
+242,YODA coin (YODA),2024-08-23,2024-09-03,YODA coin (YODA)|ETH,nan,1,test
+243,Dark Matter (DARKM),2021-04-07,2024-08-29,Dark Matter (DARKM)|ETH,nan,1,train
+244,Fuck The Merge (FUCKMERGE),2022-09-15,2022-09-17,Fuck The Merge (FUCKMERGE)|ETH,nan,1,train
+245,BoringNakas (BNAKA),2023-07-02,2024-09-04,BoringNakas (BNAKA)|ETH,nan,1,train
+246,KUKUCoin (KUKU),2023-08-13,2024-08-10,KUKUCoin (KUKU)|ETH,nan,1,train
+247,POOPEPE (POPE),2023-05-10,2024-09-02,POOPEPE (POPE)|ETH,nan,1,train
+248,GN (GN),2021-11-16,2023-04-30,GN (GN)|ETH,nan,1,train
+249,ok.lets.go. (OKLG),2021-11-22,2023-06-08,ok.lets.go. (OKLG)|ETH,nan,1,train
+250,APE (APE),2022-05-17,2024-09-03,APE (APE)|ETH,nan,1,train
+251,Towelie (TOWELIE),2023-05-25,2024-08-16,Towelie (TOWELIE)|ETH,nan,1,train
+252,Derpman (DMAN),2023-05-06,2024-09-04,Derpman (DMAN)|ETH,nan,1,train
+253,TITANX (TITANX),2023-11-01,2024-09-04,TITANX (TITANX)|ETH,nan,1,test
+254,MEMEPAD (MEMEPAD),2021-04-30,2022-05-05,MEMEPAD (MEMEPAD)|ETH,nan,1,train
+255,Power of ZUCK (ZUCK),2023-06-23,2024-09-03,Power of ZUCK (ZUCK)|ETH,nan,1,train
+256,Coin Merge (CMERGE),2021-07-22,2023-01-30,Coin Merge (CMERGE)|ETH,nan,1,train
+257,Julia (JULIA),2024-04-25,2024-09-04,Julia (JULIA)|ETH,nan,1,test
+258,NOVAMIND_ (NMD),2024-04-25,2024-05-03,NOVAMIND_ (NMD)|ETH,End date before start date,1,test
+259,Dogecoin 3.0 (DOGE3.0),2023-07-08,2024-08-04,Dogecoin 3.0 (DOGE3.0)|ETH,nan,1,train
+260,BabyShia (BABYSHIA),2023-08-30,2024-08-30,BabyShia (BABYSHIA)|ETH,nan,1,train
+261,Deez Nuts (DEEZ),2023-07-06,2024-08-05,Deez Nuts (DEEZ)|ETH,nan,1,train
+262,Jewels (JWL),2016-09-19,2022-07-29,Jewels (JWL)|ETH,nan,1,train
+263,Kosta Finance (KOSTA),2022-01-06,2024-09-03,Kosta Finance (KOSTA)|ETH,nan,1,train
+264,Beamsplittr (BSPLT),2023-06-27,2023-06-30,Beamsplittr (BSPLT)|ETH,nan,1,train
+265,RIFT Token (RIFT),2020-01-15,2020-02-08,RIFT Token (RIFT)|ETH,nan,1,train
+266,Pike Finance (PIKE),2023-12-26,2024-09-05,Pike Finance (PIKE)|ETH,nan,1,test
+267,Symbiogenesis (SYSIS),2023-12-25,2024-09-06,Symbiogenesis (SYSIS)|ETH,nan,1,test
+268,EspressoBot (ESPS),2023-07-28,2024-09-05,EspressoBot (ESPS)|ETH,nan,1,train
+269,One For The Books (BOOKS),2023-11-08,2024-09-06,One For The Books (BOOKS)|ETH,nan,1,test
+270,COIN (COIN),2020-11-27,2022-01-05,COIN (COIN)|ETH,nan,1,train
+271,MotherOfAllMemes (MOAM),2023-06-02,2023-08-01,MotherOfAllMemes (MOAM)|ETH,nan,1,train
+272,Friendchips.tech (FRIENDCHIPS),2024-05-03,2024-09-06,Friendchips.tech (FRIENDCHIPS)|ETH,nan,1,test
+273,RAIDEN GOD Thunder (RAIDEN),2023-07-29,2023-07-30,RAIDEN GOD Thunder (RAIDEN)|ETH,nan,1,train
+274,Lets Go Farming Token (LGF),2021-12-11,2022-09-22,Lets Go Farming Token (LGF)|ETH,nan,1,train
+275,SAUDI (SAUDI),2023-06-13,2023-06-26,SAUDI (SAUDI)|ETH,nan,1,train
+276,Hype.Bet (Hype.Bet),2020-12-09,2021-09-14,Hype.Bet (Hype.Bet)|ETH,nan,1,train
+277,fren (FREN),2023-11-08,2024-09-06,fren (FREN)|ETH,nan,1,test
+278,Kickboxer Tate (KBTate),2023-05-01,2024-09-06,Kickboxer Tate (KBTate)|ETH,nan,1,train
+279,MTI FINANCE (MTI),2020-10-28,2020-11-20,MTI FINANCE (MTI)|ETH,nan,1,train
+280,Yzer Token (YZER),2023-09-20,2024-09-05,Yzer Token (YZER)|ETH,nan,1,test
+281,Mojo Jojo (MOJO),2023-04-12,2024-09-07,Mojo Jojo (MOJO)|ETH,nan,1,train
+282,loveloverocket twitter (LoveRCKT),2023-08-14,2024-09-06,loveloverocket twitter (LoveRCKT)|ETH,contract address unknown: the explorer link points to the contract of row 140,1,train
+283,GAME SWAP (GAME),2020-11-04,2024-09-04,GAME SWAP (GAME)|ETH,nan,1,train
+284,DOGETAMA (DOGETAMA),2022-02-14,2022-10-09,DOGETAMA (DOGETAMA)|ETH,nan,1,train
+285,SpaceX (SpaceX),2024-04-10,2024-06-24,SpaceX (SpaceX)|ETH,nan,1,test
+286,Cool Cats (COOL20),2021-08-26,2024-07-17,Cool Cats (COOL20)|ETH,nan,1,train
+287,CatDog (CTDG),2024-07-24,2024-09-10,CatDog (CTDG)|ETH,nan,1,test
+288,foxi.finance (FOXI),2021-04-18,2022-05-03,foxi.finance (FOXI)|ETH,nan,1,train
+289,Raichu Thunderstone (RAI),2023-09-30,2024-09-11,Raichu Thunderstone (RAI)|ETH,nan,1,test
+290,TWERK (TWERK),2021-05-08,2024-09-03,TWERK (TWERK)|ETH,nan,1,train
+291,hypechill.fund (CHILL),2020-11-17,2021-03-18,hypechill.fund (CHILL)|ETH,nan,1,train
+292,RFbtc (RFbtc),2021-01-11,2021-06-21,RFbtc (RFbtc)|ETH,nan,1,train
+293,D4ppdao Token (D4PP),2021-01-13,2021-03-03,D4ppdao Token (D4PP)|ETH,nan,1,train
+294,Sav3r.Finance (SAV3R),2020-11-21,2024-08-27,Sav3r.Finance (SAV3R)|ETH,nan,1,train
+295,Onigiri Neko (ONIGI),2023-01-10,2023-07-10,Onigiri Neko (ONIGI)|ETH,nan,1,train
+296,FOCUS (FCS),2021-12-06,2023-02-25,FOCUS (FCS)|ETH,nan,1,train
+297,MANTLE (MANTLE),2023-07-19,2024-09-11,MANTLE (MANTLE)|ETH,nan,1,train
+298,reflation (RLF),2002-07-18,2024-09-01,reflation (RLF)|ETH,Start date before chain launch,1,train
+299,SLOTH INU (SLOTH INU),2022-05-31,2024-05-19,SLOTH INU (SLOTH INU)|ETH,nan,1,train
+300,K.O.N.G Token (KONG),2024-05-23,2024-09-12,K.O.N.G Token (KONG)|ETH,nan,1,test
+301,ELLA (ELLA),2024-06-26,2024-09-13,ELLA (ELLA)|ETH,nan,1,test
+302,PUMP (PUMP),2024-04-04,2024-09-14,PUMP (PUMP)|ETH,nan,1,test
+303,GROOT.FINANCE (GRT),2021-04-12,2021-06-17,GROOT.FINANCE (GRT)|ETH,nan,1,train
+304,Contribute.Protocol (CTB),2021-06-19,2022-04-02,Contribute.Protocol (CTB)|ETH,nan,1,train
+305,reflect3.finance (RFIII),2021-02-05,2021-04-16,reflect3.finance (RFIII)|ETH,nan,1,train
+306,Vegetables Finance (VEGE),2024-07-23,2024-07-26,Vegetables Finance (VEGE)|ETH,nan,1,test
+307,ba5ic.finance (BASIC),2020-04-21,2023-04-23,ba5ic.finance (BASIC)|ETH,nan,1,train
+308,Amazing Spider Man (SPIDER),2023-06-16,2024-06-10,Amazing Spider Man (SPIDER)|ETH,nan,1,train
+309,Demeter (DMT),2022-05-20,2023-05-15,Demeter (DMT)|ETH,nan,1,train
+310,BACON (BACON),2020-09-04,2022-05-14,BACON (BACON)|ETH,nan,1,train
+311,Bezop (Bez),2018-03-01,2019-10-19,Bezop (Bez)|ETH,nan,1,train
+312,Centra (CTR),2021-09-09,2022-07-17,Centra (CTR)|ETH,nan,1,train
+313,Bitcoiin (B2G),2018-06-07,2019-01-15,Bitcoiin (B2G)|ETH,nan,1,train
+314,Sunder Protocol (SUNDER),2021-05-15,2022-08-28,Sunder Protocol (SUNDER)|ETH,nan,1,train
+315,Space Inu (SPACEINU),2021-04-26,2021-07-22,Space Inu (SPACEINU)|ETH,nan,1,train
+316,DogeFinance (DOFI),2021-10-31,2022-05-21,DogeFinance (DOFI)|ETH,nan,1,train
+317,Pizza Coin (PC),2024-03-26,2024-05-02,Pizza Coin (PC)|ETH,nan,1,test
+318,Matcha (MATCHA),2023-05-02,2023-05-03,Matcha (MATCHA)|ETH,nan,1,train
+319,BOB Token (BOB),2018-07-15,2024-07-07,BOB Token (BOB)|ETH,nan,1,train
+320,bitqy (BQ),2017-09-05,2018-10-13,bitqy (BQ)|ETH,nan,1,train
+321,ShipChain SHIP (SHIP),2018-03-18,2021-06-20,ShipChain SHIP (SHIP)|ETH,nan,1,train
+322,Titanium BAR (TBAR),2018-03-29,2018-06-01,Titanium BAR (TBAR)|ETH,nan,1,train
+323,Shivers (SHVR),2018-07-20,2019-10-20,Shivers (SHVR)|ETH,nan,1,train
+324,Eristica TOKEN (ERT),2018-09-27,2023-08-24,Eristica TOKEN (ERT)|ETH,nan,1,train
+325,Veritaseum (VERI),2017-06-17,2024-09-13,Veritaseum (VERI)|ETH,nan,1,train
+326,Kore (KORE),2014-06-22,2019-07-22,Kore (KORE)|ETH,Start date before chain launch,1,train
+327,Gladius (GLA),2021-02-03,2021-05-06,Gladius (GLA)|ETH,nan,1,train
+328,Sether (SETH),2018-03-15,2019-10-16,Sether (SETH)|ETH,nan,1,train
+329,uglyinu.io (UGLY),2023-10-09,2024-05-06,uglyinu.io (UGLY)|ETH,nan,1,test
+330,Stratos Network (STOS),2021-06-15,2024-09-16,Stratos Network (STOS)|ETH,nan,1,train
+331,Anonymus Inu (ANU),2021-05-12,2024-09-12,Anonymus Inu (ANU)|ETH,nan,1,train
+332,Goose Inu ($DGOSE),2021-03-02,2021-07-02,Goose Inu ($DGOSE)|ETH,nan,1,train
+333,Bitboy Inu (BITBOYINU),2023-09-21,2024-09-12,Bitboy Inu (BITBOYINU)|ETH,nan,1,test
+334,Volcano Money (VOL),2021-06-21,2021-07-02,Volcano Money (VOL)|ETH,nan,1,train
+335,Jejudoge V2 (JEJUDOGEv2&#128021;),2022-02-20,2024-09-04,Jejudoge V2 (JEJUDOGEv2&#128021;)|ETH,nan,1,train
+336,NewShiba(NIBA),2023-02-12,2023-02-24,NewShiba(NIBA)|ETH,nan,1,train
+337,Supreme Inu (SUPRINU),2021-06-10,2021-07-13,Supreme Inu (SUPRINU)|ETH,nan,1,train
+338,PugDog Inu (PUGDOG),2024-05-29,2024-09-19,PugDog Inu (PUGDOG)|ETH,nan,1,test
+339,Fisa Inu (FISA),2024-03-21,2024-08-18,Fisa Inu (FISA)|ETH,nan,1,test
+340,EthereumCate (ECATE),2024-09-11,2024-09-19,EthereumCate (ECATE)|ETH,nan,1,test
+341,Ethelon Finance (ETHELON),2021-06-11,2021-06-12,Ethelon Finance (ETHELON)|ETH,nan,1,train
+342,DragonBite (BITE),2021-12-30,2022-08-10,DragonBite (BITE)|ETH,nan,1,train
+343,Green Swap (GRNS),2021-06-11,2021-06-13,Green Swap (GRNS)|ETH,nan,1,train
+344,EthereumSpacex (ElonVitalik),2024-03-25,2024-09-16,EthereumSpacex (ElonVitalik)|ETH,nan,1,test
+345,PRG (PRG),2017-11-04,2020-03-18,PRG (PRG)|ETH,nan,1,train
+346,Shopin Token (SHOP),2022-01-22,2022-08-09,Shopin Token (SHOP)|ETH,nan,1,train
+347,Xfinance (XFI),2020-09-17,2024-09-15,Xfinance (XFI)|ETH,transaction count 25 is not a real count,1,train
+348,Dropil (DROP),2018-05-23,2021-06-02,Dropil (DROP)|ETH,transaction count 25 is not a real count,1,train
+349,Truample (TMPL),2024-09-02,2024-09-20,Truample (TMPL)|ETH,nan,1,test
+350,AirToken (AIR),2024-03-20,2024-05-05,AirToken (AIR)|ETH,nan,1,test
+351,yfi.mobi (YFIM),2020-11-08,2024-08-14,yfi.mobi (YFIM)|ETH,transaction count 25 is not a real count,1,train
+352,Zombie Shiba(ZHIBA),2023-09-26,2023-09-27,Zombie Shiba(ZHIBA)|ETH,nan,1,test
+353,HoDooi (HOD),2021-06-19,2023-06-09,HoDooi (HOD)|ETH,nan,1,train
+354,Goblin Town (GOBLIN),2023-01-31,2023-05-11,Goblin Town (GOBLIN)|ETH,nan,1,train
+355,Fuck Thanos ($FTHANOS),2021-10-19,2021-11-13,Fuck Thanos ($FTHANOS)|ETH,nan,1,train
+356,Data Transaction Token (XD),2018-07-17,2019-10-19,Data Transaction Token (XD)|ETH,nan,1,train
+357,Tierion Network Token (TNT),2017-10-18,2022-08-14,Tierion Network Token (TNT)|ETH,nan,1,train
+358,Uranus Token (URANUS),2021-06-20,2021-10-25,Uranus Token (URANUS)|ETH,nan,1,train
+359,Wealthfront (WF),2021-07-16,2021-09-07,Wealthfront (WF)|ETH,nan,1,train
+360,ANT1GOON (GOON),2021-06-17,2022-03-14,ANT1GOON (GOON)|ETH,nan,1,train
+361,exbase.finance (EXBASE),2022-10-07,2022-11-28,exbase.finance (EXBASE)|ETH,nan,1,train
+362,Kanva (KNV),2020-11-18,2022-06-21,Kanva (KNV)|ETH,nan,1,train
+363,GALIL (GALIL),2020-11-08,2020-11-10,GALIL (GALIL)|ETH,nan,1,train
+364,Exorthous Finance (EXT),2024-07-01,2024-08-23,Exorthous Finance (EXT)|ETH,contract address unknown: the explorer link points to the contract of row 342,1,test
+365,xKingdom.tech Token (XKING),2024-06-02,2024-06-03,xKingdom.tech Token (XKING)|ARBI,nan,1,test
+366,PI (PI),2024-04-21,2024-05-14,PI (PI)|POLYGON,nan,1,test
+367,Bonk Inu (BONK),2023-01-05,2023-09-18,Bonk Inu (BONK)|POLYGON,nan,1,train
+368,YAYO Coin (YAYO),2021-06-08,2023-02-04,YAYO Coin (YAYO)|POLYGON,contract address unknown: the explorer link points to the contract of row 342,1,train
+369,Goldbank (GB),2023-05-27,2023-06-12,Goldbank (GB)|ARBI,nan,1,train
+370,ArbShibAI (AISHIB),2023-04-25,2024-09-21,ArbShibAI (AISHIB)|ARBI,nan,1,train
+371,FIO Protocol (FIO),2021-11-22,2022-01-06,FIO Protocol (FIO)|POLYGON,nan,1,train
+372,Mystery (MST),2021-08-16,2024-09-21,Mystery (MST)|FANTOM,nan,1,train
+373,FlokiFarmToken (FLK),2021-11-25,2022-03-12,FlokiFarmToken (FLK)|FANTOM,nan,1,train
+374,LionKingToken (LKS),2023-07-01,2024-08-31,LionKingToken (LKS)|FANTOM,nan,1,train
+375,PolyRainbowToken (RNBW),2021-07-03,2022-05-09,PolyRainbowToken (RNBW)|POLYGON,nan,1,train
+376,MagicToken (MAGIC),2021-10-13,2022-08-25,MagicToken (MAGIC)|FANTOM,nan,1,train
+377,PolyHomerToken (HOMER),2023-05-16,2023-08-08,PolyHomerToken (HOMER)|POLYGON,nan,1,train
+378,PlugToken (PLUG),2021-10-13,2024-04-30,PlugToken (PLUG)|POLYGON,nan,1,train
+379,GullFinance Token (GULL),2022-09-29,2022-11-20,GullFinance Token (GULL)|POLYGON,nan,1,train
+380,Cheetah Token (CHEETAH),2021-11-10,2022-05-25,Cheetah Token (CHEETAH)|POLYGON,nan,1,train
+381,TreeToken (TREE),2023-12-21,2024-10-03,TreeToken (TREE)|POLYGON,nan,1,test
+382,Sigma (SIGMA),2024-07-23,2024-10-03,Sigma (SIGMA)|POLYGON,nan,1,test
+383,Rapture (RT),2018-05-30,2018-12-01,Rapture (RT)|POLYGON,Start date before chain launch,1,train
+384,Egg (Egg),2024-03-20,2024-09-29,Egg (Egg)|POLYGON,nan,1,test
+385,PolySnow (POLYSNOW),2021-10-22,2024-08-28,PolySnow (POLYSNOW)|POLYGON,nan,1,train
+386,RivusDAO (RIVUS),2024-04-26,2024-09-08,RivusDAO (RIVUS)|ETH,nan,1,test
+387,Magnet Finance (MGT),2020-09-02,2020-10-22,Magnet Finance (MGT)|ETH,nan,1,train
+388,Atlantis (ATL),2021-11-03,2022-05-16,Atlantis (ATL)|BSC,nan,1,train
+389,Swaprum Token (SAPR),2023-05-18,2024-07-27,Swaprum Token (SAPR)|ARBI,nan,1,train
+390,Merlin Token (MERL),2021-05-20,2021-06-30,Merlin Token (MERL)|BSC,nan,1,train
+391,ArbiSwap (ArbiSwap),2020-10-21,2022-05-29,ArbiSwap (ArbiSwap)|ARBI,Start date before chain launch,1,train
+392,Blur Finance (BLR),2022-07-16,2022-08-10,Blur Finance (BLR)|BSC,nan,1,train
+393,Dragoma (DMA),2022-07-04,2022-08-08,Dragoma (DMA)|POLYGON,nan,1,train
+394,ARBIX (ARBX),2022-01-04,2024-10-01,ARBIX (ARBX)|BSC,nan,1,train
+395,AnubisDAO 2.0 (ANUBISDAO2.0),2023-06-30,2023-07-01,AnubisDAO 2.0 (ANUBISDAO2.0)|ETH,nan,1,train
+396,Stable Magnet Token (SMAG),2022-05-12,2024-10-12,Stable Magnet Token (SMAG)|BSC,nan,1,train
+397,AQUA (AQUA),2021-05-11,2023-07-07,AQUA (AQUA)|BSC,nan,1,train
+398,BaseBros (BROS),2024-04-12,2024-08-05,BaseBros (BROS)|BASE,nan,1,test
+399,OPM (Opium Bird),2023-11-18,2024-10-03,OPM (Opium Bird)|ETH,nan,1,test
+400,Ghetto Pepe (HOOD),2024-09-10,2024-10-06,Ghetto Pepe (HOOD)|ETH,nan,1,test
+401,Catana Inu ($CATI),2024-09-20,2024-10-05,Catana Inu ($CATI)|BSC,nan,1,test
+402,GRIMACE (GRIMACE),2023-06-08,2024-10-06,GRIMACE (GRIMACE)|ETH,nan,1,train
+403,MBAPPE COIN (MBAPPE),2023-06-18,2023-08-01,MBAPPE COIN (MBAPPE)|ETH,nan,1,train
+404,Base Dawgz (DAWGZ),2024-08-15,2024-10-04,Base Dawgz (DAWGZ)|ETH,nan,1,test
+405,ZKasino (ZKAS),2024-04-20,2024-04-21,ZKasino (ZKAS)|ETH,nan,1,test
+406,AVO (AVO),2024-03-03,2024-04-03,AVO (AVO)|ETH,nan,1,test
+407,Pancake LPs (Cake-LP),2021-11-11,2021-11-18,Pancake LPs (Cake-LP)|BSC,nan,1,train
+408,ERROR 404 (ERR),2024-02-12,2024-10-03,ERROR 404 (ERR)|ETH,nan,1,test
+409,Libra Protocol,2023-03-10,2024-10-07,Libra Protocol|BSC,nan,1,train
+410,stoicDAO (ZETA),2023-11-30,2023-12-14,stoicDAO (ZETA)|ETH,Duplicate project,1,test
+411,CKD TOKEN (CKD),2023-08-02,2023-08-03,CKD TOKEN (CKD)|BSC,nan,1,train
+412,BabyFlokiDoge (BABYFD),2021-11-02,2024-10-07,BabyFlokiDoge (BABYFD)|BSC,nan,1,train
+413,Lucky Star Currency,2024-01-23,2024-04-07,Lucky Star Currency|BSC,nan,1,test
+414,Justus Token (JTT),2023-09-21,2024-10-07,Justus Token (JTT)|BSC,nan,1,test
+415,Bald (BALD),2023-08-01,2024-10-07,Bald (BALD)|BASE,nan,1,train
+416,DeFiLABS (DLABS),2023-11-02,2024-06-07,DeFiLABS (DLABS)|ETH,nan,1,test
+417,Spooky Pepe (PEPESP),2023-10-26,2024-07-06,Spooky Pepe (PEPESP)|ETH,nan,1,test
+418,MuratiAI (MURATIAI),2023-05-18,2024-10-08,MuratiAI (MURATIAI)|BSC,nan,1,train
+419,SatoshiSwap (SWAP),2020-02-14,2022-09-11,SatoshiSwap (SWAP)|BSC,Start date before chain launch,1,train
+420,Hakuna Share (MTT),2022-05-19,2022-10-18,Hakuna Share (MTT)|CRONO,nan,1,train
+421,Freddy Coin (FREDDY),2024-04-23,2024-08-08,Freddy Coin (FREDDY)|BSC,nan,1,test
+422,XIRTAM (XIRTAM),2023-05-04,2024-07-26,XIRTAM (XIRTAM)|ARBI,nan,1,train
+423,Ordinals Finance (OFI),2023-02-22,2024-05-17,Ordinals Finance (OFI)|ETH,nan,1,train
+424,Kokomo Finance (KOKO),2023-03-26,2023-08-12,Kokomo Finance (KOKO)|ARBI,nan,1,train
+425,fRiENDSiES (fRiENDSiES),2022-04-04,2024-10-11,fRiENDSiES (fRiENDSiES)|ETH,nan,1,train
+426,Nostra (NSTR),2024-06-13,2024-10-11,Nostra (NSTR)|ETH,nan,1,test
+427,Dogland (DOG),2023-01-18,2023-01-22,Dogland (DOG)|BSC,nan,1,train
+428,FoodFarmer.Finance (FFF),2022-08-02,2023-02-12,FoodFarmer.Finance (FFF)|ETH,nan,1,train
+429,Snowflake Token (SFE),2023-01-20,2023-11-22,Snowflake Token (SFE)|BSC,nan,1,train
+430,RangersProtocolGas (RPG),2021-10-08,2024-10-10,RangersProtocolGas (RPG)|ETH,nan,1,train
+431,FTE (FTE),2022-08-09,2022-08-19,FTE (FTE)|BSC,nan,1,train
+432,The Micro Elements (TME),2022-09-30,2024-02-09,The Micro Elements (TME)|BSC,nan,1,train
+433,SEX DAO (SED),2022-08-08,2022-10-01,SEX DAO (SED)|ETH,nan,1,train
+434,Pokemon (Pokemon),2022-08-24,2022-09-23,Pokemon (Pokemon)|ETH,nan,1,train
+435,axon James Musk 2.0 (Saxon James Musk 2.0),2022-08-07,2022-08-08,axon James Musk 2.0 (Saxon James Musk 2.0)|BSC,nan,1,train
+436,DRAC Network (DRAC),2022-08-14,2023-09-07,DRAC Network (DRAC)|ETH,nan,1,train
+437,LV PLUS (LVP),2022-06-13,2024-06-23,LV PLUS (LVP)|BSC,nan,1,train
+438,Animoon (ANIMOON),2021-08-02,2022-08-03,Animoon (ANIMOON)|BSC,nan,1,train
+439,Armadillo Token ($ARMADILLO),2022-08-05,2024-10-14,Armadillo Token ($ARMADILLO)|BSC,nan,1,train
+440,FuryOfTheFur (FOTF),2022-04-18,2022-04-19,FuryOfTheFur (FOTF)|BSC,nan,1,train
+441,Day Of Defeat (DOD),2021-11-30,2023-01-23,Day Of Defeat (DOD)|BSC,nan,1,train
+442,BNBDeFi ($DEFI),2022-03-30,2023-03-22,BNBDeFi ($DEFI)|BSC,nan,1,train
+443,PLD (PLD),2022-03-15,2024-10-08,PLD (PLD)|FANTOM,nan,1,train
+444,Baby Musk (BabyMusk),2024-03-06,2024-10-13,Baby Musk (BabyMusk)|BSC,nan,1,test
+445,WeGro (WEGRO),2021-12-17,2024-08-12,WeGro (WEGRO)|BSC,nan,1,train
+446,Mercenary Gold (MGOLD),2022-01-19,2022-01-28,Mercenary Gold (MGOLD)|BSC,nan,1,train
+447,Infinity Token (IT),2021-08-14,2022-02-01,Infinity Token (IT)|ETH,nan,1,train
+448,KingFund (KING),2021-10-27,2022-02-02,KingFund (KING)|BSC,nan,1,train
+449,MetaSwap (MSC),2022-02-26,2024-10-15,MetaSwap (MSC)|BSC,nan,1,train
+450,Bent Token (BENT),2021-12-12,2022-08-26,Bent Token (BENT)|ETH,nan,1,train
+451,EvolvedApes (EVA),2022-07-16,2023-01-04,EvolvedApes (EVA)|ETH,"531,028.5 USDT left of 559,935.5; contract address unknown: the explorer link points to the contract of row 475",1,train
+452,URANIUM FINANCIAL (URF),2022-06-05,2024-09-17,URANIUM FINANCIAL (URF)|BSC,nan,1,train
+453,PEPECoinDAO (PEPEDAO),2023-05-04,2024-06-14,PEPECoinDAO (PEPEDAO)|ETH,nan,1,train
+454,Lymex (LYM),2022-11-06,2022-12-04,Lymex (LYM)|BSC,nan,1,train
+455,BNB Hack Inu (BNBHACK),2022-10-08,2022-10-09,BNB Hack Inu (BNBHACK)|ETH,nan,1,train
+456,Open Campus (EDU),2023-04-29,2024-10-17,Open Campus (EDU)|BSC,nan,1,train
+457,COPENHEIMER (COPE),2023-07-21,2023-07-21,COPENHEIMER (COPE)|ETH,nan,1,train
+458,InsurChain Coin (INSUR),2018-03-25,2024-05-02,InsurChain Coin (INSUR)|ETH,nan,1,train
+459,Pinakion (PNK),2018-11-02,2024-10-17,Pinakion (PNK)|ETH,nan,1,train
+460,Airpod token (APOD),2023-12-25,2024-03-25,Airpod token (APOD)|ETH,nan,1,test
+461,Robotina token (ROX),2018-09-29,2020-09-30,Robotina token (ROX)|ETH,nan,1,train
+462,StatusNetwork (SNT),2017-07-07,2024-10-17,StatusNetwork (SNT)|ETH,nan,1,train
+463,DaTa eXchange Token (DTX),2018-07-19,2023-12-02,DaTa eXchange Token (DTX)|ETH,nan,1,train
+464,RankingBall Gold (RBG),2019-09-26,2019-11-14,RankingBall Gold (RBG)|ETH,nan,1,train
+465,DRAGON (DRG),2023-10-16,2024-09-23,DRAGON (DRG)|ETH,nan,1,test
+466,FuzeX (FXT),2018-05-16,2019-11-15,FuzeX (FXT)|ETH,nan,1,train
+467,Color Coin (CLR),2018-08-13,2023-10-30,Color Coin (CLR)|ETH,nan,1,train
+468,SwarmCity (SWT),2017-03-04,2019-12-14,SwarmCity (SWT)|ETH,nan,1,train
+469,YOYOW (YOYOW),2017-08-28,2022-03-30,YOYOW (YOYOW)|ETH,nan,1,train
+470,UniCoin (UNI),2022-02-16,2022-04-13,UniCoin (UNI)|ETH,nan,1,train
+471,Cindicator (CND),2017-10-14,2022-03-15,Cindicator (CND)|ETH,nan,1,train
+472,B2BCoin (BBC),2018-05-08,2020-04-08,B2BCoin (BBC)|ETH,nan,1,train
+473,Fuel Token (FUEL),2017-10-31,2019-10-03,Fuel Token (FUEL)|ETH,contract address unknown: the explorer link points to the contract of row 488,1,train
+474,Dank Token (DANK),2024-10-04,2024-10-19,Dank Token (DANK)|ETH,contract address unknown: the explorer link points to the contract of row 488,1,test
+475,Wisdom Protocol (WIS),2024-10-03,2024-10-19,Wisdom Protocol (WIS)|ETH,contract address unknown: the explorer link points to the contract of row 488,1,test
+476,CAW 2.0 (A RUGGERS DREAM),2023-07-07,2024-09-26,CAW 2.0 (A RUGGERS DREAM)|ETH,contract address unknown: the explorer link points to the contract of row 488,1,train
+477,X PROTOCOL (XP),2023-12-01,2024-10-20,X PROTOCOL (XP)|ETH,nan,1,test
+478,Grinch INU (GINU),2023-12-08,2024-09-08,Grinch INU (GINU)|ETH,nan,1,test
+479,HAPPYBEAR (HAPPY),2022-12-16,2023-05-18,HAPPYBEAR (HAPPY)|ETH,nan,1,train
+480,Rabbit2023 (RABBIT),2022-11-08,2023-05-27,Rabbit2023 (RABBIT)|ETH,nan,1,train
+481,Raijin (RAIJIN),2021-08-24,2021-11-09,Raijin (RAIJIN)|ETH,nan,1,train
+482,Ultima (Ult),2023-09-22,2024-10-20,Ultima (Ult)|ETH,nan,1,test
+483,Satoshi Vision (SVI),2023-03-09,2024-10-20,Satoshi Vision (SVI)|ETH,nan,1,train
+484,Messi (MESSI),2023-06-14,2024-07-26,Messi (MESSI)|ETH,nan,1,train
+485,Spirit Away (HAKU),2023-06-29,2023-09-14,Spirit Away (HAKU)|ETH,nan,1,train
+486,CRISTIANO RONALDO ($CR7),2024-01-17,2024-10-20,CRISTIANO RONALDO ($CR7)|ETH,nan,1,test
+487,Cancer Inu (CANCER),2022-05-30,2022-05-31,Cancer Inu (CANCER)|ETH,nan,1,train
+488,Tom ($TOM),2023-05-12,2024-10-19,Tom ($TOM)|ETH,nan,1,train
+489,Islam Makhachev Inu (ISLAM),2024-06-02,2024-10-16,Islam Makhachev Inu (ISLAM)|ETH,nan,1,test
+490,NITRO (NOX),2024-08-02,2024-10-06,NITRO (NOX)|ETH,nan,1,test
+491,teh ppl (CROWS),2024-03-12,2024-10-20,teh ppl (CROWS)|ETH,nan,1,test
+492,Shibabydoge (SBD),2022-01-01,2022-06-11,Shibabydoge (SBD)|ETH,nan,1,train
+493,sparta (SPARTA),2021-11-25,2022-12-23,sparta (SPARTA)|ETH,nan,1,train
+494,CuzIGotHIGH (HIGH),2024-03-24,2024-10-21,CuzIGotHIGH (HIGH)|ETH,nan,1,test
+495,Musky Swap (MUSKSWAP),2021-10-24,2021-11-19,Musky Swap (MUSKSWAP)|ETH,nan,1,train
+496,Just a Token (OneToken),2024-06-08,2024-10-21,Just a Token (OneToken)|ETH,nan,1,test
+497,Baby Ape (BABYAPE),2022-07-10,2022-12-21,Baby Ape (BABYAPE)|ETH,nan,1,train
+498,BabyTrump (BabyTrump),2024-03-30,2024-10-21,BabyTrump (BabyTrump)|ETH,nan,1,test
+499,TEST (TEST),2023-08-08,2024-10-22,TEST (TEST)|ETH,nan,1,train
+500,Music Protocol (Music),2024-07-25,2024-10-22,Music Protocol (Music)|ETH,nan,1,test
+501,Doge Wars (DW),2022-09-02,2022-09-03,Doge Wars (DW)|ETH,nan,1,train
+502,Domo (DOMO),2023-11-25,2024-04-21,Domo (DOMO)|ETH,nan,1,test
+503,Follow the she Goat (Chimera),2024-03-26,2024-08-05,Follow the she Goat (Chimera)|ETH,nan,1,test
+504,Jerome Powell Inu (JPI),2023-06-23,2024-10-22,Jerome Powell Inu (JPI)|ETH,nan,1,train
+505,Mizuchi (MIZU),2023-01-15,2023-01-23,Mizuchi (MIZU)|ETH,nan,1,train
+506,ToTheMoon(ARTEMIS),2021-06-17,2022-06-25,ToTheMoon(ARTEMIS)|ETH,nan,1,train
+507,Milo Inu (MILO),2022-02-28,2024-10-22,Milo Inu (MILO)|ETH,nan,1,train
+508,XDAO (XDAO),2022-10-21,2024-10-22,XDAO (XDAO)|ETH,nan,1,train
+509,STAKEDAO (STAKEDAO),2021-01-27,2024-10-24,STAKEDAO (STAKEDAO)|ETH,nan,1,train
+510,ShibEreum (SHIBEREUM),2022-12-19,2023-01-13,ShibEreum (SHIBEREUM)|ETH,nan,1,train
+511,SAFE MARS (SMARS),2023-10-14,2024-09-28,SAFE MARS (SMARS)|ETH,nan,1,test
+512,Lovely Inu Finance (LOVELY),2021-10-15,2024-10-24,Lovely Inu Finance (LOVELY)|ETH,nan,1,train
+513,Mighty Mouse (MIGHTY),2024-09-12,2024-09-24,Mighty Mouse (MIGHTY)|ETH,nan,1,test
+514,BITCRAFT ONLINE,2023-10-24,2023-10-25,BITCRAFT ONLINE|BSC,nan,1,test
+515,Big Time (BIGTIME),2023-10-13,2024-11-02,Big Time (BIGTIME)|BSC,nan,1,test
+516,ShowHand (HAND),2018-08-17,2024-10-30,ShowHand (HAND)|ETH,nan,1,train
+517,LGO (LGO),2023-03-23,2024-11-01,LGO (LGO)|ETH,nan,1,train
+518,Playkey (PKT),2017-12-21,2019-01-09,Playkey (PKT)|ETH,nan,1,train
+519,EcoRealEstate (ECOREAL),2018-09-26,2022-11-28,EcoRealEstate (ECOREAL)|ETH,nan,1,train
+520,SunContract (SNC),2017-07-15,2024-11-03,SunContract (SNC)|ETH,nan,1,train
+521,Bitsubishi (BITSU),2022-05-04,2022-05-28,Bitsubishi (BITSU)|BSC,nan,1,train
+522,MetaversePay (MVP),2022-06-24,2023-02-24,MetaversePay (MVP)|BSC,nan,1,train
+523,RoyalPay (ROYAL),2022-06-07,2022-07-06,RoyalPay (ROYAL)|BSC,nan,1,train
+524,Dwagon ($Dwagon),2024-09-12,2024-11-03,Dwagon ($Dwagon)|ETH,nan,1,test
+525,HashCoin (HSC),2018-07-11,2022-01-07,HashCoin (HSC)|ETH,nan,1,train
+526,Xystus (xys),2019-08-08,2022-01-30,Xystus (xys)|ETH,nan,1,train
+527,MINDOL (MIN),2019-01-17,2022-06-30,MINDOL (MIN)|ETH,nan,1,train
+528,CalorieCoin (CAL),2021-12-01,2024-10-31,CalorieCoin (CAL)|ETH,nan,1,train
+529,FXPay (FXP),2019-01-03,2022-04-28,FXPay (FXP)|ETH,nan,1,train
+530,PayX Token (PAX),2023-09-19,2024-02-10,PayX Token (PAX)|ETH,nan,1,test
+531,MATT (MATT),2024-07-20,2024-11-04,MATT (MATT)|ETH,nan,1,test
+532,V-ID Token (VIDT),2019-04-14,2024-11-04,V-ID Token (VIDT)|ETH,nan,1,train
+533,Proton Token (PTT),2018-06-25,2024-07-11,Proton Token (PTT)|ETH,transaction count 25 is not a real count,1,train
+534,Jobchain (JOB),2020-01-06,2023-12-04,Jobchain (JOB)|ETH,nan,1,train
+535,POPCHAIN CASH TOKEN (PCHT),2018-05-22,2019-05-08,POPCHAIN CASH TOKEN (PCHT)|ETH,nan,1,train
+536,Insureum Token (ISR),2019-03-04,2023-12-27,Insureum Token (ISR)|ETH,nan,1,train
+537,Webflix Token (WFX),2019-06-12,2019-10-09,Webflix Token (WFX)|ETH,nan,1,train
+538,RealTract (RET),2018-09-09,2021-11-17,RealTract (RET)|ETH,nan,1,train
+539,blocktrade (BTT),2018-05-26,2019-06-07,blocktrade (BTT)|ETH,nan,1,train
+540,ECOSCU (ECOSCU),2020-04-22,2021-10-27,ECOSCU (ECOSCU)|ETH,nan,1,train
+541,YGGDRASH (YEED),2018-10-21,2022-01-25,YGGDRASH (YEED)|ETH,nan,1,train
+542,ATMChain (ATM),2017-10-12,2022-04-01,ATMChain (ATM)|ETH,nan,1,train
+543,Bethereum (BETHER),2018-10-03,2020-10-14,Bethereum (BETHER)|ETH,nan,1,train
+544,KFC Token(KFC),2023-06-14,2023-06-19,KFC Token(KFC)|ETH,nan,1,train
+545,SmartMesh Token (SMT),2017-12-19,2024-07-03,SmartMesh Token (SMT)|ETH,nan,1,train
+546,pahoo (pahoo),2019-10-21,2021-03-20,pahoo (pahoo)|ETH,nan,1,train
+547,HuobiPoolToken (HPT),2019-02-02,2023-01-18,HuobiPoolToken (HPT)|ETH,nan,1,train
+548,BFX (BFX),2023-06-11,2023-07-11,BFX (BFX)|ETH,transaction count 25 is not a real count,1,train
+549,W12 Token (W12),2019-06-24,2021-04-19,W12 Token (W12)|ETH,nan,1,train
+550,OneRoot Network (RNT),2018-01-16,2023-04-23,OneRoot Network (RNT)|ETH,transaction count 25 is not a real count,1,train
+551,AIRSHIB (AIRSHIB),2024-01-08,2024-01-09,AIRSHIB (AIRSHIB)|ETH,nan,1,test
+552,Dinosaur (Dinosaur),2023-06-19,2023-12-13,Dinosaur (Dinosaur)|ETH,nan,1,train
+553,TOKAU (TOKAU),2021-06-09,2023-06-08,TOKAU (TOKAU)|ETH,nan,1,train
+554,CargoX (CXO),2018-02-17,2024-11-06,CargoX (CXO)|ETH,nan,1,train
+555,Space Doge(SpaceDoge),2021-04-26,2024-09-25,Space Doge(SpaceDoge)|ETH,nan,1,train
+556,AIREthereumMax INU (AIReMax),2021-05-18,2022-09-20,AIREthereumMax INU (AIReMax)|ETH,nan,1,train
+557,EthereumMaX (eMax),2021-05-20,2022-10-23,EthereumMaX (eMax)|ETH,nan,1,train
+558,FoxSayfinance (FSY),2021-06-16,2021-11-08,FoxSayfinance (FSY)|ETH,nan,1,train
+559,TopONE (TopONE) ,2022-08-24,2023-07-19,TopONE (TopONE) |ETH,nan,1,train
+560,Taobao Token (TAOB),2021-06-29,2021-11-14,Taobao Token (TAOB)|ETH,nan,1,train
+561,DAOSWAP (DAOSWAP),2022-01-03,2023-05-14,DAOSWAP (DAOSWAP)|ETH,nan,1,train
+562,Ultiverse (ULTI),2024-06-07,2024-11-07,Ultiverse (ULTI)|ETH,nan,1,test
+563,C2C (C2C),2018-08-11,2021-08-02,C2C (C2C)|ETH,transaction count 25 is not a real count,1,train
+564,ALTAVA Group (ALTAVA),2022-07-11,2024-08-03,ALTAVA Group (ALTAVA)|ETH,nan,1,train
+565,Wrapped BTC (WBTC),2019-02-01,2024-11-09,Wrapped BTC (WBTC)|ETH,nan,0,train
+566,Render Token (RNDR),2020-06-24,2024-11-09,Render Token (RNDR)|ETH,nan,0,train
+567,Ampleforth Governance (FORTH),2021-04-26,2024-11-09,Ampleforth Governance (FORTH)|ETH,nan,0,train
+568,FC Santos Fan Token (SANTOS),2021-12-06,2024-11-09,FC Santos Fan Token (SANTOS)|BSC,nan,0,train
+569,FC Lazio Fan Token (LAZIO),2021-10-23,2024-11-09,FC Lazio Fan Token (LAZIO)|BSC,nan,0,train
+570,ALPINE Fan Token (ALPINE),2022-02-25,2024-11-09,ALPINE Fan Token (ALPINE)|BSC,nan,0,train
+571,Baby Doge Coin (BabyDoge),2021-06-11,2024-11-10,Baby Doge Coin (BabyDoge)|BSC,nan,0,train
+572,FLOKI (FLOKI),2021-07-14,2024-11-11,FLOKI (FLOKI)|ETH,nan,0,train
+573,GM (GM),2021-11-13,2024-12-08,GM (GM)|ETH,nan,0,train
+574,Lido Staked Ether (STETH),2021-02-03,2024-11-10,Lido Staked Ether (STETH)|ETH,nan,0,train
+575,ChainLink Token (LINK),2017-09-21,2024-11-11,ChainLink Token (LINK)|ETH,nan,0,train
+576,Compound (COMP),2020-06-19,2024-11-12,Compound (COMP)|ETH,nan,0,train
+577,Lido DAO Token (LDO),2021-01-06,2024-11-13,Lido DAO Token (LDO)|ETH,nan,0,train
+578,Aave Token (AAVE),2020-10-18,2024-11-14,Aave Token (AAVE)|ETH,nan,0,train
+579,Binance-Peg Cardano Token (ADA),2017-10-02,2024-11-15,Binance-Peg Cardano Token (ADA)|BSC,Start date before chain launch,0,train
+580,1INCH Token (1INCH),2020-12-25,2024-11-11,1INCH Token (1INCH)|ETH,nan,0,train
+581,Synthetix Network Token (SNX),2018-12-16,2024-11-12,Synthetix Network Token (SNX)|ETH,nan,0,train
+582,Ocean Token (OCEAN),2017-03-16,2024-11-13,Ocean Token (OCEAN)|ETH,nan,0,train
+583,Fetch (FET),2019-03-11,2024-11-14,Fetch (FET)|ETH,nan,0,train
+584,AdEx Network (ADX),2017-07-10,2024-11-12,AdEx Network (ADX)|BSC,Start date before chain launch,0,train
+585,Binance-Peg Maker (MKR),2017-02-08,2024-11-13,Binance-Peg Maker (MKR)|BSC,Start date before chain launch,0,train
+586,dForce (DF),2020-08-10,2024-11-11,dForce (DF)|ETH,nan,0,train
+587,Coin98 (C98),2021-07-28,2024-11-12,Coin98 (C98)|BSC,nan,0,train
+588,Cronos Coin (CRO),2018-12-15,2024-11-12,Cronos Coin (CRO)|ETH,nan,0,train
+589,Euler (EUL),2022-06-28,2024-11-13,Euler (EUL)|ETH,nan,0,train
+590,Spool DAO Token (SPOOL),2022-03-15,2024-11-05,Spool DAO Token (SPOOL)|ETH,nan,0,train
+591,LooksRare Token (LOOKS),2022-01-14,2024-12-08,LooksRare Token (LOOKS)|ETH,nan,0,train
+592,Rocket Pool (RPL),2020-01-01,2024-11-12,Rocket Pool (RPL)|ETH,nan,0,train
+593,TrueUSD (TUSD),2018-03-06,2024-11-13,TrueUSD (TUSD)|ETH,nan,0,train
+594,Chess (CHESS),2021-07-31,2024-11-12,Chess (CHESS)|BSC,nan,0,train
+595,Gearbox (GEAR),2022-12-20,2024-11-13,Gearbox (GEAR)|ETH,nan,0,train
+596,Tether USD (USDT),2015-02-26,2024-11-12,Tether USD (USDT)|ETH,Start date before chain launch,0,train
+597,Aura (AURA),2022-06-17,2024-11-13,Aura (AURA)|ETH,transaction count 25 is not a real count,0,train
+598,Ampleforth (AMPL),2019-10-14,2024-11-05,Ampleforth (AMPL)|ETH,nan,0,train
+599,AlpacaToken (ALPACA),2021-03-10,2024-11-12,AlpacaToken (ALPACA)|BSC,contract address unknown: the explorer link points to the contract of row 633,0,train
+600,Fodl (FODL),2021-10-19,2024-12-08,Fodl (FODL)|ETH,nan,0,train
+601,Kishu Inu (KISHU),2021-05-01,2024-11-14,Kishu Inu (KISHU)|ETH,nan,0,train
+602,Million (MM),2021-07-10,2024-11-14,Million (MM)|ETH,transaction count 25 is not a real count,0,train
+603,Franklin (FLy),2015-09-15,2024-12-08,Franklin (FLy)|ETH,nan,0,train
+604,BASv2 (BASv2),2017-08-13,2024-12-08,BASv2 (BASv2)|ETH,nan,0,train
+605,DLP Duck Token (DUCK),2020-12-22,2024-12-08,DLP Duck Token (DUCK)|ETH,transaction count 25 is not a real count,0,train
+606,Empty Set Dollar (ESD),2020-12-02,2024-12-08,Empty Set Dollar (ESD)|ETH,nan,0,train
+607,CACHE Gold (CGT),2020-06-11,2024-12-08,CACHE Gold (CGT)|ETH,nan,0,train
+608,Fasttoken (FTN),2023-01-24,2024-11-14,Fasttoken (FTN)|ETH,nan,0,train
+609,Compound Wrapped BTC (cWBTC),2020-03-17,2024-11-15,Compound Wrapped BTC (cWBTC)|ETH,nan,0,train
+610,THE TRUTH (UFO),2021-07-02,2024-12-08,THE TRUTH (UFO)|ETH,transaction count 25 is not a real count,0,train
+611,GateChainToken (GT),2019-08-27,2024-11-16,GateChainToken (GT)|ETH,transaction count 25 is not a real count,0,train
+612,HuobiToken (HT),2018-02-08,2024-11-18,HuobiToken (HT)|ETH,nan,0,train
+613,Origin Dollar (OUSD),2021-09-25,2024-11-17,Origin Dollar (OUSD)|ETH,nan,0,train
+614,Origin Ether (OETH),2023-05-05,2024-11-18,Origin Ether (OETH)|ETH,nan,0,train
+615,EURA (previously agEUR) (EURA),2023-12-09,2024-11-19,EURA (previously agEUR) (EURA)|ETH,transaction count 25 is not a real count,0,test
+616,GoBlank Token (BLANK),2021-03-08,2024-12-08,GoBlank Token (BLANK)|ETH,nan,0,train
+617,Leo Token (LEO),2021-09-05,2024-12-08,Leo Token (LEO)|ETH,nan,0,train
+618,Power Index Pool Token (PIPT),2021-01-24,2024-11-03,Power Index Pool Token (PIPT)|ETH,nan,0,train
+619,EverValueCoin (EVA),2024-10-11,2024-11-17,EverValueCoin (EVA)|ARBI,nan,0,test
+620,DeGate Token (DG),2021-03-17,2024-11-18,DeGate Token (DG)|ETH,nan,0,train
+621,Idle (IDLE),2020-12-03,2024-12-08,Idle (IDLE)|ETH,nan,0,train
+622,Magpie Token (MGP),2022-10-28,2024-11-18,Magpie Token (MGP)|BSC,nan,0,train
+623,FARM Reward Token (FARM),2020-09-03,2024-11-19,FARM Reward Token (FARM)|ETH,Duplicate project,0,train
+624,Props Token (PROPS),2018-11-08,2024-12-08,Props Token (PROPS)|ETH,nan,0,train
+625,Pax Dollar (USDP),2018-10-02,2024-11-18,Pax Dollar (USDP)|ETH,nan,0,train
+626,DogeBonk.com (DOBO),2021-10-20,2024-12-08,DogeBonk.com (DOBO)|BSC,contract address unknown: the explorer link points to the contract of row 647,0,train
+627,Lympo Market Token (LMT),2021-05-02,2024-12-08,Lympo Market Token (LMT)|ETH,nan,0,train
+628,RAE Token (RAE),2019-09-02,2024-11-18,RAE Token (RAE)|ETH,transaction count 25 is not a real count,0,train
+629,Zest Token (ZST),2024-09-30,2024-12-08,Zest Token (ZST)|BSC,nan,0,test
+630,VesperToken (VSP),2021-02-17,2024-12-08,VesperToken (VSP)|ETH,nan,0,train
+631,Wrapped Monero (WXMR),2014-05-22,2024-11-18,Wrapped Monero (WXMR)|ETH,Start date before chain launch,0,train
+632,Saddle.Finance (SADDLE),2022-06-28,2024-12-08,Saddle.Finance (SADDLE)|ETH,nan,0,train
+633,Auric Network (AUSCM),2020-11-03,2024-11-19,Auric Network (AUSCM)|ETH,nan,0,train
+634,Wault (WAULTx),2021-09-09,2024-12-08,Wault (WAULTx)|BSC,nan,0,train
+635,Rupiah Token (IDRT),2019-09-25,2024-11-19,Rupiah Token (IDRT)|ETH,nan,0,train
+636,Impermax (IMX),2022-10-04,2024-11-20,Impermax (IMX)|ETH,nan,0,train
+637,Digital Reserve Currency (DRC),2020-10-15,2024-12-08,Digital Reserve Currency (DRC)|ETH,transaction count 25 is not a real count,0,train
+638,Bunny Token (BUNNY),2021-01-05,2024-12-08,Bunny Token (BUNNY)|BSC,nan,0,train
+639,xToken (XTK),2021-02-25,2024-12-08,xToken (XTK)|ETH,transaction count 25 is not a real count,0,train
+640,Deri (DERI),2021-02-14,2024-12-08,Deri (DERI)|ETH,nan,0,train
+641,"
+Bancor (BNT)",2017-06-19,2024-11-20,"
+Bancor (BNT)|ETH",nan,0,train
+642,Dexe (DEXE),2020-10-06,2024-11-20,Dexe (DEXE)|ETH,nan,0,train
+643,BitberryToken (BBR),2021-01-22,2024-12-08,BitberryToken (BBR)|ETH,nan,0,train
+644,Fei USD (FEI),2021-04-03,2024-12-08,Fei USD (FEI)|ETH,transaction count 25 is not a real count,0,train
+645,SafeMoonCash (SAFEMOONCASH),2021-05-02,2024-11-16,SafeMoonCash (SAFEMOONCASH)|BSC,nan,0,train
+646,SCROOGE (SCROOGE),2023-06-17,2024-11-20,SCROOGE (SCROOGE)|BSC,nan,0,train
+647,Cryptocurrency Top 10 Tokens Index (CC10),2021-01-23,2024-12-08,Cryptocurrency Top 10 Tokens Index (CC10)|ETH,nan,0,train
+648,Shiba Predator (QOM),2022-03-23,2024-12-08,Shiba Predator (QOM)|ETH,nan,0,train
+649,Concentrated Voting Power (CVP),2020-08-29,2024-12-08,Concentrated Voting Power (CVP)|ETH,transaction count 25 is not a real count,0,train
+650,Crypto20 (C20),2018-01-23,2024-12-08,Crypto20 (C20)|ETH,nan,0,train
+651,Wrapped GLMR (WGLMR),2022-01-16,2024-11-20,Wrapped GLMR (WGLMR)|ETH,nan,0,train
+652,Wrapped MOVR (WMOVR),2021-09-02,2024-11-21,Wrapped MOVR (WMOVR)|ETH,nan,0,train
+653,Binance-Peg PAX Gold (PAXG),2019-10-02,2024-11-22,Binance-Peg PAX Gold (PAXG)|BSC,Start date before chain launch; legitimate project with no transfers in the 30 days before collection,0,train
+654,BENQI (QI),2021-08-27,2024-11-21,BENQI (QI)|SNOW,nan,0,train
+655,Vesta (VSTA),2022-04-16,2024-11-21,Vesta (VSTA)|ARBI,nan,0,train
+656,Monolith (TKN),2017-05-08,2024-11-12,Monolith (TKN)|ETH,transaction count 25 is not a real count,0,train
+657,Akropolis (AKRO),2020-01-01,2024-11-21,Akropolis (AKRO)|ETH,contract address unknown: the explorer link points to a token (KAON) that matches none of the three rows sharing it,0,train
+658,OKB (OKB),2019-05-07,2024-11-22,OKB (OKB)|ETH,transaction count 25 is not a real count,0,train
+659,JOJO (JOJO),2021-08-05,2024-12-08,JOJO (JOJO)|BSC,nan,0,train
+660,KuCoin Token (KCS),2017-10-25,2024-11-19,KuCoin Token (KCS)|ETH,nan,0,train
+661,Olympus (OHM),2022-01-17,2024-11-23,Olympus (OHM)|ETH,nan,0,train
+662,Uquid Coin (UQC),2017-12-21,2024-11-24,Uquid Coin (UQC)|ETH,nan,0,train
+663,IceToken (ICE),2017-06-24,2024-12-08,IceToken (ICE)|ETH,nan,0,train
+664,HappyCoin (HAPPY),2021-05-08,2024-12-08,HappyCoin (HAPPY)|BSC,nan,0,train
+665,dHEDGE Top Index (DTOP),2021-04-20,2024-12-08,dHEDGE Top Index (DTOP)|ETH,nan,0,train
+666,Kyber Network Crystal v2 (KNC),2017-09-25,2024-11-23,Kyber Network Crystal v2 (KNC)|ETH,transaction count 25 is not a real count,0,train
+667,Fringe (FRIN),2022-01-29,2024-11-24,Fringe (FRIN)|ETH,nan,0,train
+668,Hotbit Token (HTB),2021-04-16,2024-12-08,Hotbit Token (HTB)|ETH,nan,0,train
+669,USDK (USDK),2019-08-29,2024-12-08,USDK (USDK)|ETH,nan,0,train
+670,Compound Dai (cDAI),2020-01-01,2024-11-23,Compound Dai (cDAI)|ETH,transaction count 25 is not a real count,0,train
+671,Compound Ether (cETH),2021-04-10,2024-11-23,Compound Ether (cETH)|ETH,nan,0,train
+672,CelerToken (CELR),2019-04-04,2024-11-24,CelerToken (CELR)|ETH,transaction count 25 is not a real count,0,train
+673,Unitus (UTS),2023-12-01,2024-12-08,Unitus (UTS)|ETH,legitimate project with no transfers in the 30 days before collection,0,test
+674,Compound USD Coin (cUSDC),2021-04-06,2024-11-24,Compound USD Coin (cUSDC)|ETH,nan,0,train
+675,MoonToken (MOON),2020-09-17,2024-12-08,MoonToken (MOON)|ETH,transaction count 25 is not a real count,0,train
+676,Wrapped TON Coin (TONCOIN),2021-08-27,2024-11-24,Wrapped TON Coin (TONCOIN)|ETH,nan,0,train
+677,SpookyToken (BOO),2021-09-02,2024-11-25,SpookyToken (BOO)|ETH,nan,0,train
+678,Republic (REN),2018-02-22,2024-11-26,Republic (REN)|ETH,nan,0,train
+679,FLEX Coin (FLEX),2019-07-30,2024-11-21,FLEX Coin (FLEX)|ETH,nan,0,train
+680,WaultSwap (WEX),2021-05-02,2024-12-08,WaultSwap (WEX)|BSC,nan,0,train
+681,CompliFi (COMFI),2021-04-30,2024-12-08,CompliFi (COMFI)|ETH,nan,0,train
+682,Convergence (CONV),2021-03-26,2024-12-08,Convergence (CONV)|ETH,nan,0,train
+683,Blind Boxes Token (BLES),2021-03-28,2024-11-24,Blind Boxes Token (BLES)|BSC,nan,0,train
+684,Audius (AUDIO),2020-10-28,2024-11-25,Audius (AUDIO)|ETH,nan,0,train
+685,EarnX (EarnX),2021-04-19,2024-12-08,EarnX (EarnX)|BSC,nan,0,train
+686,Capsule Coin (CAPS),2021-05-31,2024-11-25,Capsule Coin (CAPS)|ETH,nan,0,train
+687,Octo.fi (OCTO),2020-09-24,2024-12-08,Octo.fi (OCTO)|ETH,nan,0,train
+688,Meta (MTA),2020-08-14,2024-12-08,Meta (MTA)|ETH,nan,0,train
+689,Bird.Money (BIRD),2022-11-30,2024-11-25,Bird.Money (BIRD)|ETH,nan,0,train
+690,Oms (OMS),2021-06-17,2024-12-08,Oms (OMS)|ETH,nan,0,train
+691,Lodestar (LODE),2023-03-16,2024-11-25,Lodestar (LODE)|ARBI,nan,0,train
+692,Hunny Token (HUNNY),2021-09-08,2024-12-08,Hunny Token (HUNNY)|BSC,nan,0,train
+693,Beta Token (BETA),2021-10-10,2024-11-26,Beta Token (BETA)|ETH,nan,0,train
+694,Level Token (LVL),2023-01-03,2024-12-08,Level Token (LVL)|BSC,nan,0,train
+695,Axelar (AXL),2022-10-02,2024-11-26,Axelar (AXL)|ETH,nan,0,train
+696,Possum (PSM),2023-12-13,2024-11-27,Possum (PSM)|ETH,nan,0,test
+697,Finance.Vote Token (FVT),2020-11-23,2024-12-08,Finance.Vote Token (FVT)|ETH,nan,0,train
+698,DSLA (DSLA),2020-04-17,2024-12-08,DSLA (DSLA)|ETH,transaction count 25 is not a real count,0,train
+699,Fuse Token (FUSE),2020-01-14,2024-12-07,Fuse Token (FUSE)|ETH,nan,0,train
+700,UNIC (UNIC),2022-01-29,2024-12-08,UNIC (UNIC)|ETH,nan,0,train
+701,Binance-Peg Ethereum Token,2013-05-01,2024-12-07,Binance-Peg Ethereum Token|BSC,Start date before chain launch,0,train
+702,Script Network (SCPT),2024-01-21,2024-12-08,Script Network (SCPT)|BSC,nan,0,test
+703,SAND (SAND),2020-08-16,2024-12-09,SAND (SAND)|ETH,nan,0,train
+704,Arbitrum (ARB),2023-03-25,2024-12-08,Arbitrum (ARB)|ETH,nan,0,train
+705,Aptos Coin (APT),2022-10-21,2024-12-09,Aptos Coin (APT)|ETH,nan,0,train
+706,Binance-Peg XRP Token (XRP),2024-12-07,2024-12-10,Binance-Peg XRP Token (XRP)|BSC,nan,0,test
+707,bitsCrunch Token (BCUT),2024-02-24,2024-12-08,bitsCrunch Token (BCUT)|ETH,nan,0,test
+708,Illuvium (ILV),2021-04-04,2024-12-09,Illuvium (ILV)|ETH,nan,0,train
+709,Theta Token (THETA),2018-01-22,2024-12-08,Theta Token (THETA)|ETH,nan,0,train
+710,Optimism (OP),2022-06-04,2024-12-09,Optimism (OP)|ETH,nan,0,train
+711,HanChain (HAN),2023-01-08,2024-12-08,HanChain (HAN)|ETH,nan,0,train
+712,CyberConnect (CYBER),2023-08-17,2024-12-08,CyberConnect (CYBER)|ETH,nan,0,train
+713,AITECH (AITECH),2023-08-20,2024-12-08,AITECH (AITECH)|BSC,nan,0,train
+714,Radio Caca V2 (RACA),2024-03-20,2024-12-09,Radio Caca V2 (RACA)|ETH,nan,0,test
+715,VeChain (VET),2017-08-22,2024-12-08,VeChain (VET)|BSC,nan,0,train
+716,DexCheck (DCK),2023-07-23,2024-12-10,DexCheck (DCK)|BSC,nan,0,train
+717,Wrapped PAW (wPAW),2023-02-08,2024-12-11,Wrapped PAW (wPAW)|ETH,nan,0,train
+718,LimeWire Token (LMWR),2023-05-18,2024-12-10,LimeWire Token (LMWR)|ETH,nan,0,train
+719,Gelato Network Token (GEL),2021-09-23,2024-12-10,Gelato Network Token (GEL)|ETH,nan,0,train
+720,PORTAL (PORTAL),2024-02-29,2024-12-11,PORTAL (PORTAL)|ETH,nan,0,test
+721,Miracleplay Token (MPT),2023-11-03,2024-12-08,Miracleplay Token (MPT)|POLYGON,legitimate project with no transfers in the 30 days before collection,0,test
+722,GMX(GMX),2021-09-30,2024-12-08,GMX(GMX)|ARBI,nan,0,train
+723,ZKLink (ZKL),2024-07-23,2024-12-08,ZKLink (ZKL)|ETH,End date before start date,0,test
+724,GoMining Token (GMT),2021-05-23,2024-12-12,GoMining Token (GMT)|ETH,nan,0,train
+725,Cartesi Token (CTSI),2020-04-27,2024-12-13,Cartesi Token (CTSI)|ETH,nan,0,train
+726,SeedifyFund (SFUND),2021-04-03,2024-12-12,SeedifyFund (SFUND)|BSC,nan,0,train
+727,Boba Token (BOBA),2021-11-24,2024-12-13,Boba Token (BOBA)|ETH,nan,0,train
+728,izumi Token (iZi),2021-12-24,2024-12-11,izumi Token (iZi)|ETH,nan,0,train
+729,Openfabric (OFN),2023-10-25,2024-12-12,Openfabric (OFN)|BSC,nan,0,test
+730,ChronoTech Token (TIME),2017-03-09,2024-12-02,ChronoTech Token (TIME)|ETH,nan,0,train
+731,Geodnet Token (GEOD),2023-09-08,2024-12-12,Geodnet Token (GEOD)|POLYGON,nan,0,train
+732,MLTToken (ML),2023-04-01,2024-12-13,MLTToken (ML)|ETH,nan,0,train
+733,Masa Token (MASA),2024-05-07,2024-12-14,Masa Token (MASA)|ETH,contract address unknown: the explorer link points to a token (KAON) that matches none of the three rows sharing it,0,test
+734,OPEN GPU (oGPU),2024-06-05,2024-12-15,OPEN GPU (oGPU)|ETH,nan,0,test
+735,Rubic (BRBC),2020-10-03,2024-12-11,Rubic (BRBC)|BSC,nan,0,train
+736,BOSAGORA (BOA),2019-08-06,2024-12-12,BOSAGORA (BOA)|ETH,nan,0,train
+737,5ire Token (5IRE),2023-12-07,2024-12-13,5ire Token (5IRE)|ETH,nan,0,test
+738,Mint.club (MINT),2021-07-27,2024-12-12,Mint.club (MINT)|BSC,nan,0,train
+739,Altura (ALU),2021-04-30,2024-12-13,Altura (ALU)|BSC,nan,0,train
+740,DODO bird (DODO),2020-10-06,2024-12-12,DODO bird (DODO)|ETH,nan,0,train
+741,SafePal Token (SFP),2021-02-09,2024-12-13,SafePal Token (SFP)|BSC,nan,0,train
+742,TokenFi (TOKEN),2023-10-29,2024-12-12,TokenFi (TOKEN)|BSC,nan,0,test
+743,ApeCoin (APE),2022-03-20,2024-12-13,ApeCoin (APE)|ETH,nan,0,train
+744,ORBOFI (OBI),2023-05-20,2024-12-14,ORBOFI (OBI)|ETH,nan,0,train
+745,Boson Token (BOSON),2021-04-15,2024-12-12,Boson Token (BOSON)|ETH,nan,0,train
+746,ARPA Token (ARPA),2019-07-23,2024-12-13,ARPA Token (ARPA)|ETH,nan,0,train
+747,LayerZero (ZRO),2024-06-20,2024-12-14,LayerZero (ZRO)|ETH,nan,0,test
+748,Phala (PHA),2020-09-14,2024-12-12,Phala (PHA)|ETH,nan,0,train
+749,Tellor Tributes (TRB),2020-01-01,2024-12-13,Tellor Tributes (TRB)|ETH,nan,0,train
+750,Perpetual (PERP),2020-09-13,2024-12-14,Perpetual (PERP)|ETH,nan,0,train
+751,THORChain ETH.RUNE (RUNE),2019-07-30,2024-12-15,THORChain ETH.RUNE (RUNE)|ETH,nan,0,train
+752,Brickken (BKN),2023-07-27,2024-12-16,Brickken (BKN)|ETH,nan,0,train
+753,chiliZ (CHZ),2019-07-11,2024-12-12,chiliZ (CHZ)|ETH,nan,0,train
+754,IoTeX Network (IOTX),2018-06-03,2024-12-13,IoTeX Network (IOTX)|ETH,nan,0,train
+755,CreoEngine (CREO),2023-11-29,2024-12-14,CreoEngine (CREO)|BSC,nan,0,test
+756,MARBLEX on BNB (MBX),2022-07-14,2024-12-15,MARBLEX on BNB (MBX)|BSC,nan,0,train
+757,Swipe (SXP),2019-09-02,2024-12-17,Swipe (SXP)|ETH,nan,0,train
+758,Singularity Dao (SDAO),2021-07-05,2024-12-09,Singularity Dao (SDAO)|ETH,nan,0,train
+759,LTO Network Token (LTO),2019-02-25,2024-12-17,LTO Network Token (LTO)|ETH,nan,0,train
+760,Mysterium (PoS) (MYST),2021-08-17,2024-12-17,Mysterium (PoS) (MYST)|POLYGON,nan,0,train
+761,LandRocker (LRT),2024-05-31,2024-12-18,LandRocker (LRT)|POLYGON,nan,0,test
+762,MAGA VP (MVP),2024-02-24,2024-12-19,MAGA VP (MVP)|ETH,nan,0,test
+763,Swash Token (SWASH),2021-11-10,2024-12-17,Swash Token (SWASH)|ETH,nan,0,train
+764,Binance-Peg COTI Token (COTI),2019-07-13,2024-12-19,Binance-Peg COTI Token (COTI)|BSC,Start date before chain launch,0,train
+765,TOPIA (TOPIA),2023-08-23,2024-12-17,TOPIA (TOPIA)|ETH,nan,0,train
+766,PayPal USD (PYUSD),2023-08-10,2024-12-20,PayPal USD (PYUSD)|ETH,nan,0,train
+767,FABWELT (WELT),2021-11-23,2024-12-20,FABWELT (WELT)|BSC,nan,0,train
+768,OpulousToken (OPUL),2021-09-30,2024-12-20,OpulousToken (OPUL)|ETH,nan,0,train
+769,Ondo U.S. Dollar Yield (USDY),2024-01-21,2024-12-20,Ondo U.S. Dollar Yield (USDY)|ETH,nan,0,test
+770,SIDUS (SIDUS),2021-12-29,2024-12-21,SIDUS (SIDUS)|ETH,nan,0,train
+771,Injective Token (INJ),2020-10-21,2024-12-08,Injective Token (INJ)|ETH,nan,0,train
+772,NFE (NFE),2024-03-07,2024-12-20,NFE (NFE)|BSC,nan,0,test
+773,Layer3 (L3),2024-07-31,2024-12-21,Layer3 (L3)|ETH,nan,0,test
+774,BSCS Token (BSCS),2021-04-29,2024-12-08,BSCS Token (BSCS)|BSC,nan,0,train
+775,Hot Cross Token (HOTCROSS),2021-05-26,2024-12-20,Hot Cross Token (HOTCROSS)|BSC,nan,0,train
+776,Ankr Network (ANKR),2019-03-13,2024-12-22,Ankr Network (ANKR)|ETH,nan,0,train
+777,Pendle (PENDLE),2021-05-04,2024-12-21,Pendle (PENDLE)|ETH,nan,0,train
+778,HORD Token (HORD),2021-04-27,2024-12-08,HORD Token (HORD)|ETH,nan,0,train
+779,Polytrade (TRADE),2021-08-27,2024-12-08,Polytrade (TRADE)|ETH,nan,0,train
+780,Tribal Token (TRIBL),2022-10-19,2024-12-17,Tribal Token (TRIBL)|ETH,nan,0,train
+781,Maple Token (MPL),2021-05-06,2024-12-22,Maple Token (MPL)|ETH,nan,0,train
+782,Wisdomise (WSDM),2024-05-16,2024-12-23,Wisdomise (WSDM)|POLYGON,nan,0,test
+783,EdgeMatrix Computing network (EMC),2024-11-13,2024-12-22,EdgeMatrix Computing network (EMC)|ARBI,nan,0,test
+784,Curve DAO Token (CRV),2020-08-21,2024-12-23,Curve DAO Token (CRV)|ETH,nan,0,train
+785,BandToken (BAND),2019-09-19,2024-12-24,BandToken (BAND)|ETH,nan,0,train
+786,Ambire Wallet (WALLET),2022-01-31,2024-12-25,Ambire Wallet (WALLET)|ETH,nan,0,train
+787,Locus Chain (LOCUS),2019-05-21,2024-12-24,Locus Chain (LOCUS)|ETH,nan,0,train
+788,METABEAT (BEAT),2022-11-17,2024-12-25,METABEAT (BEAT)|POLYGON,nan,0,train
+789,NETVRK (NTVRK),2021-05-27,2024-12-08,NETVRK (NTVRK)|ETH,nan,0,train
+790,BetProtocolToken (BEPRO),2020-01-06,2024-12-24,BetProtocolToken (BEPRO)|ETH,nan,0,train
+791,Artrade Token (ATR),2022-03-29,2024-12-26,Artrade Token (ATR)|BSC,nan,0,train
+792,beefy.finance (BIFI),2022-01-21,2024-12-08,beefy.finance (BIFI)|BSC,nan,0,train
+793,Cookie (COOKIE),2024-06-24,2024-12-26,Cookie (COOKIE)|BSC,nan,0,test
+794,iMe Lab (LIME),2021-06-17,2024-12-26,iMe Lab (LIME)|ETH,nan,0,train
+795,MagicCraft (MCRT),2022-01-02,2024-12-27,MagicCraft (MCRT)|BSC,nan,0,train
+796,Binance-Peg Tezos Token (XTZ),2018-04-08,2024-12-28,Binance-Peg Tezos Token (XTZ)|BSC,nan,0,train
+797,First Digital USD (FDUSD),2023-07-28,2024-12-29,First Digital USD (FDUSD)|ETH,nan,0,train
+798,Morpheus.Network (MNW),2021-11-21,2024-12-26,Morpheus.Network (MNW)|ETH,nan,0,train
+799,XinFin XDCE (XDCE),2018-04-09,2024-12-27,XinFin XDCE (XDCE)|ETH,contract address unknown: the explorer link points to a token (KAON) that matches none of the three rows sharing it,0,train
+800,Zeta (ZETA),2024-02-02,2024-12-28,Zeta (ZETA)|ETH,nan,0,test
+801,KEEP Token (KEEP),2020-05-25,2024-12-26,KEEP Token (KEEP)|ETH,nan,0,train
+802,Lumerin (LMR),2022-04-03,2024-12-27,Lumerin (LMR)|ETH,nan,0,train
+803,Dimitra Token (DMTR),2021-09-30,2024-12-26,Dimitra Token (DMTR)|ETH,nan,0,train
+804,Bholdus Token (BHO),2021-10-01,2024-12-08,Bholdus Token (BHO)|BSC,nan,0,train
+805,CREDI [via ChainPort.io] (CREDI),2021-12-10,2024-12-26,CREDI [via ChainPort.io] (CREDI)|BSC,nan,0,train
+806,CHEELEE (CHEEL),2022-02-03,2024-12-27,CHEELEE (CHEEL)|BSC,nan,0,train
+807,pTokens TLOS (TLOS),2019-01-25,2024-12-28,pTokens TLOS (TLOS)|ETH,nan,0,train
+808,Forta (FORT),2022-06-17,2024-12-29,Forta (FORT)|ETH,nan,0,train
+809,SquidGrow (SQGROW),2024-09-16,2024-12-27,SquidGrow (SQGROW)|ETH,nan,0,test
+810,VOXEL Token (VOXEL),2021-12-19,2024-12-29,VOXEL Token (VOXEL)|POLYGON,nan,0,train
+811,PYR Token (PYR),2021-04-19,2024-12-30,PYR Token (PYR)|ETH,nan,0,train
+812,Monsta Infinite Token (MONI),2021-09-24,2024-12-08,Monsta Infinite Token (MONI)|BSC,nan,0,train
+813,RepubliK (RPK),2023-11-14,2024-12-08,RepubliK (RPK)|ETH,nan,0,test
+814,Request (REQ),2017-10-29,2024-12-29,Request (REQ)|ETH,nan,0,train
+815,NKN (NKN),2018-06-04,2024-12-29,NKN (NKN)|ETH,nan,0,train
+816,Victoria VR (VR),2021-12-08,2024-12-30,Victoria VR (VR)|ETH,nan,0,train
+817,Adventure Gold (AGLD),2021-09-07,2024-12-29,Adventure Gold (AGLD)|ETH,nan,0,train
+818,PAAL AI ($PAAL),2023-08-01,2024-12-30,PAAL AI ($PAAL)|ETH,nan,0,train
+819,Threshold Network Token,2022-02-23,2024-12-29,Threshold Network Token|ETH,nan,0,train
+820,Venus (XVS),2020-10-22,2024-12-30,Venus (XVS)|BSC,nan,0,train
+821,Stader (SD),2022-03-25,2024-12-31,Stader (SD)|ETH,Duplicate project,0,train
+822,DeFiYieldProtocol (DYP),2020-12-25,2024-12-30,DeFiYieldProtocol (DYP)|ETH,nan,0,train
+823,Aurox Token (URUS),2021-03-21,2024-12-01,Aurox Token (URUS)|ETH,nan,0,train
+824,Binance-Peg Filecoin (FIL),2020-10-16,2024-12-30,Binance-Peg Filecoin (FIL)|BSC,nan,0,train
+825,Rai.Finance (SOFI),2020-01-29,2024-12-31,Rai.Finance (SOFI)|ETH,nan,0,train
+826,Perion Credits (PERC),2022-02-06,2025-01-01,Perion Credits (PERC)|ETH,nan,0,train
+827,Oraichain Token (ORAI),2020-10-31,2025-01-02,Oraichain Token (ORAI)|ETH,nan,0,train
+828,Marlin POND (POND),2020-12-26,2025-01-01,Marlin POND (POND)|ETH,nan,0,train
+829,TRON (TRX),2017-09-22,2025-01-02,TRON (TRX)|BSC,Start date before chain launch,0,train
+830,MATH Token (MATH),2020-05-21,2025-01-03,MATH Token (MATH)|ETH,nan,0,train
+831,OpenOcean (OOE),2021-07-17,2024-12-08,OpenOcean (OOE)|ETH,nan,0,train
+832,BabySwap Token (BABY),2021-06-13,2024-12-08,BabySwap Token (BABY)|BSC,nan,0,train
+833,Everdome (DOME),2022-02-16,2024-12-08,Everdome (DOME)|BSC,nan,0,train
+834,tomi Token (TOMI),2023-01-19,2024-12-08,tomi Token (TOMI)|ETH,nan,0,train
+835,Playermon (PYM),2021-11-26,2024-12-08,Playermon (PYM)|POLYGON,nan,0,train
+836,Granary Token (GRAIN),2023-04-18,2025-01-01,Granary Token (GRAIN)|ETH,nan,0,train
+837,TravaFinance Token (TRAVA),2021-08-10,2024-12-08,TravaFinance Token (TRAVA)|BSC,nan,0,train
+838,Pepe (PEPE),2023-04-19,2025-01-01,Pepe (PEPE)|ETH,nan,0,train
+839,Atlas Navi (NAVI),2022-11-29,2025-01-02,Atlas Navi (NAVI)|ETH,nan,0,train
+840,SKALE (SKL),2020-12-08,2025-01-01,SKALE (SKL)|ETH,nan,0,train
+841,Binance-Peg Zcash Token (ZEC),2016-11-09,2024-12-21,Binance-Peg Zcash Token (ZEC)|BSC,Start date before chain launch,0,train
+842,Lever (LEVER),2022-07-17,2024-12-31,Lever (LEVER)|ETH,nan,0,train
+843,Storj (STORJ),2017-07-12,2025-01-01,Storj (STORJ)|ETH,nan,0,train
+844,DAO Maker (DAO),2021-02-10,2024-12-31,DAO Maker (DAO)|ETH,nan,0,train
+845,Coinweb (CWEB),2022-01-04,2025-01-01,Coinweb (CWEB)|ETH,nan,0,train
+846,Decentraland (MANA),2017-09-25,2025-01-02,Decentraland (MANA)|ETH,nan,0,train
+847,Dai Stablecoin (DAI),2018-01-04,2025-01-03,Dai Stablecoin (DAI)|ETH,nan,0,train
+848,Synternet Token (SYNT),2024-07-26,2025-01-01,Synternet Token (SYNT)|ETH,nan,0,test
+849,Zentry (ZENT),2024-09-05,2025-01-02,Zentry (ZENT)|ETH,nan,0,test
+850,Aragon Network Token (ANT),2017-05-28,2025-01-01,Aragon Network Token (ANT)|ETH,nan,0,train
+851,Axie Infinity Shard (AXS),2020-11-09,2025-01-02,Axie Infinity Shard (AXS)|ETH,nan,0,train
+852,Clearpool (CPOOL),2021-11-03,2024-12-08,Clearpool (CPOOL)|ETH,nan,0,train
+853,Lithium (LITH),2021-08-10,2024-12-08,Lithium (LITH)|ETH,nan,0,train
+854,GAMEE (GMEE),2021-04-13,2024-12-08,GAMEE (GMEE)|ETH,nan,0,train
+855,Convex Token (CVX),2021-05-20,2025-01-01,Convex Token (CVX)|ETH,nan,0,train
+856,Agoras Token (AGRS),2015-09-06,2025-01-02,Agoras Token (AGRS)|ETH,nan,0,train
+857,Binance-Peg EOS Token (EOS),2017-07-10,2025-01-01,Binance-Peg EOS Token (EOS)|BSC,Start date before chain launch,0,train
+858,Arkham (ARKM),2023-07-19,2025-01-02,Arkham (ARKM)|ETH,nan,0,train
+859,Mass Vehicle Ledger Token (MVL),2018-07-27,2025-01-03,Mass Vehicle Ledger Token (MVL)|ETH,nan,0,train
+860,Genopets (GENE),2021-11-22,2024-12-08,Genopets (GENE)|BSC,nan,0,train
+861,Kromatika (KROM),2021-11-22,2024-12-08,Kromatika (KROM)|ETH,nan,0,train
+862,Ethena (ENA),2024-04-04,2025-01-01,Ethena (ENA)|ETH,nan,0,test
+863,Quant (QNT),2018-08-11,2024-12-08,Quant (QNT)|ETH,nan,0,train
+864,STASIS EURS Token (EURS),2018-07-31,2025-01-03,STASIS EURS Token (EURS)|ETH,nan,0,train
+865,MANTRA DAO (OM),2020-08-18,2025-01-04,MANTRA DAO (OM)|ETH,nan,0,train
+866,Frax (FRAX),2020-12-26,2025-01-03,Frax (FRAX)|ETH,nan,0,train
+867,Ethereum Name Service (ENS),2021-11-09,2025-01-02,Ethereum Name Service (ENS)|ETH,nan,0,train
+868,Wrapped Flow (WFLOW),2021-02-02,2025-01-03,Wrapped Flow (WFLOW)|ETH,nan,0,train
+869,Bridge (BRG),2021-03-25,2024-12-08,Bridge (BRG)|BSC,nan,0,train
+870,BSC-Peg Thunder Token (TT),2019-05-17,2025-01-03,BSC-Peg Thunder Token (TT)|BSC,Start date before chain launch,0,train
+871,Pomerium Ecosystem Token (PMG),2023-03-25,2025-01-04,Pomerium Ecosystem Token (PMG)|BSC,nan,0,train
+872,Lossless Token (LSS),2021-06-11,2025-01-05,Lossless Token (LSS)|ETH,nan,0,train
+873,UniCrypt (UNCX),2020-10-21,2025-01-03,UniCrypt (UNCX)|ETH,Duplicate project,0,train
+874,hoge.finance (HOGE),2021-03-18,2025-01-04,hoge.finance (HOGE)|ETH,nan,0,train
+875,Autonolas (OLAS),2023-07-25,2025-01-05,Autonolas (OLAS)|ETH,nan,0,train
+876,PolkaBridge (PBR),2021-01-28,2024-12-28,PolkaBridge (PBR)|ETH,nan,0,train
+877,XEND (XEND),2021-03-28,2025-01-03,XEND (XEND)|ETH,nan,0,train
+878,Chronicle (XNL),2021-09-24,2024-12-08,Chronicle (XNL)|ETH,nan,0,train
+879,Messier (M87),2023-09-06,2025-01-03,Messier (M87)|ETH,nan,0,train
+880,Omni Network (OMNI),2024-05-02,2025-01-05,Omni Network (OMNI)|ETH,nan,0,test
+881,Dimo (DIMO),2022-12-16,2025-01-06,Dimo (DIMO)|POLYGON,nan,0,train
+882,TOWER (TOWER),2021-03-02,2025-01-02,TOWER (TOWER)|ETH,nan,0,train
+883,VIDT DAO (VIDT),2019-04-07,2025-01-03,VIDT DAO (VIDT)|ETH,nan,0,train
+884,ZigCoin (ZIG),2021-04-16,2025-01-04,ZigCoin (ZIG)|ETH,nan,0,train
+885,Everipedia IQ (IQ),2018-07-14,2025-01-05,Everipedia IQ (IQ)|ETH,nan,0,train
+886,Vita Inu (VINU),2021-11-30,2025-01-17,Vita Inu (VINU)|ETH,nan,0,train
+887,The Force Token (FOR),2021-02-23,2025-01-18,The Force Token (FOR)|ETH,nan,0,train
+888,Polka City (POLC),2021-02-28,2024-12-08,Polka City (POLC)|ETH,nan,0,train
+889,Parsiq Token (PRQ),2020-08-21,2024-12-08,Parsiq Token (PRQ)|ETH,nan,0,train
+890,MetFi (MFI),2022-05-30,2024-12-08,MetFi (MFI)|BSC,nan,0,train
+891,ZEBEC (ZBC),2022-03-18,2024-12-08,ZEBEC (ZBC)|BSC,nan,0,train
+892,NuLink token (NLK),2024-05-22,2025-01-17,NuLink token (NLK)|ETH,nan,0,test
+893,SynFutures (F),2024-12-06,2025-01-18,SynFutures (F)|ETH,nan,0,test
+894,E-RADIX (eXRD),2020-11-23,2025-01-19,E-RADIX (eXRD)|ETH,nan,0,train
+895,AltLayer Token (ALT),2024-01-26,2025-01-17,AltLayer Token (ALT)|ETH,nan,0,test
+896,Beyond Protocol (BP),2021-10-10,2024-12-08,Beyond Protocol (BP)|ETH,nan,0,train
+897,Neurashi (NEI),2024-01-03,2025-01-17,Neurashi (NEI)|BSC,nan,0,test
+898,KISSAN (KSN),2022-07-20,2025-01-18,KISSAN (KSN)|BSC,nan,0,train
+899,DeHub (DeHub),2021-09-09,2024-12-08,DeHub (DeHub)|BSC,nan,0,train
+900,PointPay Token (PXP),2021-09-08,2025-01-18,PointPay Token (PXP)|ETH,nan,0,train
+901,TAP Coin (TAP),2022-02-24,2024-12-08,TAP Coin (TAP)|BSC,nan,0,train
+902,Thetan Gem (THG),2021-09-21,2024-12-08,Thetan Gem (THG)|BSC,End date before start date,0,train
+903,Aurora (AURORA),2021-12-04,2024-12-08,Aurora (AURORA)|ETH,nan,0,train
+904,MARS4 (MARS4),2021-10-05,2024-12-08,MARS4 (MARS4)|ETH,nan,0,train
+905,qiibeeToken (QBX),2019-07-17,2024-12-08,qiibeeToken (QBX)|ETH,Duplicate project,0,train
+906,Woonkly Power (WOOP),2021-03-28,2024-12-08,Woonkly Power (WOOP)|BSC,nan,0,train
+907,Forward ($FORWARD),2024-02-08,2025-01-18,Forward ($FORWARD)|BSC,nan,0,test
+908,zkRace (ZERC),2024-06-26,2025-01-19,zkRace (ZERC)|ETH,nan,0,test
+909,mETH (mETH),2025-01-18,2025-01-20,mETH (mETH)|ETH,nan,0,test
+910,SELF Crypto (SELF),2023-06-05,2025-01-18,SELF Crypto (SELF)|BSC,nan,0,train
+911,haDAO (MAHA),2020-12-23,2025-01-19,haDAO (MAHA)|ETH,nan,0,train
+912,EXVERSE (EXVG),2024-06-09,2025-01-20,EXVERSE (EXVG)|BSC,nan,0,test
+913,Okratech (ORT),2022-09-07,2025-01-19,Okratech (ORT)|BSC,nan,0,train
+914,Throne (THN),2022-01-28,2024-12-08,Throne (THN)|ETH,nan,0,train
+915,Polkamarkets (POLK),2021-03-01,2024-12-08,Polkamarkets (POLK)|ETH,nan,0,train
+916,Onyxcoin (XCN),2022-03-25,2024-12-08,Onyxcoin (XCN)|ETH,nan,0,train
+917,Alvey Chain (wALV),2022-08-20,2025-01-19,Alvey Chain (wALV)|BSC,Duplicate project,0,train
+918,MarsDAO (MDAO),2022-03-10,2025-01-20,MarsDAO (MDAO)|BSC,nan,0,train
+919,Metaverser Token (mtvt),2022-09-29,2025-01-21,Metaverser Token (mtvt)|BSC,nan,0,train
+920,WAX Token (WAX),2017-12-22,2024-12-08,WAX Token (WAX)|ETH,nan,0,train
+921,AiMalls (AIT),2023-11-05,2025-01-19,AiMalls (AIT)|BSC,nan,0,test
+922,Playbux (PBUX),2024-07-22,2025-01-20,Playbux (PBUX)|BSC,nan,0,test
+923,Umbrella (UMB),2021-02-15,2024-12-08,Umbrella (UMB)|ETH,nan,0,train
+924,Civic (CVC),2017-08-17,2024-12-08,Civic (CVC)|ETH,nan,0,train
+925,Position Token (POSI),2021-08-09,2024-12-08,Position Token (POSI)|BSC,nan,0,train
+926,Metahero (HERO),2021-07-11,2024-12-08,Metahero (HERO)|BSC,nan,0,train
+927,Keep3rV1 (KP3R),2020-10-29,2025-01-23,Keep3rV1 (KP3R)|ETH,nan,0,train
+928,GraphLinq (GLQ),2021-03-23,2025-01-24,GraphLinq (GLQ)|ETH,nan,0,train
+929,World Coin (World Coin),2023-09-13,2024-12-08,World Coin (World Coin)|BSC,nan,0,train
+930,XWG (XWG),2021-08-25,2024-12-08,XWG (XWG)|BSC,nan,0,train
+931,eesee (ESE),2024-04-16,2025-01-23,eesee (ESE)|ETH,nan,0,test
+932,Celsius (CEL),2018-06-03,2025-01-24,Celsius (CEL)|ETH,nan,0,train
+933,FevrToken (FEVR),2021-07-21,2024-12-08,FevrToken (FEVR)|BSC,nan,0,train
+934,Alchemy (ACH),2020-09-08,2025-01-23,Alchemy (ACH)|ETH,nan,0,train
+935,WEXO (WEXO),2024-01-11,2024-12-08,WEXO (WEXO)|ETH,nan,0,test
+936,Inspect (INSP),2023-12-08,2025-01-23,Inspect (INSP)|ETH,nan,0,test
+937,Ferrum Network Token (FRM),2020-07-08,2024-12-26,Ferrum Network Token (FRM)|ETH,nan,0,train
+938,Movement (MOVE),2024-12-09,2025-01-23,Movement (MOVE)|ETH,nan,0,test
+939,Energi (NRG),2018-06-04,2024-12-08,Energi (NRG)|ETH,nan,0,train
+940,Ispolink Token (ISP),2021-05-11,2025-01-23,Ispolink Token (ISP)|ETH,nan,0,train
+941,BlackCardCoin (BCCoin),2024-08-03,2025-01-24,BlackCardCoin (BCCoin)|BSC,nan,0,test
+942,Wrapped SYS (WSYS),2014-08-21,2025-01-25,Wrapped SYS (WSYS)|BSC,Start date before chain launch,0,train
+943,Reef.finance (REEF),2021-01-04,2025-01-23,Reef.finance (REEF)|ETH,nan,0,train
+944,Reserve Rights (RSR),2019-05-31,2025-01-24,Reserve Rights (RSR)|ETH,nan,0,train
+945,O3 Swap Token (O3),2021-05-16,2024-12-08,O3 Swap Token (O3)|ETH,nan,0,train
+946,SOS (SOS),2021-12-25,2024-12-08,SOS (SOS)|ETH,nan,0,train
+947,Quickswap (QUICK),2021-02-16,2025-01-23,Quickswap (QUICK)|ETH,nan,0,train
+948,Dvision (DVI),2020-11-03,2024-12-08,Dvision (DVI)|ETH,nan,0,train
+949,Metars (MRS),2022-08-05,2025-01-05,Metars (MRS)|BSC,nan,0,train
+950,PLANET (PLANET),2023-06-04,2025-01-23,PLANET (PLANET)|ETH,nan,0,train
+951,Gnosis (GNO),2017-05-11,2025-01-24,Gnosis (GNO)|ETH,nan,0,train
+952,WAM (WAM),2021-12-21,2025-01-25,WAM (WAM)|BSC,nan,0,train
+953,Frontier Token (FRONT),2020-09-16,2025-01-26,Frontier Token (FRONT)|ETH,nan,0,train

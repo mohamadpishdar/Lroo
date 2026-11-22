@@ -1,0 +1,29 @@
+{
+  "tabpfn_client_version": "0.7.1",
+  "model": "v2.5_real",
+  "params": {
+    "api_mode": "ApiMode.AUTO",
+    "average_before_softmax": "None",
+    "balance_probabilities": "False",
+    "categorical_features_indices": "None",
+    "client_options": "ClientOptions(timeout=900.0, headers={})",
+    "fit_mode": "None",
+    "group_col": "None",
+    "group_time_col": "None",
+    "ignore_pretraining_limits": "False",
+    "inference_config": "None",
+    "inference_precision": "None",
+    "model_path": "v2.5_real",
+    "n_estimators": "None",
+    "paper_version": "False",
+    "random_state": "42",
+    "softmax_temperature": "None",
+    "text_handling": "advanced",
+    "thinking_effort": "None",
+    "thinking_metric": "None",
+    "thinking_mode": "False",
+    "thinking_timeout_s": "None",
+    "time_col": "None"
+  },
+  "runtime_s": 1165
+}

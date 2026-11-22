@@ -1,0 +1,20 @@
+Feature,Tier,AUC,Higher value means
+End date (not a feature),reference,1.0,legitimate
+Transaction Count,end,0.9126185685541822,legitimate
+Token Concentration Ratio,end,0.8764012647312446,legitimate
+Search Hits: X Profile (Launch Day),launch,0.8152486346651336,legitimate
+Search Hits: X Profile (Midpoint),midpoint,0.8050445530324806,legitimate
+Max Price Q2,midpoint,0.7162259269905145,legitimate
+Max Price Q4,end,0.7139264156366771,legitimate
+Max Price Q1,midpoint,0.7065248634665133,legitimate
+Max Price Q3,end,0.7055188272492096,legitimate
+Project Duration (days),end,0.7025725783271055,legitimate
+Initial Deposit Count,end,0.6913624604771486,legitimate
+Holder Variance (All),end,0.6904282839896522,rug pull
+Start date (not a feature),reference,0.6458752515090543,legitimate
+Search Hits: Title (Midpoint),midpoint,0.6321500431158379,legitimate
+Search Hits: Title (Launch Day),launch,0.6129634952572578,legitimate
+Holder Variance (Top 1%),end,0.5888186260419661,rug pull
+Search Hits: Website (Launch Day),launch,0.5377263581488934,legitimate
+Initial Token Supply,end,0.5108508192009198,legitimate
+Search Hits: Website (Midpoint),midpoint,0.505173900546134,legitimate

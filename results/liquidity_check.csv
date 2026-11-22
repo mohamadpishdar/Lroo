@@ -1,0 +1,282 @@
+key,class,address,end date,pool,dex,quote,before,after,now,capped,verdict
+HyperVerse Token (HVT)|BSC,scam,0xaafa10755b3b1dbf46e86d973c3f27f3671ed9db,2023-07-14,0x6f1d62d1a3a7473424b12cf335f8d13cae1cbaa2,pancake-v2,BUSD,4386.039015998805,1431.3023339852514,,False,still trading
+Fintoch|BSC,scam,0x19a00e359990ec7daf6e9dd9a2fb7664014bb5f7,2023-06-19,0x81ea01b4b427e8f1ff56388e0c91378c93c66a4d,pancake-v2,USDT,3.319693064143128,1.1495523296618784,,False,still trading
+IPO|BSC,scam,0xb524a9a21702813f8ea7a79c16afcb5fb4660544,2023-07-20,0x166f0cd3a90d3bd4cc9ef60b3be923a20646d611,pancake-v2,USDT,0.1675651675143291,0.1675651675143291,,False,frozen (no trading)
+SAI token|BSC,scam,0x3c6dad0475d3a1696b359dc04c99fd401be134da,2024-07-09,0xc595bea9ba58d0cada5fa287dda4f30517c3e1a4,pancake-v2,BUSD,18160.095029270087,16625.23030686394,,False,still trading
+Apache NFT SalesRoom (ASN)|BSC,scam,0xabe776435f7459e2f5ba773bfb753ed19a053dd0,2024-06-26,0x5c10bd6604a2f77cb9c0b75bba14a7a11e7d73ac,pancake-v2,USDT,184438.73553222435,166491.55378364172,,False,still trading
+Metaland DAO (META)|BSC,scam,0x2e42c9eac96833c6e16dc71c743cecc114ccd7e3,2022-01-13,0xa74688675add1f17581f2d695c08bffc90797879,pancake-v2,WBNB,171.9928436502772,190.4101156420643,,False,still trading
+Santa Coin|BSC,scam,0x4f1a6fc6a7b65dc7ebc4eb692dc3641be997c2f2,2022-05-24,0xfdf3b6a027839a30a5de3e355708fd45c323f7ec,pancake-v2,WBNB,600.0086308594128,423.3070838197208,,False,still trading
+Elron Token (ELR)|BSC,scam,0xf17f7827403c166fda782ceb17b29900d1a2ad15,2024-08-09,0xf45e5c487cc3f7b77b328b3f460169db628feb8e,pancake-v2,USDT,251479.42593702787,241029.1984063137,,False,still trading
+FOMO DAO (FOMO)|BSC,scam,0x5eef8c4320e2bf8d1e6231a31500fd7a87d02985,2024-08-14,0x83622695500f563eec658d422ba54b1d4c12c4ab,pancake-v2,WBNB,6.143489386468745,6.127761919920346,,False,frozen (no trading)
+To the Moon (TTM)|BSC,scam,0x2728c49f42f4ac5a38da0080b27ded5ec04b05cc,2024-03-21,0xdf213d728bb3e3bc109196090fa83c2297e13968,pancake-v2,USDT,0.0179666871911859,0.0179666871911859,,False,frozen (no trading)
+Block Chain Games|BSC,scam,0x35de111558f691f77f791fb0c08b2d6b931a9d47,2024-07-26,0x11a20e449911302bb8ba92ca67e90fe5961bda04,pancake-v1,WBNB,0.6475072891965841,0.8535316098935779,,False,still trading
+Bitcoin BSC (BTCBSC)|BSC,scam,0x291be4b6ea733148ad1d2489dd59da28f92b710e,2024-08-22,0x46dedf10af209dfe7201ee2de3ded44d9e4c3a3c,pancake-v2,WBNB,133.0923411549781,131.38412698349327,,False,frozen (no trading)
+Loop X Network (LOOP)|BSC,scam,0xce186ad6430e2fe494a22c9edbd4c68794a28b35,2022-07-22,0x204c5311b9f040d40425c0ce8b5bddae1cb50974,pancake-v2,WBNB,515.4811739139102,469.0358471548233,,False,still trading
+Chedda Token (CHEDDA)|ETH,scam,0x16756ec1deb89a2106c35e0b586a799d0a61837d,2022-05-13,0x5a8bd8cdd4da5aebb783d2c67125be0df484eefe,uniswap-v2,USDC,519867.139735,25453.541069,,False,drained
+Megabot|ETH,scam,0x201b5b64438843553e3c3671810ae671c93c685c,2024-01-18,0xec2895df12b25970640a179a680dd74094b39aba,uniswap-v2,WETH,44.696331687608215,3.335251717352922,,False,drained
+WSB Coin (WSB)|ETH,scam,0x0414d8c87b271266a5864329fb4932bbe19c0c49,2023-07-19,0x63f2a1b80af5b19da43ccccdf89b286155b92b7c,uniswap-v2,WETH,88.49285949338599,50.528875455047846,,False,still trading
+Plankton (PLANK)|ETH,scam,0x2b9bfbf0d47a7ba9338d0719ff925e7431ad616a,2024-08-03,0x13bec23beeca875ea25850602a2b276a04c6f49e,uniswap-v2,WETH,0.945444084897615,0.9352912688579058,,False,frozen (no trading)
+YODA coin (YODA)|ETH,scam,0xe0a236c5e26015f55c1e2522daa24d415d62a76f,2024-09-03,0x00ef2471f89305a824c39f8cdabfab4d1fb963b7,uniswap-v2,WETH,1.9120794037252,1.8201772915706524,,False,still trading
+NOVAMIND_ (NMD)|ETH,scam,0x9cb6dd255a6bbe32130ce645ec45c0a3e9d87a4a,2024-05-03,0x2cfdf63fd3050256423f925498dd62143fa4ae49,uniswap-v2,WETH,55.55305410845169,4.103696062664002,,False,drained
+BabyShia (BABYSHIA)|ETH,scam,0x846422103b109efbe7dd15f541c3dfc838fc1848,2024-08-30,0x1635d18f20c9a6e302931faf61643fed57fbcce3,uniswap-v2,WETH,26.92232589925674,26.85799245886291,,False,frozen (no trading)
+fren (FREN)|ETH,scam,0xfff5b33dc10d8a2f886d17397666d25e4062df28,2024-09-06,0xd5a87bf49543d87bc5c0d3c970fee666069e734f,uniswap-v2,WETH,1.6304168163703707,1.6141994400197022,,False,frozen (no trading)
+BACON (BACON)|ETH,scam,0x175ab41e2cedf3919b2e4426c19851223cf51046,2022-05-14,0x10cd608f78e2619d499d3b997d01defc0a8c1b4b,uniswap-v2,WETH,2.6402479838908697,2.318608559802452,,False,still trading
+ShipChain SHIP (SHIP)|ETH,scam,0xe25b0bba01dc5630312b6a21927e578061a13f55,2021-06-20,0xfb7a3112c96bbcfe4bbf3e8627b0de6f49e5142a,uniswap-v2,WETH,0.7893247689818494,0.4656751670908889,,False,still trading
+Xfinance (XFI)|ETH,scam,0x5befbb272290dd5b8521d4a938f6c4757742c430,2024-09-15,0xaf996125e98b5804c00ffdb4f7ff386307c99a00,uniswap-v2,WETH,1932.8062026092352,1932.8062026092352,,True,frozen (no trading)
+yfi.mobi (YFIM)|ETH,scam,0x2e2f3246b6c65ccc4239c9ee556ec143a7e5de2c,2024-08-14,0xc3fa0a8d68a43ed336174cb5673903572bbace8e,uniswap-v2,WETH,6448.407089568448,6448.407089568448,,True,frozen (no trading)
+Stable Magnet Token (SMAG)|BSC,scam,0xcd734b1f9b0b976ddc46e507d0aa51a4216a1e98,2024-10-12,0x4824ec1e1a3db9f3793bb4b4ea89786b7a57960a,pancake-v2,BUSD,726.3420595130559,716.487251385385,,False,frozen (no trading)
+AQUA (AQUA)|BSC,scam,0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991,2023-07-07,0x5fa0f20c3fe2f642751e5ffc844714f0202c02ca,pancake-v2,WBNB,4.331867093804911,4.236483630565025,,False,still trading
+OPM (Opium Bird)|ETH,scam,0xd9ee2fdd741f10576fdfca745d4d71f06d525bf6,2024-10-03,0x8e2f14b163d5a9167c307d43096f33a9bf9ebaa2,uniswap-v2,WETH,1.671950710288322,1.663412478227419,,False,frozen (no trading)
+GRIMACE (GRIMACE)|ETH,scam,0x22585d03d6fc0693b4a6c9765be18e238fbfcd95,2024-10-06,0x107e26086a27a7ec689ad2c5da1f535cd8ec1a9b,uniswap-v2,WETH,3.905884044519337,4.164020865771652,,False,still trading
+KaraStar UMY (UMY)|BSC,scam,0x0522ecfe37ab2bdb5d60a99e08d1e8379bd35c00,2022-04-07,0xda728c4da3c61d3ab0f59ea90072d335a6416891,pancake-v2,BUSD,86313.63830041689,44970.16867315881,,False,still trading
+ClosedAI (CLOSEDAI)|ETH,scam,0x50b0696468f42cab1ddc76413a1312aff3cabdf6,2024-10-07,0x7bc703a48c90da793f57b55808ae14cdd75458d6,uniswap-v2,WETH,42.15000086287636,27.751753739997508,,False,still trading
+Libra Protocol|BSC,scam,0x566a9eeac9a589bf0825222bca083ecdb9c86c82,2024-10-07,0x9478afac2a2e39edca7ef7cb31f66d9d7027f160,pancake-v2,WBNB,52.98253193337295,52.77791603048202,,False,frozen (no trading)
+stoicDAO (ZETA)|ETH,scam,0xb281d84989c06e2a6ccdc5ea7bf1663c79a1c31a,2023-12-14,0x576466debc41a5c404e225d321070ddd2288e191,uniswap-v2,WETH,165.02202325845877,14.608348489419866,,False,drained
+BabyFlokiDoge (BABYFD)|BSC,scam,0xe24f6bc7635501d5684a963f7e75c8062b9c0ea4,2024-10-07,0xf94cf1ce196c48f6c74ac0b1a1b9eceb11b3a020,pancake-v2,BUSD,506.4690598007392,502.33581365059257,,False,frozen (no trading)
+Justus Token (JTT)|BSC,scam,0xcdb3d3642fb4d48d2b5e4fb4a014448a2761c063,2024-10-07,0x5bc37ae740ec995360731f876e63085b1057c4b2,pancake-v2,WBNB,129.77612299256828,125.818188740904,,False,still trading
+Nostra (NSTR)|ETH,scam,0x610dbd98a28ebba525e9926b6aaf88f9159edbfd,2024-10-11,0x843a4e193f4a051309ad66a03b740e67872cf742,uniswap-v2,WETH,1.7371319820289497,1.5624889889515985,,False,still trading
+Baby Musk (BabyMusk)|BSC,scam,0x0b1ff525e092a98210ed150f8b08313f646847d6,2024-10-13,0xb4712467a12fcb95234cfe813bb6fbc631023131,pancake-v2,WBNB,96.26346423316755,96.17853720384444,,False,frozen (no trading)
+MetaSwap (MSC)|BSC,scam,0xeacad6c99965cde0f31513dd72de79fa24610767,2024-10-15,0xe7d75e07f3a00b10c390a533c19f5d2d1c9ce313,pancake-v2,USDT,353288.77886370185,353193.3142483368,,False,frozen (no trading)
+Bent Token (BENT)|ETH,scam,0x01597e397605bf280674bf292623460b4204c375,2022-08-26,0x5fa4370164a2fabeef159b893299d59ff5dc1e6d,sushiswap,DAI,138845.72468838198,89875.82639055923,,False,still trading
+Cindicator (CND)|ETH,scam,0xd4c435f5b09f855c3317c8524cb1f586e42795fa,2022-03-15,0x071d2630314f770fc6dca0d517ca69a2cd0f724b,uniswap-v2,WETH,241.6853301341636,0.7947172508091923,,False,drained
+ShowHand (HAND)|ETH,scam,0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7,2024-10-30,0x59bac4580c0b21852e2e3ecb3e2f60c6d1b5e056,uniswap-v2,WETH,0.1044530781271743,0.0816073458885567,,False,still trading
+AirToken (AIR)|ETH,scam,0x294b9da569c0d694870239813bbe7b5824fd2339,2024-05-05,,,,,,,,no V2 pool
+ERROR 404 (ERR)|ETH,scam,0x893c47bc1ff55c2269236ac7a4288681532161e0,2024-10-03,,,,,,,,no V2 pool
+Wrapped BTC (WBTC)|ETH,normal,0x2260fac5e5542a773aa44fbcfedf7c193bc2c599,2024-11-09,0x004375dff511095cc5a197a54140a24efef3a416,uniswap-v2,USDC,,,47731.903379,,pool with liquidity today
+Render Token (RNDR)|ETH,normal,0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24,2024-11-09,0xc0a6bb3d31bb63033176edba7c48542d6b4e406d,uniswap-v2,WETH,,,78.8731587649651,,pool with liquidity today
+Ampleforth Governance (FORTH)|ETH,normal,0x77fba179c79de5b7653f68b5039af940ada60ce0,2024-11-09,0x1812ef69e1753f908229df40d304a5fbdcd52dd3,uniswap-v2,USDT,,,1142.816987,,pool with liquidity today
+FC Santos Fan Token (SANTOS)|BSC,normal,0xa64455a4553c9034236734faddaddbb64ace4cc7,2024-11-09,0x06043b346450bbcfde066ebc39fdc264fdffed74,pancake-v2,WBNB,,,62.65662003220478,,pool with liquidity today
+FC Lazio Fan Token (LAZIO)|BSC,normal,0x77d547256a2cd95f32f67ae0313e450ac200648d,2024-11-09,0x11c0b2bb4fbb430825d07507a9e24e4c32f7704d,pancake-v2,WBNB,,,19.242813885344663,,pool with liquidity today
+ALPINE Fan Token (ALPINE)|BSC,normal,0x287880ea252b52b63cc5f40a2d3e5a44aa665a76,2024-11-09,0x7253dbc6ada3e3216eac5a023c015025e10d78e2,pancake-v2,USDT,,,0.12655661606947788,,pool with liquidity today
+Baby Doge Coin (BabyDoge)|BSC,normal,0xc748673057861a797275cd8a068abb95a902e8de,2024-11-10,0xbf7cd39d07adaa953e1e0be47f97315955c9381b,pancake-v2,USDT,,,6064.770851722504,,pool with liquidity today
+FLOKI (FLOKI)|ETH,normal,0x4bf9f81efed4163b184568b296674dad0ae51420,2024-11-11,0xcced7381fa8a0b43fe12cba468aeec2895252979,uniswap-v2,WETH,,,0.042577253183916995,,pool with liquidity today
+GM (GM)|ETH,normal,0x73b8726618f53f84eeb860fd50ab217fdf30dea0,2024-12-08,0xe9209bd16ab1f66a9185d11bbecf26d23054063a,uniswap-v2,WETH,,,22.45263343775206,,pool with liquidity today
+Lido Staked Ether (STETH)|ETH,normal,0xae7ab96520de3a18e5e111b5eaab095312d7fe84,2024-11-10,0x4028daac072e492d34a3afdbef0ba7e35d8b55c4,uniswap-v2,WETH,,,42.447172999023145,,pool with liquidity today
+ChainLink Token (LINK)|ETH,normal,0x514910771af9ca656af840dff83e8264ecf986ca,2024-11-11,0x6d4fd456edeca58cf53a8b586cd50754547dbdb2,uniswap-v2,DAI,,,1739.586168413094,,pool with liquidity today
+Compound (COMP)|ETH,normal,0xc00e94cb662c3520282e6f5717214004a7f26888,2024-11-12,0xf3194e22d3212a6f930a7c6a88003d43f68befab,uniswap-v2,DAI,,,101.82503508397882,,pool with liquidity today
+Lido DAO Token (LDO)|ETH,normal,0x5a98fcbea516cf06857215779fd812ca3bef1b32,2024-11-13,0xc558f600b34a5f69dd2f0d06cb8a88d829b7420a,sushiswap,WETH,,,6.159796203934027,,pool with liquidity today
+Aave Token (AAVE)|ETH,normal,0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9,2024-11-14,0xdfc14d2af169b0d36c4eff567ada9b2e0cae044f,uniswap-v2,WETH,,,16.26527768633193,,pool with liquidity today
+1INCH Token (1INCH)|ETH,normal,0x111111111117dc0aa78b770fa6a738034120c302,2024-11-11,0x0357079bbecadd7bd4b7a9f418014679fc4e3926,uniswap-v2,USDT,,,4.989937,,pool with liquidity today
+Fetch (FET)|ETH,normal,0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd,2024-11-14,0x9f5ecb7c24358e956e5469681135ae5ad666a7da,uniswap-v2,USDC,,,0.377121,,pool with liquidity today
+dForce (DF)|ETH,normal,0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0,2024-11-11,0x232818620877fd9232e9ade0c91ef5518eb11788,uniswap-v2,WETH,,,0.8938370096788003,,pool with liquidity today
+Coin98 (C98)|BSC,normal,0xaec945e04baf28b135fa7c640f624f8d90f1c3a6,2024-11-12,0x92247860a03f48d5c6425c7ca35cdcfcb1013aa1,pancake-v2,WBNB,,,181.33288141439718,,pool with liquidity today
+Cronos Coin (CRO)|ETH,normal,0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b,2024-11-12,0x90704ac59e7e54632b0cc9d22573aecd7eb094ad,uniswap-v2,WETH,,,0.6260183647109829,,pool with liquidity today
+Euler (EUL)|ETH,normal,0xd9fcd98c322942075a5c3860693e9f4f03aae07b,2024-11-13,0xe96c108da71dbdb2aa1056bc55c3a073061a2fa1,uniswap-v2,WETH,,,1.2145448353070625,,pool with liquidity today
+LooksRare Token (LOOKS)|ETH,normal,0xf4d2888d29d722226fafa5d9b24f9164c092421e,2024-12-08,0xdc00ba87cc2d99468f7f34bc04cbf72e111a32f7,uniswap-v2,WETH,,,0.6320460644394044,,pool with liquidity today
+Rocket Pool (RPL)|ETH,normal,0xb4efd85c19999d84251304bda99e90b92300bd93,2024-11-12,0x308735b937b1b43fb94b288c519c3cdb93b9c330,uniswap-v2,USDC,,,265.85564,,pool with liquidity today
+Gearbox (GEAR)|ETH,normal,0xba3335588d9403515223f109edc4eb7269a9ab5d,2024-11-13,0xe3efc2ef1242f16e10a4760028141fc0fb548bf8,uniswap-v2,WETH,,,19.488652090638826,,pool with liquidity today
+Aura (AURA)|ETH,normal,0xc0c293ce456ff0ed870add98a0828dd4d2903dbf,2024-11-13,0xc423872da26b900986534bc19056dc550f56c90a,sushiswap,WETH,,,0.001353571590228109,,pool with liquidity today
+Ampleforth (AMPL)|ETH,normal,0xd46ba6d942050d489dbd938a2c909a5d5039a161,2024-11-05,0xc5be99a02c6857f9eac67bbce58df5572498f40c,uniswap-v2,WETH,,,101.75343287379812,,pool with liquidity today
+AlpacaToken (ALPACA)|BSC,normal,0x8f0528ce5ef7b51152a59745befdd91d97091d2f,2024-11-12,0x7752e1fa9f3a2e860856458517008558deb989e3,pancake-v2,BUSD,,,1968.589245430902,,pool with liquidity today
+DODO bird (DODO)|ETH,normal,0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd,2024-11-13,0x68fa181c720c07b7ff7412220e2431ce90a65a14,uniswap-v2,WETH,,,20.21467395531644,,pool with liquidity today
+Fodl (FODL)|ETH,normal,0x4c2e59d098df7b6cbae0848d66de2f8a4889b9c3,2024-12-08,0xa5c475167f03b1556c054e0da78192cd2779087f,sushiswap,USDC,,,27211.344383,,pool with liquidity today
+Kishu Inu (KISHU)|ETH,normal,0xa2b4c0af19cc16a6cfacce81f192b024d625817d,2024-11-14,0xf82d8ec196fb0d56c6b82a8b1870f09502a49f88,uniswap-v2,WETH,,,151.3433072092018,,pool with liquidity today
+Million (MM)|ETH,normal,0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611,2024-11-14,0x6832a060135e3005834b6306e34d67093b683c46,uniswap-v2,USDC,,,1893.665894,,pool with liquidity today
+DLP Duck Token (DUCK)|ETH,normal,0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f,2024-12-08,0xe93dc496dbc669d7ee4f03b0eb0a10bb13a4b2a4,uniswap-v2,USDC,,,12549.04009,,pool with liquidity today
+Empty Set Dollar (ESD)|ETH,normal,0x36f3fd68e7325a35eb768f1aedaae9ea0689d723,2024-12-08,0x88ff79eb2bc5850f27315415da8685282c7610f9,uniswap-v2,USDC,,,10317.379067,,pool with liquidity today
+THE TRUTH (UFO)|ETH,normal,0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b,2024-12-08,0x97e1fcb93ae7267dbafad23f7b9afaa08264cfd8,uniswap-v2,WETH,,,170.15286219888068,,pool with liquidity today
+GateChainToken (GT)|ETH,normal,0xe66747a101bff2dba3697199dcce5b743b454759,2024-11-16,0x359c138b1666aa2167aafc205a841ff432a23040,uniswap-v2,WETH,,,0.01211078817464466,,pool with liquidity today
+HuobiToken (HT)|ETH,normal,0x6f259637dcd74c767781e37bc6133cd6a68aa161,2024-11-18,0x26ce49c08ee71aff0c43db8f8b9bea950b6cdc67,uniswap-v2,WETH,,,10.852583223597144,,pool with liquidity today
+Origin Dollar (OUSD)|ETH,normal,0x2a8e1e676ec238d8a992307b495b45b3feaa5e86,2024-11-17,0x4d935d9f2da4e3f924a41ce64085d01bc00424aa,uniswap-v2,USDC,,,6.85892,,pool with liquidity today
+Origin Ether (OETH)|ETH,normal,0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3,2024-11-18,0xf3e920bd7665d5e8e408dc4a3a765ade52314aaf,sushiswap,WETH,,,0.000348650608256544,,pool with liquidity today
+EURA (previously agEUR) (EURA)|ETH,normal,0x1a7e4e63778b4f12a199c062f3efdd288afcbce8,2024-11-19,,,,,,,,no V2 pool
+Leo Token (LEO)|ETH,normal,0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3,2024-12-08,0x523a36ad73c402e456f49b04f0fe8eba5a8c85cd,uniswap-v2,WETH,,,0.04058969928798447,,pool with liquidity today
+Power Index Pool Token (PIPT)|ETH,normal,0x26607ac599266b21d13c7acf7942c7701a8b699c,2024-11-03,0x04e02423299c2c56c451ceb125779cfa0f7ac6bc,sushiswap,WETH,,,4.43069850936167,,pool with liquidity today
+DeGate Token (DG)|ETH,normal,0x53c8395465a84955c95159814461466053dedede,2024-11-18,0x873056a02255872514f05249d93228d788fe4fb4,uniswap-v2,USDC,,,1910697.169665,,pool with liquidity today
+Idle (IDLE)|ETH,normal,0x875773784af8135ea0ef43b5a374aad105c5d39e,2024-12-08,0x0f337c77b5209ba363ad821ee5b0d6db4964f59b,sushiswap,DAI,,,6.128912847661223,,pool with liquidity today
+Magpie Token (MGP)|BSC,normal,0xd06716e1ff2e492cc5034c2e81805562dd3b45fa,2024-11-18,0x76b0d10a4540b6743aa086ea31dc48e8ab691c4d,pancake-v2,BUSD,,,2015.2971228569472,,pool with liquidity today
+FARM Reward Token (FARM)|ETH,normal,0xa0246c9032bc3a600820415ae600c6388619a14d,2024-11-19,0x514906fc121c7878424a5c928cad1852cc545892,uniswap-v2,USDC,,,6177.574943,,pool with liquidity today
+Pax Dollar (USDP)|ETH,normal,0x8e870d67f660d95d5be530380d0ec0bd388289e1,2024-11-18,0x7cd0378010711cb72a6ca35f09d5da2094061d9c,uniswap-v2,USDT,,,11.599201,,pool with liquidity today
+DogeBonk.com (DOBO)|BSC,normal,0xae2df9f730c54400934c06a17462c41c08a06ed8,2024-12-08,0xbe80839a3be4d3953d5588a60a11aeaed286b593,pancake-v2,WBNB,,,1748.2854352100703,,pool with liquidity today
+Lympo Market Token (LMT)|ETH,normal,0x327673ae6b33bd3d90f0096870059994f30dc8af,2024-12-08,0x51c1dc85f57fdaf591606e2adcc34adc96b04006,sushiswap,WETH,,,1.4451939624836236,,pool with liquidity today
+VesperToken (VSP)|ETH,normal,0x1b40183efb4dd766f11bda7a7c3ad8982e998421,2024-12-08,0x132eeb05d5cb6829bd34f552cde0b6b708ef5014,sushiswap,WETH,,,2.378910958000743,,pool with liquidity today
+Rupiah Token (IDRT)|ETH,normal,0x998ffe1e43facffb941dc337dd0468d52ba5b48a,2024-11-19,0xbe1da348fd61bb6bf70670490722eeefc72af92e,sushiswap,WETH,,,0.010075030865421691,,pool with liquidity today
+Digital Reserve Currency (DRC)|ETH,normal,0xa150db9b1fa65b44799d4dd949d922c0a33ee606,2024-12-08,0x53455f3b566d6968e9282d982dd1e038e78033ac,uniswap-v2,WETH,,,12.594537415163847,,pool with liquidity today
+Deri (DERI)|ETH,normal,0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9,2024-12-08,0xa3dfbf2933ff3d96177bde4928d0f5840ee55600,sushiswap,USDT,,,968.318698,,pool with liquidity today
+"
+Bancor (BNT)|ETH",normal,0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c,2024-11-20,0x33c2d48bc95fb7d0199c5c693e7a9f527145a9af,uniswap-v2,DAI,,,4.01582951204598,,pool with liquidity today
+Dexe (DEXE)|ETH,normal,0xde4ee8057785a7e8e800db58f9784845a5c2cbd6,2024-11-20,0x308ecf08955f6ff0a48011561f37a1f570580abe,uniswap-v2,USDC,,,0.568611,,pool with liquidity today
+BitberryToken (BBR)|ETH,normal,0x7671904eed7f10808b664fc30bb8693fd7237abf,2024-12-08,0x6a475be9d494f80218138c2280f9b4b42a309795,uniswap-v2,WETH,,,0.31681308638604844,,pool with liquidity today
+Fei USD (FEI)|ETH,normal,0x956f47f50a910163d8bf957cf5846d573e7f87ca,2024-12-08,0x765be0ee8e1857a8d7e906afa07cf0d2cf36ff59,uniswap-v2,DAI,,,4.688304904306161,,pool with liquidity today
+SafeMoonCash (SAFEMOONCASH)|BSC,normal,0xf017e2773e4ee0590c81d79ccbcf1b2de1d22877,2024-11-16,0xad68926899d46c988f77989187a69deec4f83c87,pancake-v1,WBNB,,,537.8326259386351,,pool with liquidity today
+Cryptocurrency Top 10 Tokens Index (CC10)|ETH,normal,0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3,2024-12-08,0x2701ea55b8b4f0fe46c15a0f560e9cf0c430f833,uniswap-v2,WETH,,,1e-18,,pool with liquidity today
+Shiba Predator (QOM)|ETH,normal,0xa71d0588eaf47f12b13cf8ec750430d21df04974,2024-12-08,0x8ef79d6c328c25da633559c20c75f638a4863462,uniswap-v2,WETH,,,141.4876614908663,,pool with liquidity today
+Concentrated Voting Power (CVP)|ETH,normal,0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1,2024-12-08,0x12d4444f96c644385d8ab355f6ddf801315b6254,uniswap-v2,WETH,,,1.8187783834128726,,pool with liquidity today
+Crypto20 (C20)|ETH,normal,0x26e75307fc0c021472feb8f727839531f112f317,2024-12-08,0xb983499b7d2f2569a7399048bbd72ca65e4e44e2,uniswap-v2,WETH,,,0.028470178238969187,,pool with liquidity today
+Monolith (TKN)|ETH,normal,0xaaaf91d9b90df800df4f55c205fd6989c977e73a,2024-11-12,0x050397956e1fc8a0a2e62af035275f8a415b85a7,uniswap-v2,WETH,,,0.13924158193697733,,pool with liquidity today
+OKB (OKB)|ETH,normal,0x75231f58b43240c9718dd58b4967c5114342a86c,2024-11-22,0x17782d58c715aa2a4458d5fb1c1d8e52a69a62fc,uniswap-v2,WETH,,,0.36425854655995704,,pool with liquidity today
+JOJO (JOJO)|BSC,normal,0x78a499a998bdd5a84cf8b5abe49100d82de12f1c,2024-12-08,0x5226a2c7be3d239636fb144722fd45b99ab80a24,pancake-v2,WBNB,,,183.9052456998304,,pool with liquidity today
+Olympus (OHM)|ETH,normal,0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5,2024-11-23,0x055475920a8c93cffb64d039a8205f7acc7722d3,sushiswap,DAI,,,1749.2542608773367,,pool with liquidity today
+HappyCoin (HAPPY)|BSC,normal,0xb0b924c4a31b7d4581a7f78f57cee1e65736be1d,2024-12-08,0xedf4cc0a7a7133fd0caf3568a197b0f04b938c0f,pancake-v1,WBNB,,,1506.5463357839596,,pool with liquidity today
+Kyber Network Crystal v2 (KNC)|ETH,normal,0xdd974d5c2e2928dea5f71b9825b8b646686bd200,2024-11-23,0x22228474041f3d98ec314eb71362b6f79971d5fb,uniswap-v2,DAI,,,11.355824598483666,,pool with liquidity today
+Fringe (FRIN)|ETH,normal,0xc9fe6e1c76210be83dc1b5b20ec7fd010b0b1d15,2024-11-24,0x461dda49d5f7dcf461446fdbbb59384fd523cce2,uniswap-v2,WETH,,,5.115505528882275,,pool with liquidity today
+USDK (USDK)|ETH,normal,0x1c48f86ae57291f7686349f12601910bd8d470bb,2024-12-08,0x121626bce68a417069279ca626b7305a6c1e4eeb,sushiswap,USDT,,,0.077225,,pool with liquidity today
+Compound Dai (cDAI)|ETH,normal,0x5d3a536e4d6dbd6114cc1ead35777bab948e3643,2024-11-23,0x0cfe7968e7c34a51217a7c9b9dc1690f416e027e,sushiswap,DAI,,,62.97342877009824,,pool with liquidity today
+Compound Ether (cETH)|ETH,normal,0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5,2024-11-23,0x7f438878071228319bd321b170ee16fc92fd6d12,uniswap-v2,WETH,,,1.3098063556336685,,pool with liquidity today
+CelerToken (CELR)|ETH,normal,0x4f9254c83eb525f9fcf346490bbb3ed28a81c667,2024-11-24,0x75201d546585ed4190bb5c7f0ae4f48dfe1b0c62,uniswap-v2,WETH,,,0.5897111257635551,,pool with liquidity today
+Compound USD Coin (cUSDC)|ETH,normal,0x39aa39c021dfbae8fac545936693ac917d5e7563,2024-11-24,0x941c75b164f5ad1ba6f91bbf22881aabc5e2f833,uniswap-v2,USDT,,,12.27261,,pool with liquidity today
+MoonToken (MOON)|ETH,normal,0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824,2024-12-08,0x8927616110cf23c4e87dc98614eb9fbaae95216c,uniswap-v2,WETH,,,7.993763872016388,,pool with liquidity today
+Wrapped TON Coin (TONCOIN)|ETH,normal,0x582d872a1b094fc48f5de31d3b73f2d9be47def1,2024-11-24,0x25b9105cd8972f4e5df4b8ebcd06eb470794891f,uniswap-v2,WETH,,,0.925246128542443,,pool with liquidity today
+SpookyToken (BOO)|ETH,normal,0x55af5865807b196bd0197e0902746f31fbccfa58,2024-11-25,0x9fecf7435560f6ead98a2f259828712b8adf647a,sushiswap,WETH,,,1.0460654042e-06,,pool with liquidity today
+Republic (REN)|ETH,normal,0x408e41876cccdc0f92210600ef50372656052a38,2024-11-26,0x07d04aaad8108ca86e0f1c792bf165f63a5fedde,sushiswap,USDC,,,20.279995,,pool with liquidity today
+Convergence (CONV)|ETH,normal,0xc834fa996fa3bec7aad3693af486ae53d8aa8b50,2024-12-08,0x91da29105a15204cf81b7b541878622ce8166f93,uniswap-v2,USDT,,,6.988907,,pool with liquidity today
+Blind Boxes Token (BLES)|ETH,normal,0xe796d6ca1ceb1b022ece5296226bf784110031cd,2024-11-24,0x187094a90a0fc1f0cf51ef408cf88338a456561b,uniswap-v2,WETH,,,0.00328114297090962,,pool with liquidity today
+Audius (AUDIO)|ETH,normal,0x18aaa7115705e8be94bffebde57af9bfc265b998,2024-11-25,0xa3a87a7f6b2c62d81793559309c9bc1ff90b75b9,uniswap-v2,USDC,,,5.272712,,pool with liquidity today
+Capsule Coin (CAPS)|ETH,normal,0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2,2024-11-25,0x456fb056a8d118300b624d3aee3864e685ae086c,uniswap-v2,WETH,,,0.3565314744940732,,pool with liquidity today
+Octo.fi (OCTO)|ETH,normal,0x7240ac91f01233baaf8b064248e80feaa5912ba3,2024-12-08,0x1b87fde6af5396165fdadf7f532784622a824abf,uniswap-v2,USDC,,,730.033699,,pool with liquidity today
+Meta (MTA)|ETH,normal,0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2,2024-12-08,0x0d0d65e7a7db277d3e0f5e1676325e75f3340455,uniswap-v2,WETH,,,12.828598334256291,,pool with liquidity today
+Beta Token (BETA)|ETH,normal,0xbe1a001fe942f96eea22ba08783140b9dcc09d28,2024-11-26,0x5ac6e23e67c9dc7bdadb190f34dc4fd4b103d9a2,uniswap-v2,WETH,,,0.008069458223589293,,pool with liquidity today
+Level Token (LVL)|BSC,normal,0xb64e280e9d1b5dbec4accedb2257a87b400db149,2024-12-08,0x69d6b9a5709eead2c6568c1f636b32707ea55a7e,pancake-v2,USDT,,,4098.331255519765,,pool with liquidity today
+Axelar (AXL)|ETH,normal,0x467719ad09025fcc6cf6f8311755809d45a5e5f3,2024-11-26,,,,,,,,no V2 pool
+Finance.Vote Token (FVT)|ETH,normal,0x45080a6531d671ddff20db42f93792a489685e32,2024-12-08,0x75001b3ffe0f77864c7dc64c55e1e22b205e4a07,uniswap-v2,WETH,,,20.63460412758266,,pool with liquidity today
+DSLA (DSLA)|ETH,normal,0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe,2024-12-08,0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9,uniswap-v2,WETH,,,2.674846435869614,,pool with liquidity today
+Fuse Token (FUSE)|ETH,normal,0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d,2024-12-07,0x611805ce4071c096f5b44557b45685802d8a46fe,uniswap-v2,USDC,,,16.25684,,pool with liquidity today
+Script Network (SCPT)|BSC,normal,0x0669538fcdef9a73cd37938eba8c79e652bb93aa,2024-12-08,0xcd730b45b703aa4f351adf0f98267a37fd5054eb,pancake-v2,WBNB,,,0.004097647708714225,,pool with liquidity today
+SAND (SAND)|ETH,normal,0x3845badade8e6dff049820680d1f14bd3903a5d0,2024-12-09,0x3dd49f67e9d5bc4c5e6634b3f70bfd9dc1b6bd74,uniswap-v2,WETH,,,79.1040804907056,,pool with liquidity today
+Arbitrum (ARB)|ETH,normal,0xb50721bcf8d664c30412cfbc6cf7a15145234ad1,2024-12-08,0x1af399b58330501594ab8c015be0ad953c55f09a,sushiswap,WETH,,,3.2760749444159e-05,,pool with liquidity today
+bitsCrunch Token (BCUT)|ETH,normal,0xbef26bd568e421d6708cca55ad6e35f8bfa0c406,2024-12-08,,,,,,,,no V2 pool
+Illuvium (ILV)|ETH,normal,0x767fe9edc9e0df98e07454847909b5e959d7ca0e,2024-12-09,0x6a091a3406e0073c3cd6340122143009adac0eda,sushiswap,WETH,,,396.84874415954937,,pool with liquidity today
+Theta Token (THETA)|ETH,normal,0x3883f5e181fccaf8410fa61e12b59bad963fb645,2024-12-08,,,,,,,,no V2 pool
+HanChain (HAN)|ETH,normal,0x0c90c57aaf95a3a87eadda6ec3974c99d786511f,2024-12-08,0xdc344c03af299c6bd5a2d27781bc8b1aefa09187,uniswap-v2,USDC,,,117.162474,,pool with liquidity today
+CyberConnect (CYBER)|ETH,normal,0x14778860e937f509e651192a90589de711fb88a9,2024-12-08,,,,,,,,no V2 pool
+Radio Caca V2 (RACA)|ETH,normal,0x12bb890508c125661e03b09ec06e404bc9289040,2024-12-09,0x700fc86c46299cf2a8fd86edadae3f57014351b0,uniswap-v2,USDT,,,71.61224,,pool with liquidity today
+LimeWire Token (LMWR)|ETH,normal,0x628a3b2e302c7e896acc432d2d0dd22b6cb9bc88,2024-12-10,0x03296fdd8bf8e0f9def07fac3466b256fc8720b0,uniswap-v2,WETH,,,21.106712516891598,,pool with liquidity today
+Gelato Network Token (GEL)|ETH,normal,0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05,2024-12-10,,,,,,,,no V2 pool
+PORTAL (PORTAL)|ETH,normal,0x1bbe973bef3a977fc51cbed703e8ffdefe001fed,2024-12-11,0xb0574c1f1536a6f7d48be02bcf96a9a29ae76dc8,uniswap-v2,USDT,,,1e-06,,pool with liquidity today
+ZKLink (ZKL)|ETH,normal,0xfc385a1df85660a7e041423db512f779070fcede,2024-12-08,,,,,,,,no V2 pool
+GoMining Token (GMT)|ETH,normal,0x7ddc52c4de30e94be3a6a0a2b259b2850f421989,2024-12-12,0x39129cee8025418cccd8ad1b5b49e84fb9392c79,uniswap-v2,USDT,,,0.03828,,pool with liquidity today
+Cartesi Token (CTSI)|ETH,normal,0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d,2024-12-13,0x58eeb5d44dc41965ab0a9e563536175c8dc5c3b3,uniswap-v2,WETH,,,0.023871901457336118,,pool with liquidity today
+SeedifyFund (SFUND)|BSC,normal,0x477bc8d23c634c154061869478bce96be6045d12,2024-12-12,0x74fa517715c4ec65ef01d55ad5335f90dce7cc87,pancake-v2,WBNB,,,50.96834822777369,,pool with liquidity today
+Boba Token (BOBA)|ETH,normal,0x42bbfa2e77757c645eeaad1655e0911a7553efbc,2024-12-13,0x3961d865cc738c51ba1d554ce38d45dbafaebdb8,uniswap-v2,WETH,,,4.439997e-12,,pool with liquidity today
+izumi Token (iZi)|ETH,normal,0x9ad37205d608b8b219e6a2573f922094cec5c200,2024-12-11,,,,,,,,no V2 pool
+MLTToken (ML)|ETH,normal,0x059956483753947536204e89bfad909e1a434cc6,2024-12-13,0xef0d8c50fbbdc3ec6d2cb3ddbb9e5e775fef4ad5,uniswap-v2,WETH,,,3.1575074298e-08,,pool with liquidity today
+Masa Token (MASA)|ETH,normal,0x944824290cc12f31ae18ef51216a223ba4063092,2024-12-14,,,,,,,,no V2 pool
+OPEN GPU (oGPU)|ETH,normal,0x067def80d66fb69c276e53b641f37ff7525162f6,2024-12-15,0x3415e25b637686bbece1d0f798934772101486f6,uniswap-v2,WETH,,,28.6773884263216,,pool with liquidity today
+5ire Token (5IRE)|ETH,normal,0x3bd7d4f524d09f4e331577247a048d56e4b67a7f,2024-12-13,0x17ea59ff0cb6e84238af8506d4a29172a990a601,uniswap-v2,USDT,,,2373.160937,,pool with liquidity today
+SafePal Token (SFP)|BSC,normal,0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb,2024-12-13,0x942b294e59a8c47a0f7f20df105b082710f7c305,pancake-v2,WBNB,,,170.86044908608034,,pool with liquidity today
+TokenFi (TOKEN)|BSC,normal,0x4507cef57c46789ef8d1a19ea45f4216bae2b528,2024-12-12,0x05616b7b6da03fb4c773b76663816b360ccaede4,pancake-v2,WBNB,,,877.4515483411589,,pool with liquidity today
+ApeCoin (APE)|ETH,normal,0x4d224452801aced8b2f0aebe155379bb5d594381,2024-12-13,0xb27c7b131cf4915bec6c4bc1ce2f33f9ee434b9f,sushiswap,USDT,,,2273.425388,,pool with liquidity today
+ORBOFI (OBI)|ETH,normal,0xbb3a8fd6ec4bf0fdc6cd2739b1e41192d12b1873,2024-12-14,,,,,,,,no V2 pool
+Boson Token (BOSON)|ETH,normal,0xc477d038d5420c6a9e0b031712f61c5120090de9,2024-12-12,0xcee9c8f438902a5ab642c4b13b21de5d5399f34f,uniswap-v2,USDC,,,1e-06,,pool with liquidity today
+ARPA Token (ARPA)|ETH,normal,0xba50933c268f567bdc86e1ac131be072c6b0b71a,2024-12-13,0x9f624b25991b99d7b14d6740a9d581dd77980808,uniswap-v2,USDT,,,85.746215,,pool with liquidity today
+LayerZero (ZRO)|ETH,normal,0x6985884c4392d348587b19cb9eaaf157f13271cd,2024-12-14,0x701e67bb8856bd0949ab7d8bde86e8a8337c1285,uniswap-v2,USDC,,,1e-06,,pool with liquidity today
+Phala (PHA)|ETH,normal,0x6c5ba91642f10282b576d91922ae6448c9d52f4e,2024-12-12,0x8867f20c1c63baccec7617626254a060eeb0e61e,uniswap-v2,WETH,,,46.70667553152314,,pool with liquidity today
+Perpetual (PERP)|ETH,normal,0xbc396689893d065f41bc2c6ecbee5e0085233447,2024-12-14,0x8486c538dcbd6a707c5b3f730b6413286fe8c854,sushiswap,WETH,,,0.07601794879267831,,pool with liquidity today
+chiliZ (CHZ)|ETH,normal,0x3506424f91fd33084466f402d5d97f05f8e3b4af,2024-12-12,0x31ac548e59565fdd78604a47e1571ef68c80e9f5,uniswap-v2,USDT,,,36.295131,,pool with liquidity today
+IoTeX Network (IOTX)|ETH,normal,0x6fb3e0a217407efff7ca062d46c26e5d60a14d69,2024-12-13,0x3aacfbc97573ed2f57f3feedbacc99c52cdeeab6,uniswap-v2,WETH,,,0.2603369130443765,,pool with liquidity today
+Swipe (SXP)|ETH,normal,0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9,2024-12-17,0xac317d14738a454ff20b191ba3504aa97173045b,uniswap-v2,WETH,,,1.3229918064819663,,pool with liquidity today
+Singularity Dao (SDAO)|ETH,normal,0x993864e43caa7f7f12953ad6feb1d1ca635b875f,2024-12-09,0x3a925503970d40d36d2329e3846e09fcfc9b6acb,uniswap-v2,USDT,,,616.859588,,pool with liquidity today
+MAGA VP (MVP)|ETH,normal,0x766d2fcece1e3eef32aae8711ab886ee95fd5b2a,2024-12-19,0x2b7d0cb53b9b88281578cf7f8abc0982d7f4c166,uniswap-v2,WETH,,,4.499060071765955,,pool with liquidity today
+Swash Token (SWASH)|ETH,normal,0xa130e3a33a4d84b04c3918c4e5762223ae252f80,2024-12-17,,,,,,,,no V2 pool
+PayPal USD (PYUSD)|ETH,normal,0x6c3ea9036406852006290770bedfcaba0e23a0e8,2024-12-20,0xd30ef9144a8d26f816bcfcebc1f0c7215adb4964,uniswap-v2,USDC,,,0.013036,,pool with liquidity today
+FABWELT (WELT)|BSC,normal,0x1785113910847770290f5f840b4c74fc46451201,2024-12-20,0x4e097c17060b9449d3985dc97f1ee3f551deff8a,pancake-v2,BUSD,,,0.05517930165391351,,pool with liquidity today
+OpulousToken (OPUL)|ETH,normal,0x80d55c03180349fff4a229102f62328220a96444,2024-12-20,0xa5f0cf205af1f5b02c00ba7ab834824c01855b54,uniswap-v2,USDC,,,544.983386,,pool with liquidity today
+Ondo U.S. Dollar Yield (USDY)|ETH,normal,0x96f6ef951840721adbf46ac996b59e0235cb985c,2024-12-20,,,,,,,,no V2 pool
+SIDUS (SIDUS)|ETH,normal,0x549020a9cb845220d66d3e9c6d9f9ef61c981102,2024-12-21,0x8c07e1dfede38b1908698988b4202a87e0d7a0f7,uniswap-v2,WETH,,,0.3482138955227975,,pool with liquidity today
+Injective Token (INJ)|ETH,normal,0xe28b3b32b6c345a34ff64674606124dd5aceca30,2024-12-08,0x3c70f4faea49e50adc8305f2e1aa0ea326a54ffc,uniswap-v2,WETH,,,3.2898376995678325,,pool with liquidity today
+Layer3 (L3)|ETH,normal,0x88909d489678dd17aa6d9609f89b0419bf78fd9a,2024-12-21,,,,,,,,no V2 pool
+BSCS Token (BSCS)|BSC,normal,0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d,2024-12-08,0x9a590a591307e67aeb3f907e1fca53ad93b10d60,pancake-v2,WBNB,,,2.434813748529788,,pool with liquidity today
+Hot Cross Token (HOTCROSS)|ETH,normal,0x4297394c20800e8a38a619a243e9bbe7681ff24e,2024-12-20,0x63bfea618c17db3e79be553da55d73db0dc715af,uniswap-v2,USDC,,,3.592929,,pool with liquidity today
+Ankr Network (ANKR)|ETH,normal,0x8290333cef9e6d528dd5618fb97a76f268f3edd4,2024-12-22,0x5201883feeb05822ce25c9af8ab41fc78ca73fa9,uniswap-v2,WETH,,,0.4391325473235409,,pool with liquidity today
+Pendle (PENDLE)|ETH,normal,0x808507121b80c02388fad14726482e061b8da827,2024-12-21,0xf320326d297f2d32d86bda38ace6585b0fb76e15,sushiswap,USDC,,,20.75281,,pool with liquidity today
+HORD Token (HORD)|ETH,normal,0x43a96962254855f16b925556f9e97be436a43448,2024-12-08,0xde6faedbcae38eec6d33ad61473a04a6dd7f6e28,uniswap-v2,USDT,,,920.984283,,pool with liquidity today
+Polytrade (TRADE)|ETH,normal,0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1,2024-12-08,0x81f9dc0086ea532aa11d107097d1b171a655cc20,uniswap-v2,USDT,,,1059.419832,,pool with liquidity today
+Maple Token (MPL)|ETH,normal,0x33349b282065b0284d756f0577fb39c158f935e6,2024-12-22,0x7b28470032da06051f2e620531adbaeadb285408,uniswap-v2,USDC,,,0.004538,,pool with liquidity today
+Curve DAO Token (CRV)|ETH,normal,0xd533a949740bb3306d119cc777fa900ba034cd52,2024-12-23,0x747c9884d29474fe4334c477ebfd25f8a6f5b90d,sushiswap,DAI,,,96.47144535455976,,pool with liquidity today
+BandToken (BAND)|ETH,normal,0xba11d00c5f74255f56a5e366f4f77f5a186d7f55,2024-12-24,0xa75f7c2f025f470355515482bde9efa8153536a8,sushiswap,WETH,,,2.7614756323931253,,pool with liquidity today
+Ambire Wallet (WALLET)|ETH,normal,0x88800092ff476844f74dc2fc427974bbee2794ae,2024-12-25,0x724934f5fdd0e938664a39b0b484d055e24f680e,sushiswap,USDT,,,1.658266,,pool with liquidity today
+Locus Chain (LOCUS)|ETH,normal,0xc64500dd7b0f1794807e67802f8abbf5f8ffb054,2024-12-24,0x26e2001cc799828fc46771978821f69fd4dff268,sushiswap,WETH,,,0.000144063987973043,,pool with liquidity today
+NETVRK (NTVRK)|ETH,normal,0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a,2024-12-08,0xddf8390ced9fad414b1ca1dd4fe14f881c2cfa70,uniswap-v2,WETH,,,0.01818713016014843,,pool with liquidity today
+beefy.finance (BIFI)|BSC,normal,0xca3f508b8e4dd382ee878a314789373d80a5190a,2024-12-08,0xd3f004e303114423f122c78afded4acfe97675b1,pancake-v1,BUSD,,,103.4416608995285,,pool with liquidity today
+MagicCraft (MCRT)|BSC,normal,0x4b8285ab433d8f69cb48d5ad62b415ed1a221e4f,2024-12-27,0xf8209291b074dc74d39c906386f0037718a15072,pancake-v2,WBNB,,,111.18467121408052,,pool with liquidity today
+First Digital USD (FDUSD)|ETH,normal,0xc5f0f7b66764f6ec8c8dff7ba683102295e16409,2024-12-29,0x672b6e8c2c05e9576fe09a1de5f80c35f63c19a6,uniswap-v2,USDC,,,0.026436,,pool with liquidity today
+Morpheus.Network (MNW)|ETH,normal,0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4,2024-12-26,0xc51a5a005179e9d80aedf9d245fbf1d8a8d5b754,sushiswap,WETH,,,0.26611775365232343,,pool with liquidity today
+Zeta (ZETA)|ETH,normal,0xf091867ec603a6628ed83d274e835539d82e9cc8,2024-12-28,,,,,,,,no V2 pool
+KEEP Token (KEEP)|ETH,normal,0x85eee30c52b0b379b046fb0f85f4f3dc3009afec,2024-12-26,0xe6f19dab7d43317344282f803f8e8d240708174a,uniswap-v2,WETH,,,6.61460478397151,,pool with liquidity today
+Lumerin (LMR)|ETH,normal,0x4b1d0b9f081468d780ca1d5d79132b64301085d1,2024-12-27,0x5ba6cccf75db97091f017878e3543ca89ee81618,uniswap-v2,WETH,,,2.38709823486e-07,,pool with liquidity today
+Dimitra Token (DMTR)|ETH,normal,0x51cb253744189f11241becb29bedd3f1b5384fdb,2024-12-26,0xcf3f7d858444f78ed16a339fed8c3fd9819ec235,uniswap-v2,WETH,,,23.244384553371994,,pool with liquidity today
+Bholdus Token (BHO)|BSC,normal,0x8717e80eff08f53a45b4a925009957e14860a8a8,2024-12-08,0x6e7c0bb4cea846cfd9205edb50487ac12585bea2,pancake-v2,WBNB,,,38.82788018496198,,pool with liquidity today
+Forta (FORT)|ETH,normal,0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29,2024-12-29,,,,,,,,no V2 pool
+SquidGrow (SQGROW)|ETH,normal,0xb72e76ccf005313868db7b48070901a44629da98,2024-12-27,0x622270721fb38fde831ab23a8e177665557f6fa9,uniswap-v2,WETH,,,0.005551152552196897,,pool with liquidity today
+AirSwap (AST)|ETH,normal,0x27054b13b1b798b345b591a4d22e6562d47ea75a,2024-12-29,0xca9c4cc09e901f4d2aa072ed1aa95dcbe3a7a8e5,uniswap-v2,WETH,,,0.21012237177368467,,pool with liquidity today
+Monsta Infinite Token (MONI)|BSC,normal,0x9573c88ae3e37508f87649f87c4dd5373c9f31e0,2024-12-08,0xcc72767f4b061f581ce18af01dbd6f032ac3012f,pancake-v2,USDT,,,297.99497472390107,,pool with liquidity today
+Request (REQ)|ETH,normal,0x8f8221afbb33998d8584a2b05749ba73c37a938a,2024-12-29,0x5522c339d35a6c3e5f328c8746bdf88f599dab83,uniswap-v2,DAI,,,70483.32075136069,,pool with liquidity today
+Victoria VR (VR)|ETH,normal,0x7d5121505149065b562c789a0145ed750e6e8cdd,2024-12-30,0x4085cafb2c519e6bf69ad410d91dbb6139948366,uniswap-v2,USDT,,,23394.192709,,pool with liquidity today
+Adventure Gold (AGLD)|ETH,normal,0x32353a6c91143bfd6c7d363b546e62a9a2489a20,2024-12-29,0x0d15e893cf50724382368cafed222cf131b55307,sushiswap,WETH,,,0.4577865434462111,,pool with liquidity today
+PAAL AI ($PAAL)|ETH,normal,0x14fee680690900ba0cccfc76ad70fd1b95d10e16,2024-12-30,0x2a6c340bcbb0a79d3deecd3bc5cbc2605ea9259f,uniswap-v2,WETH,,,193.50535489260952,,pool with liquidity today
+Threshold Network Token|ETH,normal,0xcdf7028ceab81fa0c6971208e83fa7872994bee5,2024-12-29,0xd3fb891d4d5977f913aed30b752f2b178479dfdc,uniswap-v2,WETH,,,0.001319806749398188,,pool with liquidity today
+Stader (SD)|ETH,normal,0x30d20208d987713f46dfd34ef128bb16c404d10f,2024-12-31,0x452749253143768e618371e2c5e3aca812445ed6,uniswap-v2,USDT,,,20074.52099,,pool with liquidity today
+DeFiYieldProtocol (DYP)|ETH,normal,0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17,2024-12-30,0x76911e11fddb742d75b83c9e1f611f48f19234e4,uniswap-v2,USDT,,,1474.508553,,pool with liquidity today
+Binance-Peg Filecoin (FIL)|BSC,normal,0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153,2024-12-30,0x7dcc03aa0129b8b07f2c323391f8abb0afb76c52,pancake-v2,USDT,,,3059.9087340751134,,pool with liquidity today
+Perion Credits (PERC)|ETH,normal,0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268,2025-01-01,0x45b6ffb13e5206dafe2cc8780e4ddc0e32496265,sushiswap,WETH,,,0.6061094413096982,,pool with liquidity today
+Oraichain Token (ORAI)|ETH,normal,0x4c11249814f11b9346808179cf06e71ac328c1b5,2025-01-02,0x9081b50bad8beefac48cc616694c26b027c559bb,uniswap-v2,WETH,,,15.414586991247722,,pool with liquidity today
+Marlin POND (POND)|ETH,normal,0x57b946008913b82e4df85f501cbaed910e58d26c,2025-01-01,0xd18748b9839b0081a867a1a871d5b562b2ec9884,uniswap-v2,USDC,,,71409.903736,,pool with liquidity today
+MATH Token (MATH)|ETH,normal,0x08d967bb0134f2d07f7cfb6e246680c53927dd30,2025-01-03,0x3006c0d2a6e54d3590a44384c6f066c9cf9a4cea,uniswap-v2,WETH,,,5.522308584616435,,pool with liquidity today
+OpenOcean (OOE)|ETH,normal,0x7778360f035c589fce2f4ea5786cbd8b36e5396b,2024-12-08,0xd7e4ccbc7dd1fc6ac6bc7911086f7c0000f5e5f6,uniswap-v2,WETH,,,1.85197226428e-07,,pool with liquidity today
+BabySwap Token (BABY)|BSC,normal,0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657,2024-12-08,0xad1bfa8b34e6f6e63972d47667712f36061d955b,pancake-v2,WBNB,,,65.62026357735095,,pool with liquidity today
+tomi Token (TOMI)|ETH,normal,0x4385328cc4d643ca98dfea734360c0f596c83449,2024-12-08,0xe5d5f8f61b1555f1a27488a122fb3cde2ee16f2b,uniswap-v2,USDT,,,0.003334,,pool with liquidity today
+Pepe (PEPE)|ETH,normal,0x6982508145454ce325ddbe47a25d4ec3d2311933,2025-01-01,0xa43fe16908251ee70ef74718545e4fe6c5ccec9f,uniswap-v2,WETH,,,7075.696170154764,,pool with liquidity today
+Atlas Navi (NAVI)|ETH,normal,0xfc1c93a2507975e98b9d0e9260ded61a00152bf1,2025-01-02,,,,,,,,no V2 pool
+SKALE (SKL)|ETH,normal,0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7,2025-01-01,0xf232d640a5700724748464ba8bd8bed21db609a6,uniswap-v2,WETH,,,0.15501041481660274,,pool with liquidity today
+Lever (LEVER)|ETH,normal,0x4b5f49487ea7b3609b1ad05459be420548789f1f,2024-12-31,,,,,,,,no V2 pool
+Storj (STORJ)|ETH,normal,0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac,2025-01-01,0xaef16913b6c50ebcf627a394921f306985fc8604,uniswap-v2,WETH,,,13.92855772042129,,pool with liquidity today
+DAO Maker (DAO)|ETH,normal,0x0f51bb10119727a7e5ea3538074fb341f56b09ad,2024-12-31,0x4cd36d6f32586177e36179a810595a33163a20bf,uniswap-v2,USDC,,,19772.638763,,pool with liquidity today
+Coinweb (CWEB)|ETH,normal,0x505b5eda5e25a67e1c24a2bf1a527ed9eb88bf04,2025-01-01,0x689d2ee154633ae19d61a8570c09248dcbd0ed04,uniswap-v2,USDT,,,6093.239043,,pool with liquidity today
+Decentraland (MANA)|ETH,normal,0x0f5d2fb29fb7d3cfee444a200298f468908cc942,2025-01-02,0x9d090ffd76ddfd94f49040df91edd6977e30e6c6,uniswap-v2,DAI,,,52.30838987154957,,pool with liquidity today
+Zentry (ZENT)|ETH,normal,0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa,2025-01-02,0x4eefe02fce5b53ca33c7717bbd8ad3c9cb0609f1,uniswap-v2,WETH,,,28.669423072630703,,pool with liquidity today
+Aragon Network Token (ANT)|ETH,normal,0x960b236a07cf122663c4303350609a66a7b288c0,2025-01-01,0xd5b593f5d6055d0d887fdd6efa121feaf68bd1af,uniswap-v2,USDT,,,0.867689,,pool with liquidity today
+Clearpool (CPOOL)|ETH,normal,0x66761fa41377003622aee3c7675fc7b5c1c2fac5,2024-12-08,0xa1db2fc9b2ceaf3cdf41fd11ffcb38404eae3906,uniswap-v2,USDC,,,1e-06,,pool with liquidity today
+Lithium (LITH)|ETH,normal,0x188e817b02e635d482ae4d81e25dda98a97c4a42,2024-12-08,0x2b68ead18db86cd6130df53c4b6c3c77332a3351,uniswap-v2,WETH,,,1.0744038272929795,,pool with liquidity today
+GAMEE (GMEE)|ETH,normal,0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373,2024-12-08,0x4c083084c9d50334b343c44ec97d16011303cc73,uniswap-v2,WETH,,,27.9511954726703,,pool with liquidity today
+Convex Token (CVX)|ETH,normal,0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b,2025-01-01,0x05767d9ef41dc40689678ffca0608878fb3de906,sushiswap,WETH,,,38.76492492522291,,pool with liquidity today
+Arkham (ARKM)|ETH,normal,0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050,2025-01-02,0x893a134dafceb35c9cd022d54f2b8c40a235fa35,uniswap-v2,WETH,,,0.00235469011983236,,pool with liquidity today
+Mass Vehicle Ledger Token (MVL)|ETH,normal,0xa849eaae994fb86afa73382e9bd88c2b6b18dc71,2025-01-03,0x3c8ad34155b83ddb7f43119a19503d34ed2b5c7a,uniswap-v2,WETH,,,85.01092838186213,,pool with liquidity today
+Kromatika (KROM)|ETH,normal,0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789,2024-12-08,0xddf82a683e9af51f48c6b9114b5e0cc220bac52d,uniswap-v2,WETH,,,4.466500909e-09,,pool with liquidity today
+Ethena (ENA)|ETH,normal,0x57e114b691db790c35207b2e685d4a43181e6061,2025-01-01,0xfc6ba1e9c108270ce8c93ccee72923ced8aa2d69,uniswap-v2,USDT,,,0.28848,,pool with liquidity today
+Quant (QNT)|ETH,normal,0x4a220e6096b25eadb88358cb44068a3248254675,2024-12-08,0x0c4a68cf6857cc76fe946d04fe85fac5fae9625e,uniswap-v2,WETH,,,24.184300813209877,,pool with liquidity today
+STASIS EURS Token (EURS)|ETH,normal,0xdb25f211ab05b1c97d595516f45794528a807ad8,2025-01-03,0x767055e2a9f15783b1ec5ef134a89acf3165332f,uniswap-v2,USDC,,,215.221855,,pool with liquidity today
+MANTRA DAO (OM)|ETH,normal,0x2baecdf43734f22fd5c152db08e3c27233f0c7d2,2025-01-04,0x1305742034d950edcdb4616e8ad30280c3265fcf,uniswap-v2,USDT,,,46.925901,,pool with liquidity today
+Frax (FRAX)|ETH,normal,0x853d955acef822db058eb8505911ed77f175b99e,2025-01-03,0x97c4adc5d28a86f9470c70dd91dc6cc2f20d2d4d,uniswap-v2,USDC,,,57641.236206,,pool with liquidity today
+Ethereum Name Service (ENS)|ETH,normal,0xc18360217d8f7ab5e7c516566761ea12ce7f9d72,2025-01-02,0xa1181481beb2dc5de0daf2c85392d81c704bf75d,sushiswap,WETH,,,7.926730769106145,,pool with liquidity today
+Lossless Token (LSS)|ETH,normal,0x3b9be07d622accaed78f479bc0edabfd6397e320,2025-01-05,0x62e3c242b5e903071458ad90a160493d84911c77,uniswap-v2,USDT,,,14390.196337,,pool with liquidity today
+UniCrypt (UNCX)|ETH,normal,0xadb2437e6f65682b85f814fbc12fec0508a7b1d0,2025-01-03,0xc70bb2736e218861dca818d1e9f7a1930fe61e5b,uniswap-v2,WETH,,,1.7324889604838274,,pool with liquidity today
+hoge.finance (HOGE)|ETH,normal,0xfad45e47083e4607302aa43c65fb3106f1cd7607,2025-01-04,0x7fd1de95fc975fbbd8be260525758549ec477960,uniswap-v2,WETH,,,13.529539919864456,,pool with liquidity today
+Autonolas (OLAS)|ETH,normal,0x0001a500a6b18995b03f44bb040a5ffc28e45cb0,2025-01-05,0x09d1d767edf8fa23a64c51fa559e0688e526812f,uniswap-v2,WETH,,,400.8321086172844,,pool with liquidity today
+PolkaBridge (PBR)|ETH,normal,0x298d492e8c1d909d3f63bc4a36c66c64acb3d695,2024-12-28,0xcb37b0027858796ce60ecce4b54c45afdff02aca,uniswap-v2,WETH,,,1.1309609628235344,,pool with liquidity today
+Messier (M87)|ETH,normal,0x80122c6a83c8202ea365233363d3f4837d13e888,2025-01-03,0x2049df3435bdbb36d22f98fcd2e5027049a1f3ce,uniswap-v2,WETH,,,237.16688379708438,,pool with liquidity today
+Omni Network (OMNI)|ETH,normal,0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4,2025-01-05,0xc06ac460e1c28b13ea25c9297b72b9ab4e680575,uniswap-v2,USDT,,,0.923287,,pool with liquidity today
+TOWER (TOWER)|ETH,normal,0x1c9922314ed1415c95b9fd453c3818fd41867d0b,2025-01-02,0xb473c2606f7ac371518b13d2d097c34c38ca33d5,sushiswap,USDC,,,2884.379917,,pool with liquidity today
+The Force Token (FOR)|ETH,normal,0x1fcdce58959f536621d76f5b7ffb955baa5a672f,2025-01-18,0xb319887931a5a1bb379deb45c2586430b166f21b,uniswap-v2,USDT,,,5.947586,,pool with liquidity today
+Polka City (POLC)|ETH,normal,0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37,2024-12-08,0xb5bd39fc0c57d902271ba6c5cd89c1510a37c0dd,uniswap-v2,WETH,,,0.12401674744750116,,pool with liquidity today
+Parsiq Token (PRQ)|ETH,normal,0x362bc847a3a9637d3af6624eec853618a43ed7d2,2024-12-08,0x64cac8fa24f437ceca90e20a7a24a609f162b0d1,uniswap-v2,WETH,,,0.352059375164172,,pool with liquidity today
+NuLink token (NLK)|ETH,normal,0x744030ad4e6c10faf5483b62473d88a254d62261,2025-01-17,,,,,,,,no V2 pool
+SynFutures (F)|ETH,normal,0x6e15a54b5ecac17e58dadeddbe8506a7560252f9,2025-01-18,,,,,,,,no V2 pool
+E-RADIX (eXRD)|ETH,normal,0x6468e79a80c0eab0f9a2b574c8d5bc374af59414,2025-01-19,0x684b00a5773679f88598a19976fbeb25a68e9a5f,uniswap-v2,USDC,,,24781.560989,,pool with liquidity today
+AltLayer Token (ALT)|ETH,normal,0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb,2025-01-17,0x65680a987f4871a7bb865c86fae11667e6aa8068,uniswap-v2,USDT,,,40569.032559,,pool with liquidity today
+Aurora (AURORA)|ETH,normal,0xaaaaaa20d9e0e2461697782ef11675f668207961,2024-12-08,0x629d22e6eeac46a11dbc96be93b90aee9309be4c,uniswap-v2,WETH,,,80.33839294967369,,pool with liquidity today
+MARS4 (MARS4)|ETH,normal,0x16cda4028e9e872a38acb903176719299beaed87,2024-12-08,0xb50580b0d81d9fe860746387cef9a8fc36d48d49,sushiswap,WETH,,,1.079417780200307,,pool with liquidity today
+zkRace (ZERC)|ETH,normal,0xf8428a5a99cb452ea50b6ea70b052daa3df4934f,2025-01-19,0x29eba991f9d9e71c6bbd69cb71c074193fd877fd,uniswap-v2,USDC,,,21726.166431,,pool with liquidity today
+mETH (mETH)|ETH,normal,0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa,2025-01-20,0x0464f23f452185a896f429e6943bde709ccac9f2,uniswap-v2,WETH,,,3.89877498476e-07,,pool with liquidity today
+Polkamarkets (POLK)|ETH,normal,0xd478161c952357f05f0292b56012cd8457f1cfbf,2024-12-08,0x05f04f112a286c4c551897fb19ed2300272656c8,uniswap-v2,WETH,,,0.3903461026742362,,pool with liquidity today
+Onyxcoin (XCN)|ETH,normal,0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18,2024-12-08,0x859f7092f56c43bb48bb46de7119d9c799716cdf,uniswap-v2,WETH,,,148.764437139949,,pool with liquidity today
+WAX Token (WAX)|ETH,normal,0x39bb259f66e1c59d5abef88375979b4d20d98022,2024-12-08,0xc1f402b95196807c8f951cbe1c03c944571a1dc2,uniswap-v2,WETH,,,0.04908215885518533,,pool with liquidity today
+Umbrella (UMB)|ETH,normal,0x6fc13eace26590b80cccab1ba5d51890577d83b2,2024-12-08,0xb1bbeea2da2905e6b0a30203aef55c399c53d042,uniswap-v2,WETH,,,4.850953760880378,,pool with liquidity today
+Civic (CVC)|ETH,normal,0x41e5560054824ea6b0732e656e3ad64e20e94e45,2024-12-08,0x123fca7e8272a8e9c3bb7113c259abc4901e792b,uniswap-v2,WETH,,,0.7864787998656825,,pool with liquidity today
+Keep3rV1 (KP3R)|ETH,normal,0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44,2025-01-23,0xaf988aff99d3d0cb870812c325c588d8d8cb7de8,sushiswap,WETH,,,7.938663951493457,,pool with liquidity today
+GraphLinq (GLQ)|ETH,normal,0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24,2025-01-24,0x7d9c8d888d03df89461c645bd1108ae138b63a2a,uniswap-v2,WETH,,,0.000436483083739599,,pool with liquidity today
+eesee (ESE)|ETH,normal,0x908ddb096bfb3acb19e2280aad858186ea4935c4,2025-01-23,0xcc9a0c905bb88b84b744fed69490c8f97ad3a585,uniswap-v2,WETH,,,8.960336264283006,,pool with liquidity today
+Celsius (CEL)|ETH,normal,0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d,2025-01-24,0xa5e79baee540f000ef6f23d067cd3ac22c7d9fe6,uniswap-v2,WETH,,,2.767225077867612,,pool with liquidity today
+Alchemy (ACH)|ETH,normal,0xed04915c23f00a313a544955524eb7dbd823143d,2025-01-23,0x5c146a2ccd787f59fcfbcb4474d4c9abe1a27ce6,sushiswap,USDC,,,0.194533,,pool with liquidity today
+WEXO (WEXO)|ETH,normal,0xf31698ddad0d11160fe85c500397a470cd3d492e,2024-12-08,0x8abdb4906c8e3a0b6fc48caabe69ad68f9103242,uniswap-v2,WETH,,,1.0854252e-11,,pool with liquidity today
+Inspect (INSP)|ETH,normal,0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457,2025-01-23,0x860a7e24efd25581710f976237edae1b2456a31c,uniswap-v2,USDC,,,1.043933,,pool with liquidity today
+Ferrum Network Token (FRM)|ETH,normal,0xe5caef4af8780e59df925470b050fb23c43ca68c,2024-12-26,0x1dfeb1ddd41f80a1e29370fe6d3c15f4bc7c41bc,uniswap-v2,DAI,,,4.566804408394666,,pool with liquidity today
+Movement (MOVE)|ETH,normal,0x3073f7aaa4db83f95e9fff17424f71d4751a3073,2025-01-23,0x28123c9581a651318f1f498caa49c143d302f902,uniswap-v2,USDT,,,4e-06,,pool with liquidity today
+Ispolink Token (ISP)|ETH,normal,0xc8807f0f5ba3fa45ffbdc66928d71c5289249014,2025-01-23,0x000dd0b1528a396c6ea2e09796a7b4a534e9e37b,uniswap-v2,WETH,,,2.498612518699247,,pool with liquidity today
+Reef.finance (REEF)|ETH,normal,0xfe3e6a25e6b192a42a44ecddcd13796471735acf,2025-01-23,0xea02e0f8f470de1107cb336f827c4192117574bb,uniswap-v2,USDT,,,105.334335,,pool with liquidity today
+O3 Swap Token (O3)|ETH,normal,0xee9801669c6138e84bd50deb500827b776777d28,2024-12-08,0x4b8852e4747b8a7d4caf0440e4e3397032a6723d,uniswap-v2,USDT,,,3936.296323,,pool with liquidity today
+SOS (SOS)|ETH,normal,0x3b484b82567a09e2588a13d54d032153f0c0aee0,2024-12-08,0xb84c45174bfc6b8f3eaecbae11dee63114f5c1b2,sushiswap,WETH,,,2.769986136998341,,pool with liquidity today
+Quickswap (QUICK)|ETH,normal,0x6c28aef8977c9b773996d0e8376d2ee379446f2f,2025-01-23,0xdc3e94ddf605864b79fce18c7cf974e579001e7b,uniswap-v2,WETH,,,0.4044818568815725,,pool with liquidity today
+Dvision (DVI)|ETH,normal,0x10633216e7e8281e33c86f02bf8e565a635d9770,2024-12-08,0x12de8a435ff54f3e00951ef04119ff0e6a717bff,uniswap-v2,WETH,,,0.000559354099599915,,pool with liquidity today
+PLANET (PLANET)|ETH,normal,0x2ad9addd0d97ec3cdba27f92bf6077893b76ab0b,2025-01-23,0x9b20e07394cd1fd767a302b502bb49d4da76bcab,uniswap-v2,WETH,,,18.78089845071702,,pool with liquidity today
+Gnosis (GNO)|ETH,normal,0x6810e776880c02933d47db1b9fc05908e5386b96,2025-01-24,0x3e8468f66d30fc99f745481d4b383f89861702c6,uniswap-v2,WETH,,,0.7367338934759503,,pool with liquidity today
+Frontier Token (FRONT)|ETH,normal,0xf8c3527cc04340b208c854e985240c02f7b7793f,2025-01-26,0x98c2f9d752e044dc2e1f1743bf0b76a7096eceb2,sushiswap,USDT,,,735.729297,,pool with liquidity today

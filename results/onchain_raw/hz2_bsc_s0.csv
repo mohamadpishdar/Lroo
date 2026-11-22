@@ -1,0 +1,84 @@
+key,Project Title,Blockchain,class,address,status,token_symbol,token_name,first_transfer,days_first_vs_start,capped,candidates_tried,transfers_d7,holders_d7,top10_d7,hhi_d7,gini_d7,transfers_d14,holders_d14,top10_d14,hhi_d14,gini_d14,transfers_d30,holders_d30,top10_d30,hhi_d30,gini_d30
+Defi Wz Token (DEFIWZ)|BSC,Defi Wz Token (DEFIWZ),BSC,scam,0x426c72701833fddbdfc06c944737c6031645c708,rejected: symbol,FINA,DEFINA TOKEN,2021-10-12 14:19:07,-145.4,,1,,,,,,,,,,,,,,,
+zkSync (TBD)|BSC,zkSync (TBD),BSC,scam,0xd27aaeead8fde08ba292c1e08f53a14c00e7f7c8,rejected: symbol,zksync,zksync,2022-06-14 09:57:24,-391.6,,1,,,,,,,,,,,,,,,
+DollarDoge (DollarDoge)|BSC,DollarDoge (DollarDoge),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+RWP (Real Web Project)|BSC,RWP (Real Web Project),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Astronaut NFT (AST)|BSC,Astronaut NFT (AST),BSC,scam,0x4ef4b64f7d9304b6084627a30d51d64df9832a6d,rejected: later contract,AST,Alpha Struct Token,2026-03-17 14:37:14,1806.6,,1,,,,,,,,,,,,,,,
+Shi DAO (ShiD)|BSC,Shi DAO (ShiD),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+DarkProtocol (DARK)|BSC,DarkProtocol (DARK),BSC,scam,0x12fc07081fab7de60987cad8e8dc407b606fb2f8,rejected: name (old contract),DARK,Dark Token,2021-10-05 22:15:54,-770.1,,1,,,,,,,,,,,,,,,
+APIG token|BSC,APIG token,BSC,scam,0xb86126b872e3f23bc62d6a4a3152ec65202a2073,start mismatch,PIN,Pin Token,2022-04-24 21:27:28,-494.1,False,2,2915,1229,0.9954760713842488,0.8415078427622197,0.9978780092834927,6826,1896,0.9958603199358428,0.8395881499040192,0.9984963731474321,14600,2553,0.9946537410314429,0.8355253227599061,0.9985384721654758
+SOMESING (SSX)|BSC,SOMESING (SSX),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Celestia (TIA)|BSC,Celestia (TIA),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+OBB (OBB)|BSC,OBB (OBB),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Artificial intelligence robot (AIT)|BSC,Artificial intelligence robot (AIT),BSC,scam,0x2ab198e0078a8a233b8e7685356cb76482b9e681,rejected: later contract,AIT,Artificial Intelligence Two,2026-08-10 03:23:57,954.1,,1,,,,,,,,,,,,,,,
+CFL365 Finance (CFL365)|BSC,CFL365 Finance (CFL365),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+CommEX (CMX)|BSC,CommEX (CMX),BSC,scam,0x7862e749e6dae66aba5ccb9a330beb6160c4ee5a,rejected: later contract,CMX,CMX,2026-10-19 13:44:52,1764.6,,1,,,,,,,,,,,,,,,
+BabyPepe|BSC,BabyPepe,BSC,scam,0x9d6db6382444b70a51307a4291188f60d4eef205,ok,BabyPepe,Baby Pepe,2024-02-27 15:15:45,-10.4,False,1,7324,784,0.4623255054495734,0.037622958914336486,0.8730437501169415,17796,1737,0.43927486804275023,0.03404493324958466,0.9282793845113053,28506,2305,0.346331270545422,0.022999349934708604,0.9258097855503873
+RepubliK (RPK)|BSC,RepubliK (RPK),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+ACCToken|BSC,ACCToken,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+CBC Token (CBC)|BSC,CBC Token (CBC),BSC,scam,0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c,rejected: symbol,BTCB,BTCB Token,2020-09-02 10:48:07,-617.5,,1,,,,,,,,,,,,,,,
+ETE Token (ETE)|BSC,ETE Token (ETE),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Mina Protocol (MINA)|BSC,Mina Protocol (MINA),BSC,scam,0xa7bef5abd9265ab97ee43d2fc4a56e0ba25aca25,"rejected: symbol,later contract",BAY,Marina Protocol,2025-10-23 01:34:36,1605.1,,1,,,,,,,,,,,,,,,
+Frontfanz (FANX)|BSC,Frontfanz (FANX),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+GDAO (GDAO)|BSC,GDAO (GDAO),BSC,scam,0xf680a123a18b076b305bd420de5f7b7ebeb56666,"rejected: symbol,later contract",HGDAO,HGDAO,2026-01-05 12:53:42,1874.5,,1,,,,,,,,,,,,,,,
+iShares Bitcoin (IBTC)|BSC,iShares Bitcoin (IBTC),BSC,scam,0xa20f3f194221632bf2c8edcaa8d01cafdf1bffff,rejected: later contract,IBTC,Itty Bitty Titty Com,2026-11-05 19:19:45,1108.8,,1,,,,,,,,,,,,,,,
+ChainGPT (CGPT)|BSC,ChainGPT (CGPT),BSC,scam,0x9840652dc04fb9db2c43853633f0f62be6f00f98,ok,CGPT,ChainGPT,2023-03-30 18:51:33,-12.2,False,1,7,6,0.9999999999999999,0.9074842310786289,0.7972415059999995,50888,6175,0.899432214484789,0.2114645884878678,0.9970916592943149,129489,7329,0.8748537347805992,0.21030480265697724,0.9974760705375747
+Hepton (HTE)|BSC,Hepton (HTE),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Arbitrum (ARB)|BSC,Arbitrum (ARB),BSC,scam,0x6488db746ee8922fd8ac0b00754be241b3569b16,rejected: later contract,Arb,Arby,2026-10-02 21:59:04,1288.9,,1,,,,,,,,,,,,,,,
+YPT (YPT)|BSC,YPT (YPT),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+TrustPad (TPAD)|BSC,TrustPad (TPAD),BSC,scam,0x7029f86dc4634c5d59ee3f1578c193783505e2c1,start mismatch,TPAD,TrustPad 2.0,2023-11-13 14:34:29,-60.4,False,1,3517,498,0.9990824597213889,0.9917467122731155,0.9977606442239861,4211,522,0.9990490085685713,0.9913498805023792,0.99784287476122,12011,2101,0.9809663063886791,0.4183542508069471,0.9979749393244013
+BNBpay (BNBpay)|BSC,BNBpay (BNBpay),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+EI Risitas (KEK)|BSC,EI Risitas (KEK),BSC,scam,0x9f02af2d749ee3745fb3bd6ef76f1b5e4947cf9f,rejected: name (old contract),KEK,Pepe Prophecy,2023-09-24 06:37:01,-70.7,,1,,,,,,,,,,,,,,,
+Magic (Magic)|BSC,Magic (Magic),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+SLS (GSLS)|BSC,SLS (GSLS),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Block Chain Games|BSC,Block Chain Games,BSC,scam,0x35de111558f691f77f791fb0c08b2d6b931a9d47,start mismatch,bCHAIN,Chain Games,2021-04-07 08:54:21,-745.6,False,2,796,355,0.8678964608149495,0.6501744556245715,0.9375176210174381,1759,603,0.7294077187330217,0.4004627227281047,0.8934842108351095,3512,889,0.6955676634897925,0.35937439170876806,0.8895019809030706
+Dracula (DRAC)|BSC,Dracula (DRAC),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+OrbitSwap (ORBIT)|BSC,OrbitSwap (ORBIT),BSC,scam,0x1c0cc4f06af1953bc0e13265c952f770de4a2696,rejected: later contract,ORBIT,Orbit Net 56,2026-11-10 23:46:02,1533.0,,1,,,,,,,,,,,,,,,
+LGT (LGT)|BSC,LGT (LGT),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Aki Inu (Aki)|BSC,Aki Inu (Aki),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+SpaceID (ID)|BSC,SpaceID (ID),BSC,scam,0x2dff88a56767223a5529ea5960da7a3f5f766406,ok,ID,SPACE ID,2023-03-18 06:09:06,-4.7,True,1,,,,,,,,,,,,,,,
+RETAWATCH (RTW)|BSC,RETAWATCH (RTW),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+VERIFY (VRFY)|BSC,VERIFY (VRFY),BSC,scam,0xa9675c43ce6f4ab8bc8ee9b83a6caef109351111,error: nodereal: blockNum not reached,,,,,,1,,,,,,,,,,,,,,,
+Neoteric (NTRC)|BSC,Neoteric (NTRC),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+GMT (GMT)|BSC,GMT (GMT),BSC,scam,0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1,ok,GMT,Green Metaverse Token,2022-03-04 14:19:43,-4.4,False,3,22295,2540,0.9355158799178601,0.291354806302446,0.9955430739541595,86202,6607,0.9004097520983851,0.18554264719718347,0.9941858276009703,216698,15533,0.9058281900257944,0.3086510644422692,0.9953487031928667
+TrollFace Defi (TROLL)|BSC,TrollFace Defi (TROLL),BSC,scam,0x52721d159cd90dd76014f73c1440e4ff983420ac,ok,Troll,Troll Face,2023-05-06 08:14:34,-29.7,False,1,14354,4785,0.9381271512330588,0.7952106545387254,0.990868651761865,24496,5633,0.9748547197015386,0.7880126662029548,0.9951469409862264,26534,5766,0.9764793089100331,0.7831148008969555,0.995221157703361
+Dragonfly (DRAGONFLY)|BSC,Dragonfly (DRAGONFLY),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+BOGDANOFF (BOGDANOFF)|BSC,BOGDANOFF (BOGDANOFF),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+GABECOIN (GABECOIN)|BSC,GABECOIN (GABECOIN),BSC,scam,0x6e0bef56b648b3eebae3808b8cbe7efe8755ad9c,ok,GABECOIN,gabecoin,2021-06-04 21:12:32,-12.1,False,1,13765,6790,0.7020894873607534,0.17073669317052417,0.9468528356297434,43163,14657,0.7673232983354499,0.224264896820324,0.9768297001962485,49244,15701,0.8186818867654808,0.24770190258211808,0.9819227114402591
+PiggyBank|BSC,PiggyBank,BSC,scam,0x8d1e4e2b75441cecc53e55d41b804105e198b4cc,rejected: later contract,PIGGYBANK,Piggy Bank,2026-10-06 18:53:03,1607.8,,1,,,,,,,,,,,,,,,
+Moonwalk (MOONWALK)|BSC,Moonwalk (MOONWALK),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Karura (KAR)|BSC,Karura (KAR),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Merlin Token (MERL)|BSC,Merlin Token (MERL),BSC,scam,0xa0c56a8c0692bd10b3fa8f8ba79cf5332b7107f9,rejected: later contract,MERL,MERL,2025-03-18 04:55:35,1398.2,,1,,,,,,,,,,,,,,,
+Blur Finance (BLR)|BSC,Blur Finance (BLR),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+PAID Network (PAID)|BSC,PAID Network (PAID),BSC,scam,0xd4423795fd904d9b87554940a95fb7016f172773,"rejected: symbol,later contract",AIN,AI Network,2025-07-04 02:31:20,1617.1,,1,,,,,,,,,,,,,,,
+Catana Inu ($CATI)|BSC,Catana Inu ($CATI),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Lucky Star Currency|BSC,Lucky Star Currency,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+SatoshiSwap (SWAP)|BSC,SatoshiSwap (SWAP),BSC,scam,0x94eafeeef7ffa66203fdc9349c54d601472a79dc,rejected: later contract,SWAP,TrustSwap Token,2024-05-14 09:34:22,1551.4,,1,,,,,,,,,,,,,,,
+FTE (FTE)|BSC,FTE (FTE),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+LV PLUS (LVP)|BSC,LV PLUS (LVP),BSC,scam,0x013f48e24c14c4125748e632b0cad3e913de7777,rejected: later contract,LVP,laptop vs pro,2026-11-06 02:03:38,1607.1,,1,,,,,,,,,,,,,,,
+Armadillo Token ($ARMADILLO)|BSC,Armadillo Token ($ARMADILLO),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Day Of Defeat (DOD)|BSC,Day Of Defeat (DOD),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Baby Musk (BabyMusk)|BSC,Baby Musk (BabyMusk),BSC,scam,0x0b1ff525e092a98210ed150f8b08313f646847d6,start mismatch,BabyMUSK,BabyMUSK,2022-01-13 11:49:01,-782.5,False,1,2,2,0.9999999999999999,0.5163718820861677,0.09047619047619015,4,2,0.9999999999999999,0.5163718820861677,0.09047619047619015,41284,8887,0.5469867221587872,0.19449182599642717,0.942599756735016
+Open Campus (EDU)|BSC,Open Campus (EDU),BSC,scam,0xbdeae1ca48894a1759a8374d63925f21f2ee2639,ok,EDU,EDU Coin,2023-04-19 09:37:15,-9.6,False,1,21,10,1.0,0.13815,0.31999999999999984,15770,1311,0.997112860838769,0.1422178161498028,0.9950033817838297,67963,2453,0.9542995126620001,0.13117241079535333,0.997025557433544
+L7 DEX (LSD7)|BSC,L7 DEX (LSD7),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+RoyalPay (ROYAL)|BSC,RoyalPay (ROYAL),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+FC Santos Fan Token (SANTOS)|BSC,FC Santos Fan Token (SANTOS),BSC,normal,0xa64455a4553c9034236734faddaddbb64ace4cc7,ok,SANTOS,FC Santos Fan Token,2021-11-22 11:37:48,-13.5,True,1,1,1,1.0,1.0,0.0,,,,,,,,,,
+Baby Doge Coin (BabyDoge)|BSC,Baby Doge Coin (BabyDoge),BSC,normal,0xc748673057861a797275cd8a068abb95a902e8de,ok,BabyDoge,Baby Doge Coin,2021-05-21 17:21:16,-20.3,False,1,1,1,1.0,1.0,0.0,63822,21325,0.6176326119441644,0.1023851833238687,0.9627042515225153,348311,86850,0.5850562131024818,0.08782935437200172,0.9702591271262904
+Binance-Peg Maker (MKR)|BSC,Binance-Peg Maker (MKR),BSC,normal,0x5f0da599bb2cccfcf6fdfd7d81743b6020864350,rejected: later contract,MKR,Maker,2020-09-30 05:08:40,1330.2,,1,,,,,,,,,,,,,,,
+Magpie Token (MGP)|BSC,Magpie Token (MGP),BSC,normal,0xd06716e1ff2e492cc5034c2e81805562dd3b45fa,ok,MGP,Magpie Token,2022-10-24 09:38:21,-3.6,False,1,27170,3261,0.9844119355277482,0.26141805926875245,0.9983903063523509,63516,5618,0.9845445376880481,0.25877860383587414,0.9990404188556399,89978,6882,0.9820550671436864,0.25287624196326697,0.9991253799800746
+Wault (WAULTx)|BSC,Wault (WAULTx),BSC,normal,,no address,,,,,,0,,,,,,,,,,,,,,,
+SCROOGE (SCROOGE)|BSC,SCROOGE (SCROOGE),BSC,normal,,no address,,,,,,0,,,,,,,,,,,,,,,
+Script Network (SCPT)|BSC,Script Network (SCPT),BSC,normal,0x0669538fcdef9a73cd37938eba8c79e652bb93aa,ok,SCPT,SCPT - Script Network,2023-12-28 23:01:44,-23.0,False,1,11,5,0.9999999999999999,0.8973602030039636,0.7724181408000275,8838,1950,0.955867322136964,0.3315274653261163,0.9916754746217478,27622,3172,0.9483876924951902,0.6181510041004832,0.9926258018811933
+SeedifyFund (SFUND)|BSC,SeedifyFund (SFUND),BSC,normal,0x477bc8d23c634c154061869478bce96be6045d12,ok,SFUND,SeedifyFund,2021-02-25 01:02:38,-37.0,False,1,1,1,1.0,1.0,0.0,6,5,1.0,0.5946,0.6039999999999999,16475,7291,0.9921806870856853,0.7051997601677292,0.9936095890087184
+Openfabric (OFN)|BSC,Openfabric (OFN),BSC,normal,,no address,,,,,,0,,,,,,,,,,,,,,,
+SafePal Token (SFP)|BSC,SafePal Token (SFP),BSC,normal,0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb,ok,SFP,SafePal Token,2020-12-16 09:19:25,-54.6,False,1,1,1,1.0,1.0,0.0,1,1,1.0,1.0,0.0,2,2,1.0,0.905,0.4500000000000002
+Binance-Peg COTI Token (COTI)|BSC,Binance-Peg COTI Token (COTI),BSC,normal,0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb,rejected: later contract,COTI,COTI Token,2021-03-22 02:26:49,618.1,,1,,,,,,,,,,,,,,,
+FABWELT (WELT)|BSC,FABWELT (WELT),BSC,normal,0x1785113910847770290f5f840b4c74fc46451201,ok,WELT,FABWELT,2021-12-14 13:11:35,21.5,False,1,940,54,0.9357735518659926,0.47452723111625855,0.9095043180634135,2724,114,0.8608126156523849,0.3888568007579861,0.9136291484060997,8690,425,0.7202091109586882,0.15608335884371863,0.9170395958089677
+Artrade Token (ATR)|BSC,Artrade Token (ATR),BSC,normal,0x6d2cfdaca790b606b28ff404ed873c44b2e73de4,"rejected: symbol,later contract",STARTOKEN,STARTRADER TOKEN,2026-04-09 05:08:03,1472.2,,1,,,,,,,,,,,,,,,
+CHEELEE (CHEEL)|BSC,CHEELEE (CHEEL),BSC,normal,0x1f1c90aeb2fd13ea972f0a71e35c0753848e3db0,rejected: later contract,CHEEL,CHEELEE,2023-01-23 15:42:50,354.7,,1,,,,,,,,,,,,,,,
+TRON (TRX)|BSC,TRON (TRX),BSC,normal,0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b,rejected: later contract,TRX,TRON,2021-04-06 09:39:34,1292.4,,1,,,,,,,,,,,,,,,
+BabySwap Token (BABY)|BSC,BabySwap Token (BABY),BSC,normal,0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657,ok,BABY,BabySwap Token,2021-06-01 07:52:39,-11.7,False,1,96570,8949,0.9980920010919216,0.4306728912006143,0.9990595932457957,209254,7161,0.9977207825121167,0.42341161999909294,0.999235465356364,371673,8963,0.9947548455505002,0.4073469046237607,0.9992736558750956
+Binance-Peg Zcash Token (ZEC)|BSC,Binance-Peg Zcash Token (ZEC),BSC,normal,0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb,rejected: later contract,ZEC,Zcash Token,2020-09-14 11:07:31,1405.5,,1,,,,,,,,,,,,,,,
+BSC-Peg Thunder Token (TT)|BSC,BSC-Peg Thunder Token (TT),BSC,normal,0x990e7154bb999faa9b2fa5ed29e822703311ea85,rejected: later contract,TT,BSC-Peg Thunder Token,2021-03-08 14:11:50,661.6,,1,,,,,,,,,,,,,,,
+MetFi (MFI)|BSC,MetFi (MFI),BSC,normal,0x3e7f1039896454b9cb27c53cc7383e1ab9d9512a,"rejected: symbol,later contract",METFI,MetFi,2023-04-03 08:08:33,308.3,,1,,,,,,,,,,,,,,,
+DeHub (DeHub)|BSC,DeHub (DeHub),BSC,normal,0x680d3113caf77b61b510f332d5ef4cf5b41a761d,"rejected: symbol,later contract",DHB,DeHub,2023-01-17 15:19:24,495.6,,1,,,,,,,,,,,,,,,

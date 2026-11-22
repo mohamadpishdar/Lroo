@@ -1,0 +1,50 @@
+key,Project Title,Blockchain,class,address,status,token_symbol,token_name,first_transfer,days_first_vs_start,capped,candidates_tried,transfers_d7,holders_d7,top10_d7,hhi_d7,gini_d7,transfers_d14,holders_d14,top10_d14,hhi_d14,gini_d14,transfers_d30,holders_d30,top10_d30,hhi_d30,gini_d30
+HyperVerse Token (HVT)|BSC,HyperVerse Token (HVT),BSC,scam,0xaafa10755b3b1dbf46e86d973c3f27f3671ed9db,ok,HVT,HyperVerse Token,2021-12-17 14:39:11,-40.4,False,1,60,13,0.9999999999966156,0.9999000041880655,0.9230676447094974,6724,957,0.9999900636506407,0.9998432665118078,0.9989527111356573,23876,1427,0.9999914375814792,0.9997876728724742,0.9992976141364698
+Fintoch|BSC,Fintoch,BSC,scam,0x19a00e359990ec7daf6e9dd9a2fb7664014bb5f7,ok,FTH,Fintoch STO,2022-07-11 16:05:37,-0.3,False,1,607,103,0.9994420000000006,0.995167590095307,0.9896438540970873,1311,107,0.9987460000000006,0.9936817658612375,0.9892562894579442,2926,113,0.9971778999999991,0.9902754620505465,0.9881871866017702
+Flare Token|BSC,Flare Token,BSC,scam,0xed51083ad183e05ef2d9dfde1ad758c7384d652f,rejected: later contract,FIRE,Fire Token,2025-03-13 15:04:10,1236.6,False,1,,,,,,,,,,,,,,,
+Safuu Protocol|BSC,Safuu Protocol,BSC,scam,0x4e0fe270b856eebb91fb4b4364312be59f499a3f,rejected: symbol,DAFI,DAFI Token,2022-02-02 11:11:25,-0.5,False,1,,,,,,,,,,,,,,,
+SCT|BSC,SCT,BSC,scam,0x5c4786d778b2bd5be055741f5cbd713194973711,rejected: later contract,SCT,SCT,2025-11-06 04:04:06,983.2,False,1,,,,,,,,,,,,,,,
+GMETA|BSC,GMETA,BSC,scam,0x6eb6e8974264bee01c160f1770a38f8e6de1a3b1,rejected: later contract,GET,Get AI,2024-04-05 01:48:26,697.1,False,1,,,,,,,,,,,,,,,
+IPO|BSC,IPO,BSC,scam,0xb524a9a21702813f8ea7a79c16afcb5fb4660544,ok,IPO,IPO,2023-05-21 04:56:22,0.2,False,1,10332,874,0.9602685378594583,0.7720355651829198,0.9857798762115573,20756,1102,0.9049374177318271,0.5653782746842885,0.9725846064335821,29603,2099,0.9624261333061205,0.4931326410913279,0.9950515858716549
+IVY |BSC,IVY ,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+FSL|BSC,FSL,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Fake SAGA Token|BSC,Fake SAGA Token,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+CryptoBike|BSC,CryptoBike,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+IEGT Rugpull|BSC,IEGT Rugpull,BSC,scam,0xab8a70ac4c7baef2913972d5fed87591aae8650a,rejected: later contract,RUGPULL,RUGPULL,2024-12-10 08:40:52,516.4,,1,,,,,,,,,,,,,,,
+Ocean Ventures|BSC,Ocean Ventures,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+USEA Token |BSC,USEA Token ,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Fake Layer Zero|BSC,Fake Layer Zero,BSC,scam,0x6985884c4392d348587b19cb9eaaf157f13271cd,ok,ZRO,LayerZero,2024-06-14 19:32:38,-5.2,False,1,100681,16152,0.7027711295771307,0.16978413707111534,0.8563783506806355,130529,19482,0.7089857984100553,0.1180192102844917,0.8670317427392094,161753,19657,0.7155749102736472,0.1225547064560552,0.8847809007568277
+SAI token|BSC,SAI token,BSC,scam,0x3c6dad0475d3a1696b359dc04c99fd401be134da,start mismatch,SAITO,SAITO,2021-10-14 05:05:31,-968.8,False,2,3,3,1.0,0.46255169982570343,0.31706826782733355,115,37,0.9040383517141444,0.16441757507484406,0.7945887307071147,426,59,0.8689789181719254,0.306459596138727,0.8688143629962832
+ProTradeX|BSC,ProTradeX,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+fcdep (EPMAX)|BSC,fcdep (EPMAX),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Apache NFT SalesRoom (ASN)|BSC,Apache NFT SalesRoom (ASN),BSC,scam,0xabe776435f7459e2f5ba773bfb753ed19a053dd0,ok,ASN,Apache NFT SalesRoom,2022-10-28 14:20:52,0.6,False,1,1,1,1.0,1.0,0.0,1,1,1.0,1.0,0.0,14930,6003,0.997640398345,0.28326158689943154,0.9983478637019929
+XAI token |BSC,XAI token ,BSC,scam,0x6ea924e5b0c693310c32117788ffc556d07a66bf,rejected: later contract,SIAI,SIAI TOKEN,2026-04-09 09:05:04,1065.4,,1,,,,,,,,,,,,,,,
+Changpeng Zhao (CZ)|BSC,Changpeng Zhao (CZ),BSC,scam,0x30040a4fc9dd512a8083817ed2587cceeb1720bb,rejected: later contract,CZ,CHANGPENG ZHAO,2024-09-30 09:57:38,313.4,,1,,,,,,,,,,,,,,,
+BGE (BGE)|BSC,BGE (BGE),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Cesar Hard Fork|BSC,Cesar Hard Fork,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Dollar(PancakeLPs)|BSC,Dollar(PancakeLPs),BSC,scam,0x02baef0cc8094b09444d97116b4491715f7f7777,"rejected: symbol,later contract",ドル,Dollar,2026-09-12 14:56:11,1481.6,,1,,,,,,,,,,,,,,,
+MetaFinanceDAO|BSC,MetaFinanceDAO,BSC,scam,0xbe1a001fe942f96eea22ba08783140b9dcc09d28,rejected: symbol,BETA,Beta Token,2021-10-05 15:52:15,-247.3,,1,,,,,,,,,,,,,,,
+Linda Yaccarino|BSC,Linda Yaccarino,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Do Right (DR)|BSC,Do Right (DR),BSC,scam,0x0221ec67e5e7d787d6af553a3ee620b9847d1af3,rejected: later contract,DR,DR,2026-11-03 13:29:40,1137.6,,1,,,,,,,,,,,,,,,
+GHOSTP2E (GHR)|BSC,GHOSTP2E (GHR),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+OpenAI ATF (ATF)|BSC,OpenAI ATF (ATF),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+DUO|BSC,DUO,BSC,scam,0x53db4876b779d23cbe9fba63a2f1d34d97fb7777,rejected: later contract,DUO,DUO,2026-09-09 15:43:50,1087.7,,1,,,,,,,,,,,,,,,
+HRN (HIGH RETURN)|BSC,HRN (HIGH RETURN),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Cake Lock (LOCK)|BSC,Cake Lock (LOCK),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+LongNoseDog(LONG)|BSC,LongNoseDog(LONG),BSC,scam,0x1567007264b46df17519691731b0f3e0751ced7f,rejected: later contract,Long,Long,2024-07-31 12:30:15,198.5,,1,,,,,,,,,,,,,,,
+Fake Ethena Labs|BSC,Fake Ethena Labs,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+BJS (BJS)|BSC,BJS (BJS),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Metaland DAO (META)|BSC,Metaland DAO (META),BSC,scam,0x2e42c9eac96833c6e16dc71c743cecc114ccd7e3,ok,META,MetaCash,2021-11-05 16:21:37,-58.3,False,2,9946,1068,0.7243216593222613,0.18492801801206557,0.9649610048884425,52394,7460,0.5849597994211241,0.17263805618539999,0.9446023441130096,85282,9701,0.5731280821176711,0.1721480901204014,0.9458832042502341
+culs (culs)|BSC,culs (culs),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+LOO|BSC,LOO,BSC,scam,0xfc8774321ee4586af183baca95a8793530056353,"rejected: symbol,later contract",LONG,LONG,2023-10-02 07:03:20,1526.3,,1,,,,,,,,,,,,,,,
+Vip Panda Community |BSC,Vip Panda Community ,BSC,scam,0x93d0379121efeaa4b2a829be2294c76624e67777,rejected: later contract,Community,Community,2026-05-08 01:36:49,1468.1,,1,,,,,,,,,,,,,,,
+TTTT (TTTT)|BSC,TTTT (TTTT),BSC,scam,0xa15ea8eebaea6256a31ffdc6cc47d29023658529,"rejected: symbol,later contract",TTTTV2,TTTTV2,2026-11-05 18:11:59,1830.8,,1,,,,,,,,,,,,,,,
+SuperStep (SGMT)|BSC,SuperStep (SGMT),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+BNQ Token (BNQ)|BSC,BNQ Token (BNQ),BSC,scam,0xbc9211717353498e19201d9040021872af7656d3,rejected: later contract,BNQ,BNQ GLOBAL,2026-06-13 10:10:00,1412.4,,1,,,,,,,,,,,,,,,
+BlockGPT (BGPT)|BSC,BlockGPT (BGPT),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+MALOU (NEVER)|BSC,MALOU (NEVER),BSC,scam,0x23d6645c66ebb25a68aa2862357eac378a274444,"rejected: symbol,later contract",马喽,马喽,2025-10-11 11:22:08,513.5,,1,,,,,,,,,,,,,,,
+Satori (Satori)|BSC,Satori (Satori),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Tetris (TTR)|BSC,Tetris (TTR),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+CIRCLE fake token|BSC,CIRCLE fake token,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+MMFinance (MMF)|BSC,MMFinance (MMF),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Bep Finance|BSC,Bep Finance,BSC,scam,0x50d809c74e0b8e49e7b4c65bb3109abe3ff4c1c1,ok,CUB,Cub Finance,2021-02-25 18:38:21,-26.2,False,3,26,3,1.0,0.9975860166158981,0.6658263214935343,77082,641,0.9961026514445204,0.21354433994798416,0.9927607168078194,271380,1103,0.9960338598157802,0.2935697777645756,0.9966971479150517

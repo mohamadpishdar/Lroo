@@ -1,0 +1,72 @@
+key,Project Title,Blockchain,class,address,status,token_symbol,token_name,first_transfer,days_first_vs_start,capped,candidates_tried,transfers_d7,holders_d7,top10_d7,hhi_d7,gini_d7,transfers_d14,holders_d14,top10_d14,hhi_d14,gini_d14,transfers_d30,holders_d30,top10_d30,hhi_d30,gini_d30
+Swello Token (SWLO)|BSC,Swello Token (SWLO),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+ArenaPlay (APC)|BSC,ArenaPlay (APC),BSC,scam,0x4cabb5a82b1fa1922e52265ab6b3a64ea50eeb76,rejected: later contract,APC,Alpha Coin,2023-12-11 13:53:12,508.6,,1,,,,,,,,,,,,,,,
+Sui Network (SUI)|BSC,Sui Network (SUI),BSC,scam,0xd57f2e190c11cffc667aa5ad026cd4c8de0772a7,rejected: later contract,SUI,Binance-Peg Sui,2025-07-25 08:34:06,863.4,,1,,,,,,,,,,,,,,,
+NwtToken (NWT)|BSC,NwtToken (NWT),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+DMCToken (DMC)|BSC,DMCToken (DMC),BSC,scam,0x52f1e11979ea2d686b96590be0256beaff87549a,rejected: later contract,DMC,DimonCoin,2025-08-25 14:41:38,441.6,,1,,,,,,,,,,,,,,,
+Meta Apes Shell (SHELL)|BSC,Meta Apes Shell (SHELL),BSC,scam,0xf2c88757f8d03634671208935974b60a2a28bdb3,rejected: later contract,SHELL,MyShell Token,2025-01-22 10:29:47,915.4,,1,,,,,,,,,,,,,,,
+Helio Protocol (HELIO)|BSC,Helio Protocol (HELIO),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+IPMB token|BSC,IPMB token,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Chessfarm.Tech|BSC,Chessfarm.Tech,BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+L7 DEX (LSD7)|BSC,L7 DEX (LSD7),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+BTDOG (BTDOG)|BSC,BTDOG (BTDOG),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Creso (CRE)|BSC,Creso (CRE),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+FlokiMoon (FlokiMoon)|BSC,FlokiMoon (FlokiMoon),BSC,scam,0x0f5351b9eaefd6687dff143de6ea5d01cb9c1205,rejected: symbol,Flokim,Flokimooni,2021-10-13 17:06:19,-19.3,,1,,,,,,,,,,,,,,,
+mCoin (MCOIN)|BSC,mCoin (MCOIN),BSC,scam,0x826923122a8521be36358bdc53d3b4362b6f46e5,rejected: later contract,MCoin,MCoin,2022-12-18 15:44:47,247.7,,1,,,,,,,,,,,,,,,
+MoveCash (MCA)|BSC,MoveCash (MCA),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Patex (PATEX)|BSC,Patex (PATEX),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+PAPABEAR (PAPA)|BSC,PAPABEAR (PAPA),BSC,scam,0xa4210c62958cd06cd807d677de4b191f5b23c28d,rejected: later contract,PAPA,Papacoin,2026-11-04 22:33:41,1086.9,,1,,,,,,,,,,,,,,,
+DeFido (DEFIDO)|BSC,DeFido (DEFIDO),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+FlokiChain (FC)|BSC,FlokiChain (FC),BSC,scam,0x0b8806fce860e7da6a070e342b3304fd29cd8509,rejected: later contract,FC,FC,2026-06-16 05:32:34,1376.2,,1,,,,,,,,,,,,,,,
+To the Moon (TTM)|BSC,To the Moon (TTM),BSC,scam,0x2728c49f42f4ac5a38da0080b27ded5ec04b05cc,start mismatch,TTM,To the Moon,2023-06-18 14:29:47,-270.4,False,1,5536,1409,0.9980291822366802,0.8975562793073775,0.9990020929164374,15061,2092,0.9961238594319219,0.8899653655958984,0.9991161038772196,36036,2299,0.9946338344278772,0.879620668822844,0.9990580484046165
+Dor (DOR)|BSC,Dor (DOR),BSC,scam,0x23fe903be385832fd7bb82bf1fee93f696278888,"rejected: symbol,later contract",DORA,DORA,2025-07-16 00:38:38,605.0,,1,,,,,,,,,,,,,,,
+CryptosTribe (CSTC)|BSC,CryptosTribe (CSTC),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+NFDAO (NFD)|BSC,NFDAO (NFD),BSC,scam,0xf8d7ec2636c7e23eb97b784733e19a057bf943c4,"rejected: symbol,later contract",ANFDAO,ANFDAO,2024-03-20 12:13:31,213.5,,1,,,,,,,,,,,,,,,
+2049 (2049)|BSC,2049 (2049),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Zodiac Credit-ZOC (ZOC)|BSC,Zodiac Credit-ZOC (ZOC),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+TSUKA (TSUKA)|BSC,TSUKA (TSUKA),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+ETXInfinity (ETX)|BSC,ETXInfinity (ETX),BSC,scam,0xde2bdd4c2d2288658457b901fcce3edf4134b999,rejected: later contract,ETX,ETX,2024-02-06 12:53:26,413.5,,1,,,,,,,,,,,,,,,
+Openfabric AI (OFN)|BSC,Openfabric AI (OFN),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+NodyToken (NODY)|BSC,NodyToken (NODY),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+BabyElon (BabyElon)|BSC,BabyElon (BabyElon),BSC,scam,0x258903a8e68d5248de85cf8a0a173d9e046edd98,ok,BabyElon,Baby Elon,2024-01-02 11:50:38,-7.5,False,1,39446,4151,0.2620521939802431,0.014964981550605312,0.8974685951845829,106163,9258,0.5013801468559285,0.08939014278233051,0.9480216329877746,164088,10133,0.7395688559515464,0.20645039774170948,0.976703771848394
+BAT (BAT)|BSC,BAT (BAT),BSC,scam,0x101d82428437127bf1608f699cd651e6abf9766e,rejected: name (old contract),BAT,Basic Attention Token,2020-10-13 09:51:27,-1185.6,,1,,,,,,,,,,,,,,,
+MOON (MOON)|BSC,MOON (MOON),BSC,scam,0x0cf1bc9797be940dc2b3d5616937ed6aad3c2f57,rejected: later contract,Moon,Moon,2026-08-22 13:07:45,1948.5,,1,,,,,,,,,,,,,,,
+Mango INU (MNGO)|BSC,Mango INU (MNGO),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+EDAO (EDAO)|BSC,EDAO (EDAO),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+ANT (ANT)|BSC,ANT (ANT),BSC,scam,0xdd022ea55a3e2d9b7921127f1790916896cf3436,rejected: later contract,ANT,ANT,2026-10-10 10:25:17,1946.4,,1,,,,,,,,,,,,,,,
+CryptogerClub (CToger)|BSC,CryptogerClub (CToger),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+iwr (IWR)|BSC,iwr (IWR),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Minter (MINT)|BSC,Minter (MINT),BSC,scam,0xf2ba89a6f9670459ed5aeefbd8db52be912228b8,"rejected: symbol,later contract",BIPX,Minter BIP,2021-09-01 08:04:23,1753.3,,1,,,,,,,,,,,,,,,
+DOXED (DOX)|BSC,DOXED (DOX),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+DreamComeTrue (DCT)|BSC,DreamComeTrue (DCT),BSC,scam,0x56f46bd073e9978eb6984c0c3e5c661407c3a447,rejected: later contract,DCT,DCT Token,2024-10-24 11:13:09,829.5,,1,,,,,,,,,,,,,,,
+Peace doge X (Peace doge X)|BSC,Peace doge X (Peace doge X),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+DUSD (DUSD)|BSC,DUSD (DUSD),BSC,scam,0xaf44a1e76f56ee12adbb7ba8acd3cbd474888122,rejected: later contract,DUSD,StandX DUSD,2025-03-14 07:21:30,671.3,,1,,,,,,,,,,,,,,,
+PenginFinance Token (PENGIN)|BSC,PenginFinance Token (PENGIN),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+AntiSocial Token (ANTI)|BSC,AntiSocial Token (ANTI),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Bunny Token (BUNNY)|BSC,Bunny Token (BUNNY),BSC,scam,0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51,rejected: later contract,BUNNY,Bunny Token,2020-10-30 13:53:45,768.6,,1,,,,,,,,,,,,,,,
+DiamondHands (DiamondHands)|BSC,DiamondHands (DiamondHands),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Hypernova (HNOVA)|BSC,Hypernova (HNOVA),BSC,scam,0x720b9f35ac24e1756f06c9de055472a94b9dd89f,error: nodereal: blockNum not reached,,,,,,1,,,,,,,,,,,,,,,
+TravelCake (TVL)|BSC,TravelCake (TVL),BSC,scam,0x53389510c26ccd573c41d1b4f046aab64efa6745,rejected: later contract,TVL,Travel,2023-03-30 16:02:06,650.7,,1,,,,,,,,,,,,,,,
+Little Mouse (MOUSE)|BSC,Little Mouse (MOUSE),BSC,scam,0xf66e582dfcce485b868331d6ae93da4698d8cba9,rejected: later contract,MOUSE,MOUSEBNB,2026-11-11 03:07:13,1995.1,,1,,,,,,,,,,,,,,,
+ARBIX (ARBX)|BSC,ARBIX (ARBX),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Stable Magnet Token (SMAG)|BSC,Stable Magnet Token (SMAG),BSC,scam,0xcd734b1f9b0b976ddc46e507d0aa51a4216a1e98,start mismatch,SMAG,Stable Magnet Token,2021-06-18 07:27:54,-327.7,False,1,80941,1786,0.9976831601499919,0.38135840350452477,0.9983247451367487,81303,1786,0.9978047479183323,0.3309034329911965,0.9982551357406972,81674,1786,0.9978473482357616,0.3154811710467936,0.9982044842660909
+AQUA (AQUA)|BSC,AQUA (AQUA),BSC,scam,0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991,ok,AQUA,AQUA,2021-05-02 05:55:19,-8.8,False,1,89538,355,0.9984380354929938,0.5423483793502315,0.9948338307837268,141143,386,0.9974438722501698,0.5303214391254498,0.9950418581900442,198348,1013,0.9826162757353135,0.5506462582592011,0.9961609703433316
+Pancake LPs (Cake-LP)|BSC,Pancake LPs (Cake-LP),BSC,scam,0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd,start mismatch,Cake-LP,Pancake LPs,2020-09-29 01:25:28,-407.9,False,3,1972,7,1.0000000000000002,0.9999307253631358,0.8571229460567777,3809,15,0.9999999968686211,0.999829108283163,0.9333168462658554,9474,27,0.9999904005644893,0.8636588189253216,0.9566334818791737
+Libra Protocol|BSC,Libra Protocol,BSC,scam,0x566a9eeac9a589bf0825222bca083ecdb9c86c82,ok,LBR,Libra Protocol,2023-03-01 22:05:24,-8.1,False,1,740,350,0.8205313468393685,0.28967528781829793,0.9272212156614177,27890,964,0.797487695089758,0.19008191829706642,0.9498010940054205,32429,766,0.8638262807168791,0.23213045815951147,0.970474093663034
+BabyFlokiDoge (BABYFD)|BSC,BabyFlokiDoge (BABYFD),BSC,scam,0xe24f6bc7635501d5684a963f7e75c8062b9c0ea4,ok,BABYFD,BabyFlokiDoge,2021-10-24 14:39:40,-8.4,False,1,64211,14136,0.693208479748073,0.2539665748515433,0.9679581946330635,95627,19789,0.7323600675059115,0.2497010421362183,0.9717608111913354,112481,22295,0.7668431734779294,0.26257260745298694,0.9757467716229187
+MuratiAI (MURATIAI)|BSC,MuratiAI (MURATIAI),BSC,scam,0x69c2fcae7e30b429166bd616a322e32bec036bcf,ok,MURATIAI,MuratiAI,2023-05-13 10:52:45,-4.5,False,1,52151,9637,0.6049721770455504,0.2933065775218417,0.9608240882149708,72047,11614,0.5791289978190223,0.2065434920299765,0.9683360319698417,95617,14203,0.6420927188494379,0.19592866191814906,0.9829995447735376
+Freddy Coin (FREDDY)|BSC,Freddy Coin (FREDDY),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Dogland (DOG)|BSC,Dogland (DOG),BSC,scam,0x292723d4b455e8f272cde97376f68849b9f27777,rejected: later contract,DOG,DOG,2026-07-19 08:20:00,1278.3,,1,,,,,,,,,,,,,,,
+Animoon (ANIMOON)|BSC,Animoon (ANIMOON),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+FuryOfTheFur (FOTF)|BSC,FuryOfTheFur (FOTF),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+Mercenary Gold (MGOLD)|BSC,Mercenary Gold (MGOLD),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+MetaSwap (MSC)|BSC,MetaSwap (MSC),BSC,scam,0xeacad6c99965cde0f31513dd72de79fa24610767,ok,MSC,MetaSwap,2022-02-10 10:16:58,-15.6,False,1,46462,3190,0.39495112252300063,0.11332764624959561,0.8428666140105128,56102,3074,0.4489310105282634,0.15844481307955688,0.867849763356483,67190,3212,0.46737223093313374,0.1733637488310816,0.8920731176491457
+URANIUM FINANCIAL (URF)|BSC,URANIUM FINANCIAL (URF),BSC,scam,,no address,,,,,,0,,,,,,,,,,,,,,,
+MetaversePay (MVP)|BSC,MetaversePay (MVP),BSC,scam,0x98c58739144620003332f1fcce3eec3286391956,rejected: later contract,MVP,MVP,2024-04-08 16:00:08,654.7,,1,,,,,,,,,,,,,,,
+ALPINE Fan Token (ALPINE)|BSC,ALPINE Fan Token (ALPINE),BSC,normal,0x287880ea252b52b63cc5f40a2d3e5a44aa665a76,ok,ALPINE,ALPINE Fan Token,2022-02-15 06:36:32,-9.7,False,1,5917,856,0.9996732451891902,0.7430138609901689,0.9983896285394629,9920,1006,0.9992543631046128,0.742832190387929,0.9985588130720211,14579,1327,0.9988839314465553,0.7427458969733605,0.9988259226603795
+Binance-Peg Cardano Token (ADA)|BSC,Binance-Peg Cardano Token (ADA),BSC,normal,0x3ee2200efb3400fabb9aacf31297cbdd1d435d47,rejected: later contract,ADA,Cardano Token,2020-09-09 09:24:22,1073.4,,1,,,,,,,,,,,,,,,
+AdEx Network (ADX)|BSC,AdEx Network (ADX),BSC,normal,0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819,rejected: later contract,ADX,AdEx Network,2021-03-11 07:06:56,1340.3,,1,,,,,,,,,,,,,,,
+Coin98 (C98)|BSC,Coin98 (C98),BSC,normal,0xaec945e04baf28b135fa7c640f624f8d90f1c3a6,ok,C98,Coin98,2021-07-15 04:28:24,-12.8,False,1,20,7,1.0,0.29580000000000006,0.42000000000000015,126345,15035,0.97882704396825,0.5148962437786082,0.999103438940018,217411,18864,0.9526796556096705,0.49087454969927163,0.9984957827907193
+AlpacaToken (ALPACA)|BSC,AlpacaToken (ALPACA),BSC,normal,0x8f0528ce5ef7b51152a59745befdd91d97091d2f,ok,ALPACA,AlpacaToken,2021-02-26 10:57:34,-11.5,True,1,,,,,,,,,,,,,,,
+SafeMoonCash (SAFEMOONCASH)|BSC,SafeMoonCash (SAFEMOONCASH),BSC,normal,0xf017e2773e4ee0590c81d79ccbcf1b2de1d22877,ok,SAFEMOONCASH,SafeMoonCash,2021-04-21 18:53:08,-10.2,False,1,7574,2436,0.4345642668206375,0.03272079127462996,0.9374742554744366,37969,14442,0.31592992037941964,0.0277068494968073,0.9542838053273701,330874,141985,0.32517647671864774,0.029907727112276565,0.9653559742856466
+JOJO (JOJO)|BSC,JOJO (JOJO),BSC,normal,0x78a499a998bdd5a84cf8b5abe49100d82de12f1c,ok,JOJO,JOJO,2021-07-26 11:28:14,-9.5,False,1,98832,91383,0.7044139707006033,0.3337171258995334,0.998363581473038,171977,130442,0.7091679707608598,0.3545228791812229,0.9986421785243949,363839,150324,0.7142238594378307,0.36055325523371945,0.9986506307383562
